@@ -15,3 +15,7 @@ To help people finding a potential employer based on their situation, data From 
 1. Submitted and available in GitHub under https://github.com/lcardsvr/Project-1---Looking-for-work-
 
 
+## References
+
+1. Skills Priority List - National Skills Commission - Australian Government - Skills Priority List 2022.xlsx - https://www.nationalskillscommission.gov.au/topics/skills-priority-list
+
