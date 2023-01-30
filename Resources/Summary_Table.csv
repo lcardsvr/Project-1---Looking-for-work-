@@ -1,0 +1,70 @@
+﻿ANZSCO Code,Occupation Title,Main Industry,Top 3 companies in industry, Average Salary per year ,"NS - No Shortage
+S - Shortage
+R - Regional Shortage",,NSW,VIC,QLD,SA,WA,TAS,NT,ACT
+132511,Research and Development Manager,"Professional, scientific and technical services",Various," $115,000.00 ",S,Strong,S,S,S,S,S,S,S,S
+139914,Quality Assurance Manager,Health care and social assistance,Australian Government | CSL | HCA Healthcare Australia," $110,000.00 ",S,Strong,S,S,S,S,S,S,S,S
+233212,Geotechnical Engineer,Mining,BHP | RIO Tinto | FMG," $80,000.00 ",S,Strong,S,S,S,S,S,S,S,S
+233611,Mining Engineer (excluding Petroleum),Mining,BHP | RIO Tinto | FMG," $132,000.00 ",S,Strong,S,S,S,S,S,S,S,S
+233612,Petroleum Engineer,Oil and gas,Woodside Petroleum | Santos Ltd | Origin Energy," $139,000.00 ",S,Strong,S,S,S,S,S,S,S,S
+234912,Metallurgist,Mining,BHP | RIO Tinto | FMG," $115,000.00 ",S,Strong,S,S,S,S,S,S,S,S
+241111,Early Childhood (Pre-primary School) Teacher,Education and training,Various," $86,000.00 ",S,Strong,S,S,S,S,S,S,S,S
+254111,Midwife,Healthcare & Medical,Australian Government | CSL | HCA Healthcare Australia," $78,712.00 ",S,Strong,S,S,S,S,S,S,S,S
+254411,Nurse Practitioner,Healthcare & Medical,Australian Government | CSL | HCA Healthcare Australia," $80,000.00 ",S,Strong,S,S,S,S,S,S,S,S
+254412,Registered Nurse (Aged Care),Healthcare & Medical,Australian Government | CSL | HCA Healthcare Australia," $80,000.00 ",S,Strong,S,S,S,S,S,S,S,S
+254413,Registered Nurse (Child and Family Health),Healthcare & Medical,Australian Government | CSL | HCA Healthcare Australia," $83,000.00 ",S,Strong,S,S,S,S,S,S,S,S
+254414,Registered Nurse (Community Health),Healthcare & Medical,Australian Government | CSL | HCA Healthcare Australia," $95,000.00 ",S,Strong,S,S,S,S,S,S,S,S
+254415,Registered Nurse (Critical Care and Emergency),Healthcare & Medical,Australian Government | CSL | HCA Healthcare Australia," $93,000.00 ",S,Strong,S,S,S,S,S,S,S,S
+254416,Registered Nurse (Developmental Disability),Healthcare & Medical,Australian Government | CSL | HCA Healthcare Australia," $94,000.00 ",S,Strong,S,S,S,S,S,S,S,S
+254417,Registered Nurse (Disability and Rehabilitation),Healthcare & Medical,Australian Government | CSL | HCA Healthcare Australia," $93,000.00 ",S,Strong,S,S,S,S,S,S,S,S
+254418,Registered Nurse (Medical),Healthcare & Medical,Australian Government | CSL | HCA Healthcare Australia," $105,000.00 ",S,Strong,S,S,S,S,S,S,S,S
+254421,Registered Nurse (Medical Practice),Healthcare & Medical,Australian Government | CSL | HCA Healthcare Australia," $94,000.00 ",S,Strong,S,S,S,S,S,S,S,S
+254422,Registered Nurse (Mental Health),Healthcare & Medical,Australian Government | CSL | HCA Healthcare Australia," $98,000.00 ",S,Strong,S,S,S,S,S,S,S,S
+254423,Registered Nurse (Perioperative),Healthcare & Medical,Australian Government | CSL | HCA Healthcare Australia," $104,000.00 ",S,Strong,S,S,S,S,S,S,S,S
+254424,Registered Nurse (Surgical),Healthcare & Medical,Australian Government | CSL | HCA Healthcare Australia," $93,000.00 ",S,Strong,S,S,S,S,S,S,S,S
+254425,Registered Nurse (Paediatrics),Healthcare & Medical,Australian Government | CSL | HCA Healthcare Australia," $94,000.00 ",S,Strong,S,S,S,S,S,S,S,S
+254499,Registered Nurses nec,Healthcare & Medical,Australian Government | CSL | HCA Healthcare Australia," $83,000.00 ",S,Strong,S,S,S,S,S,S,S,S
+261112,Systems Analyst,computer systems design and related services,Hyperlink InfoSystem | Nash Tech | Overdose," $90,000.00 ",S,Strong,S,S,S,S,S,S,S,S
+261211,Multimedia Specialist,computer systems design and related services,Hyperlink InfoSystem | Nash Tech | Overdose," $75,628.00 ",S,Strong,S,S,S,S,S,S,S,S
+261212,Web Developer,computer systems design and related services,Hyperlink InfoSystem | Nash Tech | Overdose," $80,000.00 ",S,Strong,S,S,S,S,S,S,S,S
+261311,Analyst Programmer,computer systems design and related services,Hyperlink InfoSystem | Nash Tech | Overdose," $90,000.00 ",S,Strong,S,S,S,S,S,S,S,S
+261312,Developer Programmer,computer systems design and related services,Hyperlink InfoSystem | Nash Tech | Overdose," $75,000.00 ",S,Strong,S,S,S,S,S,S,S,S
+261313,Software Engineer,computer systems design and related services,Hyperlink InfoSystem | Nash Tech | Overdose," $108,100.00 ",S,Strong,S,S,S,S,S,S,S,S
+261314,Software Tester,computer systems design and related services,Hyperlink InfoSystem | Nash Tech | Overdose," $100,000.00 ",S,Strong,S,S,S,S,S,S,S,S
+261317,Penetration Tester,Technology & Seurity,Wilson Security | Unified Security Group | NPB Security," $80,000.00 ",S,Strong,S,S,S,S,S,S,S,S
+261399,Software and Applications Programmers nec,computer systems design and related services,Hyperlink InfoSystem | Nash Tech | Overdose," $100,000.00 ",S,Strong,S,S,S,S,S,S,S,S
+262111,Database Administrator,computer systems design and related services,Hyperlink InfoSystem | Nash Tech | Overdose," $98,250.00 ",S,Strong,S,S,S,S,S,S,S,S
+262114,Cyber Governance Risk and Compliance Specialist,Technology & Seurity,Framework Security | Atlasopen | CRT Network Solutions," $80,000.00 ",S,Strong,S,S,S,S,S,S,S,S
+262115,Cyber Security Advice and Assessment Specialist,Technology & Seurity,Framework Security | Atlasopen | CRT Network Solutions," $85,000.00 ",S,Strong,S,S,S,S,S,S,S,S
+262116,Cyber Security Analyst,Technology & Seurity,Framework Security | Atlasopen | CRT Network Solutions," $87,000.00 ",S,Strong,S,S,S,S,S,S,S,S
+262117,Cyber Security Architect,Technology & Seurity,Framework Security | Atlasopen | CRT Network Solutions," $150,000.00 ",S,Strong,S,S,S,S,S,S,S,S
+262118,Cyber Security Operations Coordinator,Technology & Seurity,Framework Security | Atlasopen | CRT Network Solutions," $108,480.00 ",S,Strong,S,S,S,S,S,S,S,S
+263111,Computer Network and Systems Engineer,computer systems design and related services,Hyperlink InfoSystem | Nash Tech | Overdose," $100,000.00 ",S,Strong,S,S,S,S,S,S,S,S
+263112,Network Administrator,computer systems design and related services,Hyperlink InfoSystem | Nash Tech | Overdose," $72,500.00 ",S,Strong,S,S,S,S,S,S,S,S
+263113,Network Analyst,"Professional, scientific and technical services",Hyperlink InfoSystem | Nash Tech | Overdose," $74,914.00 ",S,Strong,S,S,S,S,S,S,S,S
+263211,ICT Quality Assurance Engineer,"Professional, scientific and technical services",Hyperlink InfoSystem | Nash Tech | Overdose," $84,697.00 ",S,Strong,S,S,S,S,S,S,S,S
+263213,ICT Systems Test Engineer,"Professional, scientific and technical services",Hyperlink InfoSystem | Nash Tech | Overdose," $80,800.00 ",S,Strong,S,S,S,S,S,S,S,S
+312211,Civil Engineering Draftsperson,Construction,Lendlease | Downer | Cimic Group Ltd," $65,000.00 ",S,Strong,S,S,S,S,S,S,S,S
+312212,Civil Engineering Technician,Construction,Lendlease | Downer | Cimic Group Ltd," $105,000.00 ",S,Strong,S,S,S,S,S,S,S,S
+312511,Mechanical Engineering Draftsperson,"Professional, scientific and technical services",Various," $110,000.00 ",S,Strong,S,S,S,S,S,S,S,S
+312512,Mechanical Engineering Technician,"Professional, scientific and technical services",Various," $105,000.00 ",S,Strong,S,S,S,S,NS,S,S,S
+341111,Electrician (General),Construction,Lendlease | Downer | Cimic Group Ltd," $94,500.00 ",S,Strong,S,S,S,S,S,S,S,S
+341112,Electrician (Special Class),Construction,Lendlease | Downer | Cimic Group Ltd," $94,500.00 ",S,Strong,S,S,S,S,S,S,S,S
+361311,Veterinary Nurse,Animal Care and Management,Greencross Vets | National Veterinary Care," $51,000.00 ",S,Strong,S,S,S,S,S,S,S,S
+411411,Enrolled Nurse,Healthcare & Medical,Australian Government | CSL | HCA Healthcare Australia," $54,564.00 ",S,Strong,S,S,S,S,S,S,S,S
+411715,Residential Care Officer,Health care and social assistance,Australian Government | CSL | HCA Healthcare Australia," $80,000.00 ",S,Strong,S,S,S,S,S,S,S,S
+411716,Youth Worker,Health care and social assistance,Australian Government | CSL | HCA Healthcare Australia," $80,567.00 ",S,Strong,S,S,S,S,S,S,S,S
+421111,Child Care Worker,Health care and social assistance,Australian Government | CSL | HCA Healthcare Australia," $51,000.00 ",S,Strong,S,S,S,S,S,S,S,S
+423111,Aged or Disabled Carer,Aged Care or Disability sector,Allity Aged Care | Arcare Aged Care | BlueCross," $51,000.00 ",S,Strong,S,S,S,S,S,S,S,S
+423211,Dental Assistant,Health care and social assistance,Australian Government | CSL | HCA Healthcare Australia," $61,000.00 ",S,Strong,S,S,S,S,S,S,S,S
+442217,Security Officer,Public administration and safety,Various," $55,280.00 ",S,Strong,S,S,S,S,S,S,S,S
+451111,Beauty Therapist,Healthcare & Beauty,Colgate-Palmolive Company | Unilever PLC | L'Oréal S.A," $52,000.00 ",S,Strong,S,S,S,S,S,S,S,S
+511111,Contract Administrator,Construction,Lendlease | Downer | Cimic Group Ltd," $100,000.00 ",S,Strong,S,S,S,S,NS,S,S,S
+511112,Program or Project Administrator,Public administration and safety,Various," $69,000.00 ",S,Strong,S,S,S,S,NS,S,S,S
+599111,Conveyancer,"Professional, scientific and technical services",Various," $58,538.00 ",S,Strong,S,S,S,S,NS,S,S,S
+711514,Plastics Production Machine Operator (General),Manufacturing,Various," $65,000.00 ",S,Strong,S,S,S,S,NS,S,S,S
+712211,Driller,Mining,BHP | RIO Tinto | FMG," $92,199.00 ",S,Strong,S,S,S,S,S,S,S,S
+712212,Miner,Mining,BHP | RIO Tinto | FMG," $120,675.00 ",S,Strong,S,S,S,S,S,S,S,S
+821412,Home Improvement Installer,Construction,Lendlease | Downer | Cimic Group Ltd," $87,000.00 ",S,Strong,S,S,S,S,NS,S,S,S
+831211,Meat Boner and Slicer,Food processing and manufacturing,Fonterra | JBS Australia | Coca - Cola Amatil," $70,000.00 ",S,Strong,S,S,S,S,NS,S,S,S
+831212,Slaughterer,Food processing and manufacturing,Fonterra | JBS Australia | Coca - Cola Amatil," $62,000.00 ",S,Strong,S,S,S,S,NS,S,S,S
+,66,,,,,,,,,,,,,
