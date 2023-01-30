@@ -55,3 +55,22 @@ For some occupations, a lack of evidence overall will, by default, result in an 
 
 1. Skills Priority List - National Skills Commission - Australian Government - Skills Priority List 2022.xlsx - https://www.nationalskillscommission.gov.au/topics/skills-priority-list
 
+2. 1220.0 - ANZSCO -- Australian and New Zealand Standard Classification of Occupations, 2013, Version 1.3  - https://www.abs.gov.au/AUSSTATS/abs@.nsf/DetailsPage/1220.02013,%20Version%201.3?OpenDocument
+    Data cubes used - ANZSCO Version 1.3 - Structure, 12200 ANZSCO Version 1.3 Index of principal titles, alternative titles and specialisations 
+
+3. Glassdoor Job Reviews - A large dataset of job reviews with textual features and numerical targets https://www.kaggle.com/datasets/davidgauthier/glassdoor-job-reviews (glassdoor_reviews.csv)
+
+4. Salaries and Job Postings by Company in Australia - Uncovering Industry Trends and Analyzing Companies’ Salary Structures - https://www.kaggle.com/datasets/thedevastator/analyzing-the-salaries-and-job-postings-in-austr (seek_australia.csv)
+
+5. Salaries taken from https://www.glassdoor.com.au/Salaries/
+
+6. Industries and top companies: https://blog.iseekplant.com.au/blog/australias-top-100-construction-firms
+    https://www.subsea.org/list-of-oil-and-gas-companies-in-australia/
+    https://www.outlookindia.com/outlook-spotlight/top-software-development-companies-in-australia-2023-news-239010
+    https://www.statista.com/statistics/1181152/australia-top-food-and-drink-businesses-by-revenue/
+    https://clutch.co/au/it-services/cybersecurity
+    https://blog.facilitybot.co/blog/top-security-companies-au/
+
+
+7. Internet Vacancy Index - https://www.jobsandskills.gov.au/work/internet-vacancy-index - 
+IVI_DATA Detailed Occupation - March 2006 onwards

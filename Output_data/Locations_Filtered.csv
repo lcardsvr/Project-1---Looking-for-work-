@@ -1,104 +1,2379 @@
 ,location
+"San Francisco, CA",7371
+"Redmond, WA",6812
+"Toronto, ON",6752
+"Atlanta, GA",4200
+"Washington, DC",3480
+"Seattle, WA",3375
+"Mountain View, CA",2967
+"San Jose, CA",2215
+"Salt Lake City, UT",1518
+"Montreal, QC",1515
+"Cardiff, Wales, Wales",1514
+"Coventry, England, England",1320
+"San Antonio, TX",1212
+"San Diego, CA",1150
+Warsaw,1027
+"Saint Louis, MO",1013
+"Bellevue, WA",915
+"Pleasanton, CA",649
+"Santa Clara, CA",609
+"Mississauga, ON",586
+"Ottawa, ON",582
+"Kansas City, MO",483
+"Manchester City Centre, England, England",476
+"Walldorf, Baden-Wurttemberg, Baden-Wurttemberg",460
 "Perth, Western Australia, Western Australia",452
+"Newark, DE",438
+"Warrington, North West England, England, England",433
+"Sacramento, CA",414
+"Stoke-on-Trent, England, England",394
+Santiago,381
+"Swansea, Wales, Wales",380
+"Milwaukee, WI",373
+"Edmonton, AB",362
+"Watford, East of England, England, England",362
+Galway,347
+"San Jose, San Jose, San Jose",305
+Thiruvananthapuram,292
+"Costa Mesa, CA",245
+"Santa Monica, CA",234
+"Salford, North West England, England, England",224
+"Newport, Newport, Wales, Wales",212
+"Newark, NJ",207
+"Tulsa, OK",202
+"Waltham, MA",201
+Visakhapatnam,199
+"Brentford, England, England",180
+"Salisbury, England, England",179
+"Warwick, West Midlands, England, England",177
+"Wakefield, England, England",173
+"San Mateo, CA",171
+"South San Francisco, CA",167
+"Canterbury, England, England",150
+"Taunton, England, England",149
+"Montvale, NJ",146
+"Iowa City, IA",144
+"Wrexham, Wales, Wales",144
+"Waterloo, ON",142
+"Warren, NJ",130
+"Spokane, WA",128
+Saint Petersburg,122
+"Huntingdon, England, England",122
+Central,121
+"Ashford, Kent, South East England, England, England",110
+"Kirkland, WA",109
+Casablanca,108
+"Saint Albans, England, England",106
+"San Juan, PR",106
+"Saint Petersburg, FL",102
+"Havant, England, England",100
+"Tacoma, WA",96
 "Victoria, BC",96
+"Plantation, FL",89
+"Fort Wayne, IN",88
+"Walsall, England, England",87
+"Fremont, CA",87
+"New Brunswick, NJ",86
+"Norwalk, CT",83
+"Monterrey, Nuevo León, Nuevo León",81
+"Saint Paul, MN",80
+"Winston-Salem, NC",80
+"San Ramon, CA",79
+"Mettawa, IL",74
+"Scunthorpe, England, England",72
+"Mahwah, NJ",71
+"Mesa, AZ",71
+"Savannah, GA",69
+"Cheshunt, England, England",68
+"Wentzville, MO",68
+"Santa Ana, CA",68
+"Upper Saddle River, NJ",67
+"Newark on Trent, England, England",67
+"Pasadena, CA",63
+"Huntsville, AL",63
+"Ontario, CA",62
+"Saskatoon, SK",61
+Kuwait City,60
+"Saint Helens, West Midlands, England, England",60
+"Acton, London, England, England",59
+"Centennial, CO",57
+"Walnut Creek, CA",56
+"Vancouver, WA",56
+"Belo Horizonte, Minas Gerais, Minas Gerais",56
+"Brentwood, England, England",56
+"Santa Barbara, CA",55
+"Ware, England, England",55
+"Clearwater, FL",53
+"Salinas, CA",52
+Thessaloníki,52
+"Chesapeake, VA",51
+"Huntington Beach, CA",51
+Montevideo,50
+"Dar es Salaam, Dar es Salaam, Dar es Salaam",50
+"Powai, Maharashtra, Maharashtra",49
+"Allentown, PA",49
+"Kansas City, KS",49
+"Aventura, FL",49
+Ḩawallī,48
+"Issaquah, WA",48
+"Bangor, Gwynedd, Wales, Wales",48
+Santo Domingo,48
+"Pensacola, FL",46
+"Flint, MI",46
+"Sandy, UT",46
+"San Bernardino, CA",42
+"Bridgewater, NJ",41
+"Teesside County Borough, England, England",41
+"North Acton, England, England",40
+"Bridgend, Wales, Wales",39
+"Santa Clarita, CA",39
+Bhubaneshwar,39
+"Denton, TX",38
+"North Toronto, ON",38
+"Piscataway, NJ",38
+"Zaventem, Flemish Brabant",37
+"Wandsworth, England, England",37
+"Sarasota, FL",37
 "Victoria, England, England",37
+"Kent, WA",37
+"San Bruno, CA",37
+"Lusaka, Lusaka, Lusaka",37
+Tashkent,37
+"Grantham, England, England",36
+"Lausanne, Vaud",36
+"Christchurch, Canterbury",36
+"South Elmsall, England, England",35
+"Belmont, CA",35
+"Morgantown, WV",35
+"Wavre, Walloon Brabant",35
+"Aberystwyth, Wales, Wales",35
+"Haywards Heath, England, England",35
+"Cwmbran, Wales, Wales",34
+"Mount Laurel, NJ",34
+Waterford,34
+"North Watford, England, England",34
+"San Francisco, Heredia, Heredia",33
+"Salem, NH",33
+"Braintree, England, England",33
+"Southwark, England, England",33
+"Caerphilly, Wales, Wales",33
+"Bentonville, AR",33
+"Montgomery, AL",33
+"Daventry, England, England",33
+"Renton, WA",33
+"Burton upon Trent, England, England",32
+"Salem, OR",32
+"Antrim, Northern Ireland, Northern Ireland",32
+"Covent Garden, England, England",31
+"Santa Rosa, CA",31
+"Antwerp, Antwerp",31
+"Fontana, CA",31
+"Saint Austell, England, England",31
+"Waukesha, WI",31
+"Wayne, NJ",31
+"Wath upon Dearne, England, England",31
+Nassau,30
+"Saratoga Springs, NY",30
+"Waterlooville, England, England",30
+"Bridgwater, England, England",30
+"Saint John, NB",30
+Sandton,30
+"Rhyl, Wales, Wales",29
+"Llandudno, Wales, Wales",29
+"Clacton-on-Sea, England, England",29
+"El Salto, Jalisco, Jalisco",28
+"Kennesaw, GA",28
+"Llanelli, Wales, Wales",27
+"Sammamish, WA",27
+"Braintree, MA",27
+"Bothell, WA",27
+"Bellingham, WA",27
+"Lynnwood, WA",26
+"Diegem, Flemish Brabant",26
+"West Seattle, WA",26
+"Pontefract, England, England",26
+"Waco, TX",26
+Vicente López,26
+Guwahati,26
+"Medellín, Antioquia, Antioquia",26
+"Hayward, CA",26
+"Washington, North East England, England, England",26
+South Twenty Four Parganas,25
+Sarajevo,25
+"Mishawaka, IN",25
+"Milpitas, CA",25
+"Warren, MI",25
+"Rosemont, IL",25
+"Canton, OH",25
+"Carpinteria, CA",24
+"Merthyr Tydfil, Wales, Wales",24
+"Oshawa, ON",24
+"Chantilly, VA",24
+"Ypsilanti, MI",24
+Jerusalem,24
+"High Point, NC",24
+"Clinton Township, MI",23
+"Barry, Wales, Wales",23
+"Monterey, CA",23
+"Beaumont, TX",23
+"Saginaw, MI",23
+"Ventura, CA",22
+"Hamilton, Waikato",22
+"Sandhurst, Hampshire, South East England, England, England",21
+"San Luis Obispo, CA",21
+"Carmarthen, Wales, Wales",21
+"Canton, MI",21
+"Haverfordwest, Wales, Wales",20
+Damansara,20
+"Sale, England, England",20
+"Toronto, PE",20
+"Century City, CA",20
+"West Sacramento, CA",20
+"Warminster, England, England",20
+"Biggleswade, England, England",20
+"Watford, East Midlands, England, England",19
+"Mount Pleasant, SC",19
+"Longmont, CO",19
+North Twenty Four Parganas,19
+"Rickmansworth, England, England",19
+"Olympia, WA",19
+Wan Chai,19
+"Victorville, CA",19
+"Suwanee, GA",19
+"Everett, WA",19
+"Kuching, Sarawak, Sarawak",19
+"Ōsaka, Osaka, Osaka",19
+"Sarnia, ON",19
+"Walton-on-Thames, England, England",18
+"San Carlos, CA",18
+"Tukwila, WA",18
+"Santa Fe, NM",18
+"Waukegan, IL",18
+"Prestatyn, Wales, Wales",18
+"Thousand Oaks, CA",18
+"Chepstow, Wales, Wales",18
+"Manassas, VA",18
+"Santa Cruz, CA",17
+"Saint Cloud, MN",17
+"Federal Way, WA",17
+"Visalia, CA",17
+"Puyallup, WA",17
+"Walthamstow, England, England",16
+"Paignton, England, England",16
+"Waterloo, Walloon Brabant",16
+"Scranton, PA",16
+"Wayne, PA",16
+"Sanford, FL",16
+"Salvador, Bahia, Bahia",16
+"Tuscaloosa, AL",16
+"Normanton, Yorkshire and the Humber, England, England",16
+"Winter Park, FL",16
+"Bradenton, FL",15
+"Huntington, WV",15
+"Conway, AR",15
+"San Marcos, TX",15
+"Saint Peters, MO",15
+Blantyre,15
+"East Brunswick, NJ",15
+"Saint Charles, MO",15
+"Neath, Wales, Wales",15
+San Salvador,15
+"Pontypridd, Wales, Wales",15
+"Llantrisant, Rhondda Cynon Taff, Wales, Wales",14
+"Newark, CA",14
+Sant Cugat del Vallès,14
+"Huntington, NY",14
+"Yakima, WA",14
+Hinjewadi,14
+"Pasadena, TX",14
+"Pullman, WA",14
+"Fort Washington, PA",14
+"Warner Robins, GA",14
+"Abuja, Federal Capital Territory, Federal Capital Territory",14
+"Brantford, ON",14
+"Trenton, NJ",14
+"Aberdare, Wales, Wales",14
+"Germantown, MD",13
+"Rockaway, NJ",13
+"Canton, MS",13
+"Brunswick, GA",13
+"Sandy, England, England",13
+Rāwalpindi,13
+"Atlantic City, NJ",13
+"North Atlanta, GA",13
+"Delaware, OH",13
+"Mentor, OH",13
+"Saint Louis Park, MN",13
+"Victor, NY",13
+Zola Predosa,13
+Pyrmont,12
+"Norwalk, CA",12
+"Newtown, Wales, Wales",12
+Saint Helier,12
+"Wallsend, England, England",12
+"Watertown, NY",12
+"Ghent, East Flanders",12
+"Clermont, FL",12
+"Saint Augustine, FL",12
+"Wauwatosa, WI",12
+Saggart,12
+"Saint Andrews, Scotland, Scotland",11
+"Odessa, TX",11
+"Mount Pleasant, MI",11
+"Saint Joseph, MO",11
+"Encinitas, CA",11
+"San Clemente, CA",11
+"Wallington, London, England, England",11
+"Swadlincote, England, England",11
+"Midtown Toronto, ON",11
+"Pontypool, Wales, Wales",11
+Sandyford,11
+Muntinlupa,11
+"Swanley, England, England",11
+"Chippewa Falls, WI",11
+Tsuen Wan,11
+"Walnut, CA",11
+"Waldorf, Rhineland-Palatinate, Rhineland-Palatinate",11
+"Port Saint Lucie, FL",11
+"Wallingford, England, England",11
+"Nantwich, England, England",11
+"Aintree, England, England",11
+"Hackensack, NJ",11
+"Stone Mountain, GA",11
+Amritsar,10
+"Toronto, OH",10
+"Germantown, TN",10
+Porto Salvo,10
+"Colwyn Bay, Wales, Wales",10
+"Montgomery, TX",10
+"Waldorf, MD",10
+"Wallasey, England, England",10
+"Warsaw, IN",10
+"Thornton, CO",10
+"Llandudno Junction, Wales, Wales",10
+"Stillwater, OK",10
+"Mount Vernon, IN",10
+"Winter Haven, FL",10
+"Warrensburg, MO",10
+"Den Bosch, North Brabant, North Brabant",10
+Denpasar,10
+"Westmont, IL",10
+Kuwait,10
+"Salem, Tamil Nadu, Tamil Nadu",10
+"Port Talbot, Wales, Wales",10
+"Auburn, WA",10
+"Ebbw Vale, Wales, Wales",10
+"Manteca, CA",10
+"Saint Petersburg Beach, FL",10
+"Waterbury, CT",10
+"Saint Neots, England, England",10
+"Edgware, England, England",10
+Peshāwar,9
+"Newark, OH",9
+"Atlanta, TX",9
+"Caernarfon, Wales, Wales",9
+"Marysville, WA",9
+"Holyhead, Wales, Wales",9
+"Salisbury, NC",9
+"Warrington, South East England, England, England",9
+"Warren, OH",9
+"Saddle Brook, NJ",9
+"Fort Walton Beach, FL",9
+"Edwardsville, IL",9
+"El Monte, CA",9
+"North Salt Lake, UT",9
+"Olsztyn, Warmia-Masuria, Warmia-Masuria",9
+"Saffron Walden, England, England",9
+"Londonderry County Borough, Northern Ireland, Northern Ireland",9
+"Blackwood, Wales, Wales",9
+"Brentwood, TN",9
+"Wailea, HI",9
+"South Seattle, WA",9
+"Cornwall, ON",9
+"Huntsville, TX",9
+"Florissant, MO",9
+"Richland, WA",9
+"Bremerton, WA",9
+"Winter Garden, FL",8
+"Stevens Point, WI",8
+"Placentia, CA",8
+"Warwick, RI",8
+Kuantan,8
+"Longbenton, England, England",8
+"Mount Vernon, NY",8
+Montpellier,8
+"Opelousas, LA",8
+"Wantagh, NY",8
+"Dungarvan, Waterford, Waterford",8
+"La Mesa, CA",8
+"Lacey, WA",8
+"Claremont, CA",8
+"Kennewick, WA",8
+"Sandusky, OH",8
+"Clinton, MD",8
+"Montville, NJ",8
+"Oneonta, NY",8
+"Saxonburg, PA",8
+"Waltham Cross, England, England",8
+"Lewis Center, OH",8
+"Boynton Beach, FL",8
+"Dana Point, CA",8
+"Clintwood, VA",8
+"Casa Grande, AZ",8
+"Kent, OH",8
+"Waikïkï, HI",8
+"Rocky Mount, NC",8
+"Walkden, England, England",8
+"Waynesboro, VA",8
+"Sandbach, England, England",8
+"Brent, England, England",8
+Salalah,8
+"Dingwall, Scotland, Scotland",8
+"Montrose, Scotland, Scotland",8
+"Edmonton, England, England",8
+Bukowno Warszawa,8
+"Nassau, NY",8
+"Magor, Wales, Wales",8
+"Wavertree, England, England",8
+"Rockwall, TX",8
+"Woodinville, WA",8
+"Fountain Valley, CA",7
+"Sault Ste. Marie, ON",7
+"San Francisco, San Jose, San Jose",7
 Victoria,7
-"Victoria, TX",5
-"Olympic Park, New South Wales",5
-"Campbelltown, New South Wales, New South Wales",5
+"South Milwaukee, WI",7
+"New Bedfont, England, England",7
+"North Canton, OH",7
+"Altamonte Springs, FL",7
+"Brossard, QC",7
+"Santa Rosa, Laguna, Laguna",7
+"Spokane Valley, Spokane, WA, Optional[WA]",7
+"San Pedro, Laguna, Laguna",7
+"Saint Ives, East of England, England, England",7
+"Chilliwack, BC",7
+"Maple Valley, WA",7
+"Lakewood, WA",7
+"Huntingdon and Peterborough, England, England",7
+"Florianópolis, Santa Catarina, Santa Catarina",7
+SAS Nagar,7
+"Mold, Wales, Wales",7
+"San Marcos, CA",7
+"Swinton, North West England, England, England",7
+"Clearwater Beach, FL",7
+"Chatham-Kent, ON",7
+"Brunswick, OH",7
+"Mount Airy, NC",7
+"Thornton Heath, England, England",7
+"Flint, Wales, Wales",7
+"Rosario, Santa Fe, Santa Fe",7
+"SeaTac, WA",7
+"Belfast City Centre, Northern Ireland, Northern Ireland",7
+"San Pedro, CA",7
+Jakarta Pusat,7
+"Grants Pass, OR",7
+"Warlingham, England, England",7
+"Spanaway, WA",7
+"Brecon, Wales, Wales",7
+"Winter Springs, FL",7
+"Poway, CA",7
+"Waterford, MI",7
+"Pontiac, MI",7
+"San Gabriel, CA",7
+"San Rafael, CA",7
+"Pleasant Hill, CA",7
+"Saint Cloud, FL",7
+"Saint Albert, AB",7
+"Tauranga, Bay of Plenty",7
+"Sandy Springs, Fulton, GA, Optional[GA]",7
+"New Toronto, ON",7
+"Kladno, Central Bohemian, Central Bohemian",6
+"Saint Thomas, VI",6
+Tseung Kwan O,6
+"Robina, Queensland",6
+Causeway Bay,6
+"Plant City, FL",6
+Sheung Wan,6
+"Taunton, MA",6
+"Brentwood, CA",6
+"Antioch, CA",6
+Downtown Core,6
+"Wakefield, MA",6
+"Brentwood, NY",6
+"El Centro, CA",6
+"Bellefontaine, OH",6
+"Waltham Abbey, England, England",6
+Cainta,6
+"Mount Clemens, MI",6
+"High Blantyre, Scotland, Scotland",6
+"Carpentersville, IL",6
+"New Century, KS",6
+"Ewa Beach, HI",6
+"Centreville, VA",6
+"Gwalior, Madhya Pradesh, Madhya Pradesh",6
+"La Quinta, CA",6
+"Rhondda, Wales, Wales",6
+Mombasa,6
+"Bromont, QC",6
+"Waycross, GA",6
+"San Angelo, TX",6
+"Watton, East of England, England, England",6
+"Tumwater, WA",6
+"Clementi New Town, ",6
+Wagga Wagga,6
+"Warrenville, IL",6
+"Monroe, WA",6
+"Itasca, IL",6
+"Seattle Heights, WA",6
+Kfar Saba,6
+"San Francisco, NM",6
+"Crown Point, IN",6
+"Rancho Santa Margarita, CA",6
+"Abergavenny, Wales, Wales",6
+"Edmonds, WA",6
+"Canyon Country, CA",6
+"Ponte Vedra Beach, FL",6
+"Saint Pete, FL",6
+"Bridgewater, MA",6
+"Waterloo, IA",6
+"Risca, Wales, Wales",6
+"Mississauga Valley, ON",6
+"Fremont, NE",6
+Clontarf,6
+"San Leandro, CA",6
+"Santa Maria, CA",6
+"Saint Charles, IL",6
+"Moses Lake, WA",6
+Mewat,6
+"Bensalem, PA",6
+"Llandrindod Wells, Wales, Wales",6
+Nantes,5
+"North Kansas City, MO",5
+Salt Lake City,5
+"Mountain Home, AR",5
+"North Brunswick, NJ",5
+"San Pablo, CA",5
+"Pennsauken, NJ",5
+"Saint Thomas, ON",5
+"Sanford, NC",5
+"Saint Leonards-on-Sea, England, England",5
+"Portstewart, Northern Ireland, Northern Ireland",5
+"Salem, MA",5
+"Lower Holloway, England, England",5
+"Sandwell, England, England",5
+"Mill Creek, WA",5
+"Linthicum, MD",5
+"Wattisham, England, England",5
+"Montebello, CA",5
+Petaẖ Tiqwa,5
+"Salisbury, MD",5
+"Battle Ground, WA",5
+"Shoreline, WA",5
+"Vasai, Maharashtra, Maharashtra",5
+"Mukilteo, WA",5
+"Rockville Centre, NY",5
+"Watsonville, CA",5
+"Wadebridge, England, England",5
+"Wausau, WI",5
+Glen Waverley,5
+"Wallisellen, Zürich",5
+"Fenton, MI",5
+"Fenton, MO",5
 "West Pennant Hills, New South Wales",5
+"Milton, WA",5
+"Mount Dora, FL",5
+"Elephant & Castle, England, England",5
+"Lake Saint Louis, MO",5
+"University Center, MI",5
+"Wappingers Falls, NY",5
+"Kenton, London, England, England",5
+"Montclair, NJ",5
+Bandar Seri Begawan,5
+"Saltney, Wales, Wales",5
+"Fort Stewart, GA",5
+"Upper Holloway, England, England",5
+"Broughton, Wales, Wales",5
+"Mountain Ash, Wales, Wales",5
+Odesa,5
+"Rahway, NJ",5
+"Chesaning, MI",5
+"Rocky Mount, VA",5
+"Victoria, TX",5
+"Kentish Town, England, England",5
+"Cheektowaga, NY",5
+"Owasso, OK",5
+"Mountain View, Buncombe, NC, Optional[NC]",5
+"Newcastle, WA",5
+"Campbelltown, New South Wales, New South Wales",5
+"Wenatchee, WA",5
+"Montevallo, AL",5
+"Salina, KS",5
+"Wake Forest, NC",5
+"University Place, WA",5
+"Huntingdon, PA",5
+"Canton, GA",5
+"San Fernando, CA",5
+"Kirkwall, Scotland, Scotland",5
+"Olympic Park, New South Wales",5
+"Atlantic Beach, FL, Optional[FL]",5
+"Bountiful, UT",5
+"Warrendale, PA",5
+"Poynton, England, England",5
+"Porthmadog, Wales, Wales",5
+"Asuncion, Central, Central",5
+"Pembroke, Wales, Wales",5
+"Montréal, QC",5
+"Ammanford, Wales, Wales",5
+"Snoqualmie, WA",5
+"Wantage, England, England",5
+"Montgomery, IL",5
+"Oak Harbor, WA",5
+Bhetasi Ba Bhag,5
+"Welshpool, Wales, Wales",5
+"Washington, MO",5
+"Denton, North West England, England, England",5
+"San Dimas, CA",5
+Saket,5
+Wantirna,4
+Markt Taschendorf,4
+"Saint George, UT",4
+San Miguel de Tucumán,4
+"Āsansol, West Bengal, West Bengal",4
+"Lighthouse Point, Broward, FL, Optional[FL]",4
+"Northeast Center, NY",4
+"Oxley, Queensland, Queensland",4
+"Punta Gorda, FL",4
+"Walton upon Thames, England, England",4
+Bursa,4
+"Ottawa, IL",4
+"Pewaukee, WI",4
+"Tinton Falls, NJ",4
+"Rancho San Diego, CA",4
+Tin Shui Wai,4
+"Walla Walla, WA",4
+"Pointe-Claire, QC",4
+"Sakai, Osaka, Osaka",4
+"Washington, PA",4
+"Rixensart, Walloon Brabant",4
+"Odenton, MD",4
+"West Bedfont, England, England",4
+"Rogerstone, Wales, Wales",4
+"Sandy Hook, CT",4
+"Belmont, MA",4
+Antalya,4
+"Queensferry, Wales, Wales",4
+"Stornoway, Scotland, Scotland",4
+"New Kent, VA",4
+"Warwick, North West England, England, England",4
+"Saint Catharines, ON",4
+"Quantico, VA",4
+"Alamosa, CO",4
+"Monmouth, Wales, Wales",4
+"Arlington, WA",4
+"Saltburn-by-the-Sea, England, England",4
+Bayswater,4
+"Arkansas City, KS",4
+"Sandestin, FL",4
+"Clinton, IA",4
+"Faisalābād, Punjab, Punjab",4
+"Saratoga, CA",4
+Warangal,4
+"El Sobrante, CA",4
+"Paramount, CA",4
+"Front Royal, VA",4
+"Walled Lake, MI",4
+Saarbrücken,4
+"South Salt Lake, UT",4
+"Caldicot, Wales, Wales",4
+"San Juan Capistrano, CA",4
+"Calabasas, CA",4
+"Wolstanton, England, England",4
+"Waterville, ME",4
+"Centerville, OH",4
+"Huntersville, NC",4
+Voluntari,4
+"Nelson, Tasman",4
+"Santo André, São Paulo, São Paulo",4
+Santa Cruz de Tenerife,4
 "Cremorne, New South Wales, New South Wales",4
-"Cheltenham, Victoria, Victoria",4
+Osasco,4
+"Fort Saskatchewan, AB",4
+"Corinth, TX",4
+"Saint-Hyacinthe, QC",4
+Alicante,4
+"Bluewater, AZ",4
 "Eltham, Victoria, Victoria",4
+"Duvall, WA",4
+"Cheltenham, Victoria, Victoria",4
+"Watertown, MA",4
+"Mount Prospect, IL",4
+"Elmont, NY",4
+"Saint Joseph, MI",4
+"Saltash, England, England",4
+"Kumasi, Ashanti, Ashanti",4
+"Santee, CA",4
+"Leuven, Flemish Brabant",4
+"Mount Vernon, WA",4
 "Burwood, New South Wales, New South Wales",4
-"Braddon, Australian Capital Territory",3
-"Croydon, Victoria, Victoria",3
+"Trenton, ON",4
+"Staunton, VA",4
+"Ottumwa, IA",4
+"Wincanton, England, England",4
+Jolimont,4
+"Mount Pleasant, England, England",4
+"Sweetwater, TX",4
+Unterschleißheim,4
+"North Cornelly, Wales, Wales",4
+Taren Point,4
+Viçosa do Ceará,4
+"Porthcawl, Wales, Wales",4
+"Pembroke Dock, Wales, Wales",4
+"Morgantown, PA",4
+"San Antonio, FL",4
+"Mount Airy, MD",4
+Guntūr,4
+"Mount Juliet, TN",4
+"Washington Court House, OH",4
+"Far Rockaway, NY",4
+"Covington, WA",4
+"Connahs Quay, Wales, Wales",4
+Antananarivo,4
+"Porth, Wales, Wales",4
+"Wasilla, AK",4
+"Pensacola Beach, FL",4
+"Silverdale, WA",4
+"Cheney, WA",4
+"Uppsala, Uppsala, Uppsala",3
+Warszawice,3
+"South San Jose Hills, CA",3
+"Swartz Creek, MI",3
+"Union Gap, WA",3
+"Enterprise, AL",3
+Powa,3
+"Sandy Springs, GA",3
+"Nantgarw, Wales, Wales",3
+"Waite Park, MN",3
+"San Fernando, Pampanga, Pampanga",3
+"Odessa, FL",3
+"Sachse, TX",3
+Baleshwar,3
+"Fontwell, England, England",3
+"Salo, Western Finland, Western Finland",3
+"Tsawwassen, BC",3
+"Downtown Crossing, MA",3
+"Stanway, England, England",3
+"Liberty Lake, WA",3
+"Saltcoats, Scotland, Scotland",3
+"Wareham, England, England",3
+"North Sacramento, CA",3
+"Shelton, WA",3
+"Mount Arlington, NJ",3
+"Bonney Lake, WA",3
 "Burwood, Victoria, Victoria",3
+"Sandown, England, England",3
+"Warminster, PA",3
+"San Lorenzo, CA",3
+"Walpole, MA",3
+"Washington, IL",3
+"Huntington Station, NY",3
+"Salem, VA",3
+"Walker, LA",3
+"Lake Stevens, WA",3
+"Linthicum Heights, MD",3
+"Azusa, CA",3
+"Penarth, Wales, Wales",3
+"East Point, GA",3
+"Fountain Hills, AZ",3
+"Pleasantville, NY",3
+"Montréal-Est, QC",3
+"Little Chalfont, England, England",3
+"Ponte Vedra, FL",3
+"Llanishen, Cardiff, Wales, Wales",3
+"Merthyr, Wales, Wales",3
+"Makati, Mindoro Occidental, Mindoro Occidental",3
+"Frontenac, MO",3
+"West Point, PA",3
+"Saltford, England, England",3
+Novi Sad,3
+"Mount Morris, MI",3
+"Mechelen, Antwerpen",3
+"Wallingford, CT",3
+"Wauconda, IL",3
+"North Wales, PA",3
+"Sanger, TX",3
+"Lemont, IL",3
+"Braddon, Australian Capital Territory",3
+"Alsager, England, England",3
+"Watertown, SD",3
+"Winterthur, Zürich",3
+"Canton, NY",3
+"Walnut Ridge, AR",3
+"Waynesville, MO",3
+"Massapequa, NY",3
+"Seat Pleasant, MD",3
+"Pataskala, OH",3
+"La Puente, CA",3
+"Claremont, NH",3
+"Almont, MI",3
+"Warrenton, VA",3
+Santry,3
+"Canton, TX",3
 "Perth, Tasmania, Tasmania",3
-"Mount Barker, South Australia, South Australia",3
+Nunawading,3
 "Moorebank, New South Wales",3
-"Bayswater North, Victoria",3
+"Patchway, England, England",3
+"Manteno, IL",3
+"Saint Albans, VT",3
+"Eagle Mountain, UT",3
+"Central, TX",3
+"Saxmundham, England, England",3
+"Pleasanton, TX",3
+"Huntington, IN",3
+"Edgewater, NJ",3
+"Bryant, AR",3
+"Piedmont, SC",3
+Fontainebleau,3
+"Pasay, Pasay, Pasay",3
+"Clinton, CT",3
+"Saint Johns, FL",3
+"Burien, WA",3
+"North Tonawanda, NY",3
+"Corinth, MS",3
+"Mount Barker, South Australia, South Australia",3
+"Monticello, IN",3
+"Treforest, Wales, Wales",3
+"Criciúma, Santa Catarina, Santa Catarina",3
+"San Jacinto, CA",3
+"Milford Haven, Wales, Wales",3
+"Salmon Arm, BC",3
+Minto,3
+"Benton, AR",3
+"Claymont, DE",3
+"Santa Fe Springs, Los Angeles, CA, Optional[CA]",3
+Noosaville,3
+"Burlington, WA",3
+"Port Saint Joe, FL",3
+"Louvain-la-Neuve, Walloon Brabant",3
+"Sayre, PA",3
+"South Cornelly, Wales, Wales",3
+"Salyersville, KY",3
+"Agawam, MA",3
+"Hammonton, NJ",3
+"Painted Post, NY",3
+"Saint Albans, NY",3
+"Saukville, WI",3
+"Abergele, Wales, Wales",3
+Kinshasa,3
+"Linton, IN",3
+Polokwane,3
+"Kewanee, IL",3
+San Nicolás de los Garza,3
+"Pagosa Springs, CO",3
+"Galloway, NJ",3
+"Canton, MA",3
+"Sausalito, CA",3
+"Washington, NC",3
+"Polmont, Scotland, Scotland",3
+San Fernando,3
+"Nusa Dua, Bali, Bali",3
+"Larchmont, NY",3
+"Montrose, CO",3
+"Mount Vernon, IL",3
+"Whitewater, WI",3
+"Brooklyn Center, MN",3
+"Lackawanna, NY",3
+"Blackwater, Hampshire, South East England, England, England",3
+"Cantonment, FL",3
+"Ritzville, WA",3
+"Rosemount, MN",3
+Walvis Bay,3
+"Toronto, KS",3
+"Pontotoc, MS",3
+Santiago de Compostela,3
+"Swansea, MA",3
+Brunswick,3
+"Clarence Center, NY",3
+"Tenterden, England, England",3
+"Saint-Ouen, Ile-de-France, Ile-de-France",3
 "Broadmeadows, Victoria, Victoria",3
-"High Wycombe, Western Australia",2
-"Rosehill, New South Wales, New South Wales",2
-"Wetherill Park, New South Wales",2
-"Saint Kilda, South Australia, South Australia",2
-"Stanmore, New South Wales, New South Wales",2
-"Sunshine North, Victoria",2
-"Epping, Victoria, Victoria",2
-"Clayton South, Victoria",2
-"Cremorne, Victoria, Victoria",2
-"Laverton, Victoria, Victoria",2
-"Taylors Lakes, Victoria",2
-"Altona North, Victoria",2
-"Five Dock, New South Wales",2
-"Deer Park, Victoria, Victoria",2
-"North Rocks, New South Wales",2
-"Ringwood, Victoria, Victoria",2
-"Saint Marys, New South Wales, New South Wales",2
-"Australia Landing, MS",2
-"Werribee, Victoria, Victoria",2
-"Kew, Victoria, Victoria",2
-"Pascoe Vale, Victoria",2
+Bhiwandi,3
+"Penticton, BC",3
+"Southeast Owasco, NY",3
+"Camas, WA",3
+"Sanger, CA",3
+"Kenmore, WA",3
+"Denton, MD",3
+"Ampang, Selangor Darul Ehsan, Selangor Darul Ehsan",3
+"Twentynine Palms, CA",3
+"Gladstone, Queensland, Queensland",3
+"Crescent City, CA",3
+"Bayswater North, Victoria",3
+"Mount Kisco, NY",3
+Port Said,3
+"Walterboro, SC",3
+"Yellowknife, NT",3
+"Monument, CO",3
+Shinagawa,3
+"Owatonna, MN",3
+Montego Bay,3
+"Waxahachie, TX",3
+"Mantua, OH",3
+"Saint Albans, WV",3
+"San Diego, TX",3
+"Tri Cities, WA",3
+Marsa,3
+"Odessa, MO",3
+Toronto,3
+"Wallaceburg, ON",3
+"Saltillo, Coahuila, Coahuila",3
+"Lindsay, ON",3
+"Swaffham, England, England",3
+"South Beach, Wales, Wales",3
+"Howard Beach, NY",3
+Silvassa,3
+"Barranquilla, Atlántico, Atlántico",3
+"Croydon, Victoria, Victoria",3
+"Walsgrave on Sowe, England, England",3
+"Byron Center, MI",3
+"Matawan, NJ",3
+"Baglan, Wales, Wales",3
+"Trenton, MI",3
+"Cowbridge, Wales, Wales",3
+"Mount Holly, NC",2
+"Swift Current, SK",2
+Newark,2
+"Huntsville, ON",2
+"Dowagiac, MI",2
+"Toronto, TX",2
+"Buntingford, England, England",2
+"Shawano, WI",2
+"Neepawa, MB",2
+"Saint Annes on the Sea, England, England",2
+"Tramore, Waterford, Waterford",2
+Pimpri-Chinchwad,2
+"Amlwch, Wales, Wales",2
+"Sallisaw, OK",2
+"Montville, CT",2
+Entebbe,2
+"Belmont, NC",2
+"Ellensburg, WA",2
+"Carneys Point, NJ",2
+"Balsall Common, England, England",2
+"Stormont, Northern Ireland, Northern Ireland",2
+"Brant, ON",2
+Lahore Cantonment,2
+"Waterdown, ON",2
+"Mount Vernon, OH",2
+"Antelope, CA",2
+"Santa Ana Pueblo, NM",2
+"Chehalis, WA",2
+"Cleveland, Queensland, Queensland",2
+"Montgomery Village, MD",2
+"Conwy, Wales, Wales",2
+"Walton, KY",2
+Centurion,2
+"Saanichton, BC",2
+"Beaumont, CA",2
+"Waterbeach, England, England",2
+"Valley Center, CA",2
+"Sackville, NB",2
 "West Perth, Western Australia",2
+"Wakefield, RI",2
+"Yelm, WA",2
+General Santos,2
+"Fort Wainwright, AK",2
+"Mount Crawford, VA",2
+"Boonton, NJ",2
+"Washingto Township, OH",2
+"Dolgellau, Wales, Wales",2
+"Wetaskiwin, AB",2
+"Salem, MO",2
+"San Isidro, Heredia, Heredia",2
+"Taylors Lakes, Victoria",2
+"Braine-l'Alleud, Walloon Brabant",2
+"Tlalnepantla, México, México",2
+San Tan Valley,2
+"Ottawa, OH",2
+"Conway, SC",2
+Nagawara,2
+"Huntington Park, Los Angeles, CA, Optional[CA]",2
+"Cardiff university Queens Buildings, Wales, Wales",2
+"Denbigh, Wales, Wales",2
+"Montrose, PA",2
+Sandakan,2
+"Zillah, WA",2
+"Salzburg, Salzburg",2
+"Ban Dôngbang, Vientiane Prefecture, Vientiane Prefecture",2
+"Mountain Top, PA",2
+"Clinton, MA",2
+"Banjarmasin, South Kalimantan, South Kalimantan",2
+"Port Washington, NY",2
+Sanā',2
+"Wallace, NC",2
+"Mount Horeb, WI",2
+"KenTownshipood, MI",2
+"Center Point, AL",2
+"Medway, MA",2
+"Ahwatukee, AZ",2
+Santiago del Estero,2
+"Chesapeake Beach, VA",2
+"Norwalk, OH",2
+"Trentham, England, England",2
+"Hythe, Kent, South East England, England, England",2
+"Sturtevant, WI",2
+"Town and Country, MO",2
+"Mount Sinai, NY",2
+"Center, TX",2
+"Wall Township, NJ",2
+Casalnuovo di Napoli,2
+"Monticello, IL",2
+"Moss Point, MS",2
+"Pontyclun, Wales, Wales",2
+"Saint Kilda, South Australia, South Australia",2
+"Treharris, Wales, Wales",2
+"Cremorne, Victoria, Victoria",2
+"Tonyrefail, Wales, Wales",2
+"Etāwah, Uttar Pradesh, Uttar Pradesh",2
+"Waterloo, IL",2
+"Waxhaw, NC",2
+"Wetherill Park, New South Wales",2
+Sale,2
+"Virginia Water, England, England",2
+"Clayton South, Victoria",2
+"Montréal-Ouest, QC",2
+"Mountain Heaven, TX",2
 "Punchbowl, New South Wales",2
+"Tonypandy, Wales, Wales",2
+"Vilvoorde, Flemish Brabant",2
+"Smokey Point, WA",2
+"Swede Heaven, WA",2
+Kampung Assam Bubok,2
+Antibes,2
+"Mount Gilead, OH",2
+"Deer Park, Victoria, Victoria",2
+"Walldorf, Thuringia, Thuringia",2
+"Benton Harbor, MI",2
+"San Isidro, Lima Region, Lima Region",2
+"Saint Clair, MI",2
+"North Rocks, New South Wales",2
+"Cardigan, Wales, Wales",2
+"Saint Marys, New South Wales, New South Wales",2
+"Central Islip, NY",2
+"Holywell, Wales, Wales",2
+"Waller, TX",2
+"Stanwood, WA",2
+Mount Druitt,2
+"Lopez, WA",2
+"North Versailles, PA",2
+Santana de Parnaíba,2
+"Wabash, IN",2
+"Uniontown, PA",2
+Warragul,2
+"San Ramon Village, CA",2
+"Telecom, Cesar, Cesar",2
+"High Wycombe, Western Australia",2
+"Lincolnton, NC",2
+"Pocahontas, AR",2
+"Saugus, MA",2
+"Totowa, NJ",2
+"Huntingburg, IN",2
+"Wasco, CA",2
+"Atascocita, TX",2
+"Mountain, WV",2
+Gwangju,2
+"Australia Landing, MS",2
+"Mountain Home, ID",2
+"Durant, OK",2
+Ferntree Gully,2
+"Clinton, NY",2
+Noosa Heads,2
+"Tawau, Sabah, Sabah",2
+"Ponteland, England, England",2
+Twin Waters,2
+"Southwater, England, England",2
+"Guntersville, AL",2
+"Sweetwater, TN",2
+"Santa Fe Springs, CA",2
+"Bucaramanga, Santander, Santander",2
+"Sawgrass, FL",2
+Rawang,2
+"Sunshine North, Victoria",2
+"Calimesa, CA",2
+"Waianae, HI",2
+"Canton, NC",2
+"Hinton, AB",2
+"San Joaquin, CA",2
+"Ware, MA",2
+"Pleasant Grove, UT",2
+"Waimea, HI",2
+"Pantego, TX",2
+"Montverde, FL",2
+"California, Santander, Santander",2
+"Countryside, IL",2
+"Clinton, MI",2
+"Waverly, TN",2
+"Heswall, England, England",2
+"Cross Hands, Wales, Wales",2
+"Redbank, Queensland, Queensland",2
+"Sequim, WA",2
+"Kentland, IN",2
+"Abertillery, Wales, Wales",2
+"Fort Washington, MD",2
+Thanisandra Main Rd,2
+Tres Cantos,2
+"Atlantic, PA",2
+"Satans Kingdom, VT",2
+"Burnt Hills, NY",2
+"Walnutport, PA",2
+"West Saint Paul, MN",2
+"The Kingsway, ON",2
+"Winton, South West England, England, England",2
+Fountain Gate,2
+"Altona North, Victoria",2
+"Tredegar, Wales, Wales",2
+"Powder Wash, CO",2
+"Hunt Valley, MD",2
+"Hopkinton, NH",2
+"Clanton, AL",2
+"Hunstanton, England, England",2
+"Clinton, IL",2
+Ankleshwar,2
+"Bainbridge Island, WA",2
+"Monticello, IA",2
+All Saints,2
+"Atlantic Beach, NC, Optional[NC]",2
+"Warren Street, England, England",2
+"Pom-o-sa Heights, MO",2
+"Lampeter, Wales, Wales",2
+"Sunnyside, WA",2
+"Gig Harbor, WA",2
+"Sapulpa, OK",2
+Sai Wan Ho,2
+"Oak Park Heights, Washington, MN, Optional[MN]",2
+"Stanmore, New South Wales, New South Wales",2
+Mwanza,2
+"Washington, UT",2
+"Atascadero, CA",2
+"Salem, IL",2
+"Catoosa, OK",2
+Wayanad,2
+"Cheung Sha Wan, Kowloon City",2
+"Chalfont Saint Peter, England, England",2
+"Cynthiana, KY",2
+"Universal Cty, CA",2
+Yamanto,2
+"Saugerties, NY",2
+"Paintsville, KY",2
+Satara,2
+"Minster, Kent, Kent, South East England, England, England",2
+"St. Ingbert, Saarland",2
+Sahāranpur,2
+"Mount Washing, OH",2
+"MOUNT WELLINGTON, Auckland",2
+"Clinton, SC",2
+"Mont Belvieu, TX",2
+Gurganwamustkil,2
+"Warsaw, AL",2
+Sanaa,2
+"Stony Point, NY",2
+"Saint Clair, MO",2
+"Wall, England, England",2
 "Homebush, New South Wales, New South Wales",2
-"Balcatta, Western Australia",1
-"Gordon, South Australia, South Australia",1
-"Kwinana, Western Australia, Western Australia",1
-"Laverton North, Victoria",1
-"Kingston, Tasmania, Tasmania",1
-"Woodville, South Australia, South Australia",1
-"Hamilton, Victoria, Victoria",1
-"Manly, New South Wales, New South Wales",1
-"Derby, Western Australia, Western Australia",1
-"West Ryde, New South Wales",1
-"Broadmeadows, New South Wales, New South Wales",1
-"Coogee, New South Wales, New South Wales",1
-"Saint Leonards, Victoria, Victoria",1
-Victoria Point,1
-"Saint Ives, New South Wales, New South Wales",1
-"Maryborough, Victoria, Victoria",1
-"Woden, Australian Capital Territory",1
-"Camberwell, Victoria, Victoria",1
-"Erskine, Western Australia, Western Australia",1
-"Darling Harbour, New South Wales",1
-"Frankston South, Victoria",1
-"Cooma, New South Wales, New South Wales",1
-"North Hobart, Tasmania",1
-"Bald Hills, South Australia, South Australia",1
-"Sutherland, New South Wales, New South Wales",1
-"Cremorne, Victoria",1
-"Armadale, Western Australia, Western Australia",1
+"Homosassa, FL",2
+"Loudwater, England, England",2
+"Washington, MI",2
+"Great Clacton, England, England",2
+"Oskaloosa, IA",2
+"Luwan, Shanghai, Shanghai",2
+"Grosse Pointe, MI",2
+"San Jose, NM",2
+"Montgomery, NY",2
+"War, WV",2
+"Burntwood, England, England",2
+"Salford, East of England, England, England",2
+Warnbro,2
+Sai Kung,2
+"Laverton, Victoria, Victoria",2
+"Frinton-on-Sea, England, England",2
+"Hermosa Beach, CA",2
+Saint Croix,2
+"Sorrento, FL",2
+"Iowa Park, TX",2
+"Acton, CA",2
+"Colville, WA",2
+"Saint Ann, MO",2
+"Tonawanda, NY",2
+"Epping, Victoria, Victoria",2
+"Salida, CO",2
+Mörfelden-Walldorf,2
+"Saint-Jean, QC",2
+"Atlanta Downtown Post Office, GA",2
+"Galloway, OH",2
+Waiblingen,2
+"Waikoloa, HI",2
+"Leckwith, Wales, Wales",2
+"West Trenton, NJ",2
+"Uppsala, Kronoberg, Kronoberg",2
+"Rotorua, Bay of Plenty",2
+"Saint James, MO",2
+"Back Mountain, PA",2
+"Valley, Wales, Wales",2
+"Safety Harbor, FL",2
+"Klagenfurt am Wörthersee, Carinthia",2
+"Bay Saint Louis, MS",2
+"Kew, Victoria, Victoria",2
+"West Lake Sammamish, WA",2
+"Egypt, Etowah, AL, Optional[AL]",2
+"Saipan, MP",2
+Samastīpur,2
+"Swansboro, NC",2
+"Waterman, IL",2
+"Wapakoneta, OH",2
+"Montague, NJ",2
+"Stansted Mountfitchet, England, England",2
+Aswan,2
+Point Pedro,2
+"Monticello, MN",2
+"Cagliari, Sardinia, Sardinia",2
+"Morganton, NC",2
+"Five Dock, New South Wales",2
+"Passaic, NJ",2
+"Anantapur, Andhra Pradesh, Andhra Pradesh",2
+"Werribee, Victoria, Victoria",2
+Warrnambool,2
+"Port Orchard, WA",2
+"Bodelwyddan, Wales, Wales",2
+"Antipolo, Aklan, Aklan",2
+"Fountain, CO",2
+"Maesteg, Wales, Wales",2
+"Quinton, West Midlands, West Midlands, England, England",2
+"Bergen, Lower Saxony, Lower Saxony",2
+"Fairway, KS",2
+"Montrose, MI",2
+"Iowa, LA",2
+"Sartell, MN",2
+"Sault Ste. Marie, MI",2
+"Sarıyer, Istanbul, Istanbul",2
+"Bangor-is-y-coed, Wales, Wales",2
+"West Warwick, RI",2
+"Old Saybrook, CT",2
+"Watsontown, PA",2
+"Pascoe Vale, Victoria",2
+"Rosehill, New South Wales, New South Wales",2
+"Pasadena, MD",2
+"Sint-Stevens-Woluwe, Flemish Brabant",2
+"Morfa, Wales, Wales",2
+"Ottawa, KS",2
+"Snohomish, WA",2
+"Redmont Park, AL",2
+"Bishops Waltham, England, England",2
+"Saginaw, TX",2
+"Mercer Island, WA",2
+"Saline, MI",2
+"Waynesburg, PA",2
+"Monticello, AR",2
+"Saint-Laurent, QC",2
+"Milton, Queensland, Queensland",2
+"Gorseinon, Wales, Wales",2
+"Ringwood, Victoria, Victoria",2
+"Saint Ives, Cornwall, South West England, England, England",2
+"Ballard, WA",2
+"College Point, NY",2
+"Wrentham, MA",2
+"Cantwell, AK",2
+"Sacramento, NM",2
+Wārsa,2
+"Ewloe, Wales, Wales",2
+"Montreuil, Ile-de-France, Ile-de-France",2
+"Lantana, FL",2
+"Pereira, Risaralda, Risaralda",2
+"Saratoga Springs, UT",2
+"Mount Orab, OH",2
+"Norway, MI",2
+"Fremont, IN",2
+"Saint Peter, MN",2
+"Edgewater, FL",2
+"Swarthmore, PA",2
+"Coventry, RI",2
+"Wahpeton, ND",2
+"Allschwil, Basel-Country",2
+"Mountain Spa, UT",2
+"Hohne, Lower Saxony, Lower Saxony",1
+"Kalama, WA",1
+"Richland Center, WI",1
+"Clinton, OK",1
+Hawai,1
+"Sambalpur, Orissa, Orissa",1
+"San Joaquín, Heredia, Heredia",1
+"Clinton, TN",1
+"Waynesboro, PA",1
+"Browns Plains, Queensland, Queensland",1
+"Frontier, ND",1
+"Warners, NY",1
+"Salida, CA",1
+"Saint-Louis-de-Terrebonne, QC",1
+Vicenza,1
 "Heathcote, New South Wales, New South Wales",1
-"Guildford, Western Australia, Western Australia",1
-"Waterford, Victoria, Victoria",1
-"Mona Vale, New South Wales, New South Wales",1
-"Harrisdale, Western Australia",1
-"Rosebery, New South Wales, New South Wales",1
-"Southern Cross, Victoria, Victoria",1
-"Garden City, Victoria",1
-"Hampton, Victoria, Victoria",1
-"Wyndham, Western Australia, Western Australia",1
-"Richmond, New South Wales, New South Wales",1
-"Maitland, New South Wales, New South Wales",1
-"Hexham, New South Wales, New South Wales",1
-"Chifley, New South Wales",1
-"Braeside, Victoria, Victoria",1
-"Horsham, Victoria, Victoria",1
-"Portland, Victoria, Victoria",1
-"East Victoria Park, Western Australia",1
-"Clyde, New South Wales, New South Wales",1
-"Gordon, New South Wales, New South Wales",1
-"Cranbourne North, Victoria",1
-"Dandenong South, Victoria",1
-"Brunswick East, Victoria",1
-"Bella Vista, New South Wales",1
-"Mindarie, Western Australia, Western Australia",1
-"Lismore, New South Wales, New South Wales",1
-"Clyde, Victoria, Victoria",1
-"St Peters, New South Wales",1
+"Dysart, Scotland, Scotland",1
 "Kilburn, South Australia",1
-"Croydon, New South Wales, New South Wales",1
-"Glebe, New South Wales",1
+Sana`,1
+"Milwaukee, NC",1
+"South Brunswick Terrace, NJ",1
+Montero,1
+"North Huntingdon, PA",1
+"Wynantskill, NY",1
+Vantaa,1
+Saint Saviour,1
+"Whitney Point, NY",1
+"Walton, Suffolk, East of England, England, England",1
+"Braeside, Victoria, Victoria",1
+"Midway, GA",1
+"Factoria, WA",1
+"Hamilton, Victoria, Victoria",1
+"Camberwell, Victoria, Victoria",1
+"Saa, Centre, Centre",1
+"White Settlement, TX",1
+"Huntsville, AR",1
+"Waverly, NE",1
+"Waterbury, VT",1
+Janta Tok,1
+"Brunswick East, Victoria",1
+"Poulsbo, WA",1
+Sahibzada Ajit Singh Nagar,1
+Kharwahia No 1,1
+"Mount Vernon, MO",1
+"Cambron-Saint-Vincent, Hainaut",1
+"White Center, WA",1
+"Palm Desert Country, CA",1
+"Warsaw, IL",1
+"Palmas, Tocantins, Tocantins",1
+"Brentwood, PA",1
+"Palanan, Isabela, Isabela",1
+"Bridgewater, NS",1
+"Saguenay, QC",1
+"Mountsorrel, England, England",1
+"Darling Harbour, New South Wales",1
+Ko Samui,1
+As Salālah,1
+"Swanwick, England, England",1
+"Little Norway, WI",1
+"Santa Rita, Pampanga, Pampanga",1
+Wangaratta,1
+"Waikoloa Village, HI",1
+"Saint Blazey, England, England",1
+Alwarpet,1
+Sat home,1
+Mehsana ,1
+"Lasalle, QC",1
+Chai Wan,1
+"Mountain View, AR",1
+"Big Sky Mountain Village, MT",1
+"Llangefni, Wales, Wales",1
+"Essen, Antwerp",1
+"Salt Rock, WV",1
+Saipan,1
+Wadersloh,1
+"Ravenswood, WV",1
+Malīr Cantonment,1
+"Montreal, WI",1
+"Saint Ives, New South Wales, New South Wales",1
+"Waggaman, LA",1
+"South Hill, WA",1
+"Dowlais, Wales, Wales",1
+"Wainwright, AB",1
+"Karak, North-West Frontier, North-West Frontier",1
+"Menteng, Jakarta, Jakarta",1
+"South Sanford, ME",1
+"Wakefield, NH",1
+"Llangynwyd, Wales, Wales",1
+"International Gardens, UT",1
+"Stuyvesant, NY",1
+"Passaic, MO",1
+"Ystalyfera, Wales, Wales",1
+"Swiftwater, PA",1
+‘Asamah,1
+"Bost, Flemish Brabant",1
+"Trenton, GA",1
+"Swavesey, East of England, England, England",1
+"Clairemont, CA",1
+Sap Danna,1
+"Saint Peter, IL",1
+"Saintfield, Northern Ireland, Northern Ireland",1
+"Montclair, VA",1
+"Blountsville, AL",1
+"Montreal Lake, SK",1
+"Saint Marys, PA",1
+"New Stanton, PA",1
+"Vitória, Espírito Santo, Espírito Santo",1
+"Sapcote, England, England",1
+"Mona Vale, New South Wales, New South Wales",1
+"Waseca, MN",1
+"Sacramento, KY",1
+"Warsaw Landing, Livingston, LA, Optional[LA]",1
+"Denton, NC",1
+"Germantown, NY",1
+"Mifflintown, PA",1
+Tkotsa,1
+"Villepinte, 93, Île-de-France",1
+Sabar Kantha,1
+"Antipolo, Rizal, Rizal",1
+"Enumclaw, WA",1
+"Wailuku, HI",1
+Brunswick Heads,1
+"Brunswick, MD",1
+Bintulu,1
+"Blountstown, FL",1
+"Crickhowell, Wales, Wales",1
+"Tondu, Wales, Wales",1
+"Melissa, TX",1
+"Cremorne, Victoria",1
+"Rewa, Madhya Pradesh, Madhya Pradesh",1
+"Swalwell, England, England",1
+Quinta do Lago,1
+"Sauk Village, IL",1
+"San Jose, Nueva Ecija, Nueva Ecija",1
+Saint Peter’s,1
+Aventura,1
+"Llanharry, Wales, Wales",1
+"Centerville, UT",1
+"Mountain View, MO",1
+"DuPont, WA",1
+"South Norwalk, CT",1
+"Waltham on the Wolds, England, England",1
+"Fontana, PA",1
+"Oskaloosa, KS",1
+"Sinton, TX",1
+"Kentville, NS",1
+"Broadway, NJ",1
+"Vicksburg, MS",1
+"Kingsteignton, England, England",1
+"Saint Briavels, England, England",1
+Guiguinto,1
+"Indiantown, FL",1
+"Itasca, TX",1
+Dasarahalli Nr Kempapura Rd,1
+Sant Adrià de Besòs,1
+"Stanton, CA",1
+"North Bend, WA",1
+"Allentown, NJ",1
+Tembisa,1
+Santa Cruz,1
+"Montain, Midi-Pyrenees, Midi-Pyrenees",1
+Mostkovice,1
+Sapporo,1
+"Universal City, CA",1
+"Saint Helens, OR",1
+"Mount Sterling, IL",1
+Uasaraña,1
+Alessandria,1
+"Bargoed, Wales, Wales",1
+"Steilacoom, WA",1
+Ca-anajawan,1
+"Port Angeles, WA",1
+Perinthalmanna,1
+"Milwaukie, OR",1
+Waitakere,1
+"Anthem, AZ",1
+Kinsale,1
+"Tangent, OR",1
+"Central, CA",1
+"Machelen, Flemish Brabant, Flemish Brabant",1
+"Broussard, LA",1
+"New Brunswick, Clay, IN, Optional[IN]",1
+"East Victoria Park, Western Australia",1
+"Waltham, MN",1
+"Glenmont, Baltimore, MD, Optional[MD]",1
+"Stanton, TX",1
+Corowa,1
+Warrawong,1
+Schwalbach am Taunus,1
+Biggera Waters,1
+"Manyata, Central, Central",1
+"Yongsan, Ch'ungch'ong-bukto, Ch'ungch'ong-bukto",1
+"Vermont, Western Cape, Western Cape",1
+Atalánti,1
+"Walton, South West England, England, England",1
 "Lyndhurst, Victoria, Victoria",1
+"Ely, Wales, Wales",1
+"Aber, Wales, Wales",1
+San Jose del Monte,1
+"Samsun, Samsun, Samsun",1
+Kampong Tasik Pauh,1
+"Ballymount, Dublin, Dublin",1
+"Hawaiian Gardens, CA",1
+"Salem, IN",1
+Plaisance-du-Touch,1
+"Aston Clinton, England, England",1
+"Benllech, Wales, Wales",1
+"San Anselmo, CA",1
+"Pasco, WA",1
+"San Jose, IL",1
+"Pleasant Site, AL",1
+"Sarnia Beach, SK",1
+San Luis Río Colorado,1
+"Clyde, New South Wales, New South Wales",1
+"Bald Hills, South Australia, South Australia",1
+"Clinton, IN",1
+"Belfast County Borough, Northern Ireland, Northern Ireland",1
+"Sandpoint, ID",1
+Posadas,1
+"Hunters Creek, FL",1
+"San Fernando, Province of Cebu, Province of Cebu",1
+"Braunton, England, England",1
+Odessa,1
+"Wadsworth, OH",1
+"Saundersfoot, Wales, Wales",1
+"Santa Rosa Beach, FL",1
+"Bistriţa, Bistrita-Nasaud, Bistrita-Nasaud",1
+Ronaldsway,1
+Wentworthville,1
+"Waskom, TX",1
+Māntri,1
+"Semarang, Central Java, Central Java",1
+Saint-Franc,1
+"Tranent, Scotland, Scotland",1
+"Speedway, IN",1
+"Kerry, Wales, Wales",1
+"Anamosa, IA",1
+"Tubarão, Santa Catarina, Santa Catarina",1
+"Reynosa, Tamaulipas",1
+"Sanya, Hainan, Hainan",1
+"Banga, Negros Occidental, Negros Occidental",1
+"Desert Mountain, NM",1
+"Waters Edge, IN",1
+"Waterford, Victoria, Victoria",1
+"Savanna Place, GA",1
+"San José, Alajuela, Alajuela",1
+"Agadir, Souss-Massa-Drâa, Souss-Massa-Drâa",1
+Century City,1
+"Central Valley, NY",1
+"Stewarton, Scotland, Scotland",1
+"Duffryn, Newport, Wales, Wales",1
+Sayyān,1
+"Pont-Évêque, 38",1
+"Fort Lewis, WA",1
+"Massac City, IL",1
+"Acton Round, England, England",1
+"Hatte, Centre, Centre",1
+"Linda Vista, San Diego, CA, Optional[CA]",1
+"Leavenworth, WA",1
+"Canterbury, Culpeper, VA, Optional[VA]",1
+"Pilot Mountain, NC",1
+"Mont Alto, PA",1
+"West Milwaukee, WI",1
+"Louisa, KY",1
+"Tremonton, UT",1
+"Mountlake Terrace, WA",1
+"Mount Lebanon, PA",1
+"Oosterhout, North Brabant, North Brabant",1
+"Coldwater, MI",1
+"Saint-Raymond, QC",1
+"Ottawa Lake, MI",1
+"Bourton on the Water, England, England",1
+"CaPointree Is, NY",1
+"Centralia, WA",1
+"Llanberis, Wales, Wales",1
+"Clear Water Beach, MD",1
+"Montclair, CA",1
+"Trenton, OH",1
+"BramPointon, MI",1
+"Cherry Point, NC",1
+"Hinton, WV",1
+"Hermantown, MN",1
+Fontaine-lès-Dijon,1
+"Frankston South, Victoria",1
+"Rockaway Valley, NJ",1
+"Port Aransas, TX",1
+"Winthrop Harbor, IL",1
+"Edenton, NC",1
+"Castle Rock, WA",1
+"Colinton, Scotland, Scotland",1
+Saint Helens,1
+"Sandhurst, East Sussex, South East England, England, England",1
+"Osaka, VA",1
+Bulawayo,1
+"Sac Bay, MI",1
+"Savanna, IL",1
+"Bedwas, Wales, Wales",1
+"Santee, SC",1
+Saint John's Mission,1
+"Savage, MN",1
+"Central Valley, CA",1
+"East Saint Louis, IL",1
+"Santa Cruz, Laguna, Laguna",1
+"Winter Springs, MD",1
+"Monte Vista, CO",1
+"North Hobart, Tasmania",1
+"Point Clear, AL",1
+"Sayreville, NJ",1
+"Massa, TX",1
+"South Pasadena, CA",1
+"Grosse Pointe Woods, MI",1
+"Center Moriches, NY",1
+"Mint Hill, NC",1
+"Centralia, IL",1
+"Bangkok, Central Java, Central Java",1
+"South Bradenton, FL",1
+"Jackson Center, OH",1
+"Saint Matthews, KY",1
+"Ystrad Mynach, Wales, Wales",1
+"Anthony, TX",1
+"Warren, NH",1
+"Palwal, Haryana, Haryana",1
+Hassi Messaoud,1
+"Mont-Joli, QC",1
+"Bella Vista, New South Wales",1
+"Puget, WA",1
+"Edwards, CO",1
+"Ridgefield, WA",1
+"Salt Lake View Addition, UT",1
+"Oracle Place Shopping Center, AZ",1
+"Prenton, England, England",1
+"Rosamond, CA",1
+"Germantown, OH",1
+"Port Saint John, FL",1
+"Ban Pa Sao, Uttaradit, Uttaradit",1
+"Wa-Ni Village, TN",1
+"San Antonio de la Cal, Oaxaca, Oaxaca",1
+"Heddon on the Wall, England, England",1
+"Medway, ME",1
+Point Cook,1
+"Black Diamond, WA",1
+"Coogee, New South Wales, New South Wales",1
+"Cranbourne North, Victoria",1
+"Walker, England, England",1
+"Palmerston North, Manawatu-Wanganui",1
+"Wapping, CT",1
+"Moratuwa, Western, Western",1
+"Ffald-y-Brenin, Wales, Wales",1
+"Saint Clairsville, OH",1
+Lárisa,1
+"Upper Sandusky, OH",1
+"Cathays Park, Wales, Wales",1
+Warwick,1
+"Ashaway, RI",1
+"Watchet, England, England",1
+"Stanton, KY",1
+"Wadesboro, NC",1
+"Sandstone, WV",1
+Mahābaleshwar,1
+"Springwood, Queensland, Queensland",1
+"Glenoaks Country, CA",1
+"Powāi, Assam, Assam",1
+Warszew,1
+"Sandston, VA",1
+"Washington, NJ",1
+"Mount Pocono, PA",1
+"Sand Springs, OK",1
+"Hampton, Victoria, Victoria",1
+"Salem, NJ",1
+"Grantsboro, NC",1
+Saudi,1
+"Saranac Lake, NY",1
+"Swampscott, MA",1
+Agara Sarjapura Road ORR,1
+"Saint John, IN",1
+"Warri, Delta, Delta",1
+Dbsa,1
+"Belmont, England, England",1
+"Toronto, IL",1
+Wallsend,1
+"Kentuck, VA",1
+"Swanscombe, England, England",1
+Nueva San Salvador,1
+"Oneonta, AL",1
+"Warren, Herkimer, NY, Optional[NY]",1
+"Acton, MA",1
+"Cwmbach, Rhondda Cynon Taff, Wales, Wales",1
+"Sanford, ME",1
+"Blountville, TN",1
+"Ottignies-Louvain-la-Neuve, Walloon Brabant",1
+"Saint-Ouen, 93, Île-de-France",1
+Nasau,1
+"San Marino, CA",1
+"Atla, Saarema, Saarema",1
+"San Pedro, Coahuila, Coahuila",1
+"Balcatta, Western Australia",1
+"Chippewa, PA",1
+Sabbioneta,1
+"Timbu, East Nusa Tenggara, East Nusa Tenggara",1
+"Martha Lake, WA",1
+"Kings Mountain, NC",1
+"Mumba, Central, Central",1
+"South Salisbury, NC",1
+"Piedmont, OK",1
+Si Sa Ket,1
+"Beaumont, QC",1
+"Southern Cross, Victoria, Victoria",1
+"Wahiawä, HI",1
+"Grovesend, Wales, Wales",1
+"Warsaw, TX",1
+"Wyndham, Western Australia, Western Australia",1
+"Sahāra, Uttar Pradesh, Uttar Pradesh",1
+"Mount Washington, KY",1
+"Montreal, MO",1
+"Saint-Nicolas, QC",1
+"Kado, Federal Capital Territory, Federal Capital Territory",1
+"Pgh Int ArPort, PA",1
+"Harwinton, CT",1
+"Saidpur, Rajshahi, Rajshahi",1
+"Lusaka, Copperbelt, Copperbelt",1
+"Samarkand, Surxondaryo, Surxondaryo",1
+Hadapsar,1
+"Tidewater, VA",1
+"San Juan, TX",1
+"George, WA",1
+Saint-Pierre-d'Alvey,1
+"Clyde, Victoria, Victoria",1
+"Saratoga Springs, Utah, UT, Optional[UT]",1
+"Fremont, OH",1
+"Saint-Léonard, QC",1
+Mandsaur,1
+"Wade Hampton, SC",1
+Antartida Argentina,1
+"Monticello, NY",1
+"Maitland, New South Wales, New South Wales",1
+"Montoursville, PA",1
+"Over Åstrup, Central Jutland, Central Jutland",1
+"Los Angeles, La Salle, TX, Optional[TX]",1
+"Mindarie, Western Australia, Western Australia",1
+"San Rafael, Mendoza, Mendoza",1
+"Kepala Batas, Pulau Pinang, Pulau Pinang",1
+"Sandwich, MA",1
+"Austintown, OH",1
+Antofagasta,1
+"Sawston, England, England",1
+Sai Ying Pun,1
+"Saint James, England, England",1
+Makassar,1
+"Sabraton, WV",1
+"Walker Mill, MD",1
+"Salisbury, MA",1
+"Ban Nagnang, Vientiane Prefecture, Vientiane Prefecture",1
+Mount Annan,1
+Victoria Point,1
+"Swinton, South Yorkshire, Yorkshire and the Humber, England, England",1
+"Pasig, Palawan, Palawan",1
+"Swallownest, England, England",1
+"Saint Thomas, IL",1
+"Laverton North, Victoria",1
+"Huntingdon Valley, PA",1
+"Pumula, Bulawayo, Bulawayo",1
+Hassan,1
+"Wauchula, FL",1
+"Pilot Point, TX",1
+Viru Viru International Airport,1
+Pennant Hills,1
+"Cwmcarn, Wales, Wales",1
+"Warner, OK",1
+"Mount Pleasant, TN",1
+"Lismore, New South Wales, New South Wales",1
+"Llandow, Wales, Wales",1
+MOUNT ALBERT,1
+"Lascassas, TN",1
+"Satellite Beach, FL",1
+"Ontario, OR",1
+Hawa,1
+Edmonton,1
+"Brent, AL",1
+Punta Caña,1
+"Saint Jo, TX",1
+"San Jose, Bulacan, Bulacan",1
+"Sint-Niklaas, East Flanders",1
+"Oak Point, TX",1
+"Ridgmont, England, England",1
+"Cooma, New South Wales, New South Wales",1
+"Mattawan, MI",1
+"Lamesa, TX",1
+"Harrisdale, Western Australia",1
+"Saint Henry, OH",1
+"Central City, FL",1
+"Mount Hermon, CA",1
+"Saint Asaph, Wales, Wales",1
+"Minuwangoda, Western, Western",1
+"Lakebay, WA",1
+"Villahermosa, Tabasco, Tabasco",1
+Santa Luċija,1
+"Point Charlotte, FL",1
+"Waverly, OH",1
+"Sand Springs, MO",1
+"Stoke, Tasman, Tasman",1
+"Nantucket, MA",1
+Montévrain,1
+"Toronto, MO",1
+"St Peters, New South Wales",1
+"Pasig, Antique, Antique",1
+Montana,1
+Sandringham,1
+"Wall Street, MO",1
+Mantin,1
+"Antigonish, NS",1
+"Savage, MD",1
+"Taschereau, QC",1
+"Rockaway Beach, NY",1
+"Delmont, PA",1
+"Sedro-Woolley, WA",1
+"Kentwood, LA",1
+"Keyport, WA",1
+"Rosebery, New South Wales, New South Wales",1
+Adamawa,1
+"Wales, WI",1
+Puerto Princesa,1
+"Saltdean, England, England",1
+Wageningen,1
+Sylvania Waters,1
+"Fairmont, MN",1
+"Central, IL",1
+"Newark, NY",1
+"Penrice, Wales, Wales",1
+Waurn Ponds,1
+"Monticello, FL",1
+"Thornton, Lancashire, North West England, England, England",1
+"Bandung, Central Java, Central Java",1
+"Saint Pauls Walden, England, England",1
+Montbéliard,1
+Casalecchio di Reno,1
+"DePointford, NJ",1
+"Sayville, NY",1
+"Cwmduad, Wales, Wales",1
+"Warwick, OK",1
+"Central, SC",1
+"Wijnegem, Antwerp",1
+"Santa Fe, TX",1
+"Eatontown, NJ",1
+Ōtawa,1
+Senawang,1
+"Kashiwa, Chiba, Chiba",1
+Middlemount,1
+"Chalfont, PA",1
+Bernburg (Saale),1
+"Mont-Tremblant, QC",1
+"Lynden, WA",1
+Sangāreddi,1
+"Serra, Espírito Santo, Espírito Santo",1
+"Santa Barbara Shores, FL",1
+Washi,1
+Deventer,1
+Taroudant,1
+Higashi-shinagawa,1
+"Grantville, PA",1
+"San Marco, FL",1
+Sahlah,1
+"Brynmawr, Wales, Wales",1
+"Richmond, New South Wales, New South Wales",1
+Saín Alto,1
+"São Vicente, São Paulo, São Paulo",1
+"Lecanto, FL",1
+"Dandenong South, Victoria",1
+"North Waltham, MA",1
+"North Walsham, England, England",1
+"Saint-Jean-sur-Richelieu, QC",1
+"Sumner, WA",1
+"Glinton, England, England",1
+"Waynesville, OH",1
+Nariman Point,1
+Besançon,1
+"Montgomeryville, PA",1
+"Tlalnepantla, México",1
+Wałbrzych,1
+Lysaker,1
+"Horsham, Victoria, Victoria",1
+"Pasadena, FL",1
+"Aguascalientes, Aguascalientes, Aguascalientes",1
+"Point Douglas, MN",1
+"Soledad, Atlántico, Atlántico",1
+"Watson, IL",1
+"Washingtonville, NY",1
+"Moses, WA",1
+"Yokohama, Kanagawa, Kanagawa",1
+"Mount Pleasant, PA",1
+"Gash Settlement, MO",1
+"St Lucia, Queensland",1
+"Mount Morris, NY",1
+"Langenhagen, Lower Saxony, Lower Saxony",1
+"Grantham, NH",1
+"San Luis Potosí, San Luis Potosí, San Luis Potosí",1
+"Saint Johnsbury, VT",1
+"Saint Francis, MN",1
+"Woodville, South Australia, South Australia",1
+"Watkinsville, GA",1
+"Norwalk, IA",1
+"Pleasant Pr, WI",1
+Grant No 11,1
+"La Crescent, MN",1
+"Isanti, MN",1
+"Versailles, KY",1
+"Clearwater, KS",1
+"Saint-Jérôme, QC",1
+Sai Wan,1
+"Sandy Hook, KY",1
+"Al Ḩusaynīyah, Rif Dimashq, Rif Dimashq",1
+"Woodland, WA",1
+Belmont,1
+Versailles,1
+"Warren Point, NJ",1
+"Breadsall, England, England",1
+"San Jose, AZ",1
+"Rib Mountain, WI",1
+"Suwannee, FL",1
+"Santa Anna, TX",1
+"Garden City, Victoria",1
+Salamanca,1
+"Central City, KY",1
+"Kwinana, Western Australia, Western Australia",1
+"Antwerpen, Antwerpen",1
+"Berne, Lower Saxony, Lower Saxony",1
+Alwar,1
+"Login, Wales, Wales",1
+"Halkyn, Wales, Wales",1
+"Saint Rose, LA",1
+Udaipurwati,1
+"São José, Santa Catarina, Santa Catarina",1
+"Saint Johns, MI",1
+"Grand Mound, WA",1
+"Saint David's, Wales, Wales",1
+"Mount Pearl, NL",1
+"Clinton, NJ",1
+"Long Point, NB",1
+"Belmont Shore, CA",1
+Gentilly,1
+"Atlanta, MI",1
+"Calapan, Mindoro Oriental, Mindoro Oriental",1
+"Pantelimon, Bucuresti, Bucuresti",1
+"Ocean Shores, WA",1
+Milwa,1
+"Mount Pleasant, IA",1
+"Walderslade, England, England",1
+"Westward Ho, GA",1
+"Saddleworth, England, England",1
+"Santo André, Paraíba, Paraíba",1
+"Pleasant Valley, Dutchess, NY, Optional[NY]",1
+"Childers, Queensland, Queensland",1
+"Fountain Valley, Orange, CA, Optional[CA]",1
+"Airway Heights, WA, Optional[WA]",1
+Kefar Sava,1
+"Anchor Point, AK",1
+"Shailer Park, Queensland",1
+"Kng of Prussa, PA",1
+Sangrūr,1
+"Teresa, Rizal, Rizal",1
+"Nantes, 44",1
+Santander,1
+"Frant, England, England",1
+Langwarrin,1
+"Kansas City Suburban Acreage, MO",1
+"Time Customer Service Inc, FL",1
+"East Acton, England, England",1
+"Saint James, NY",1
+"Milton-Freewater, OR",1
+"Vorst, Antwerp",1
+"Waynesburg, OH",1
+"Village At Watervale, GA",1
+"Wolfsburg, Lower Saxony, Lower Saxony",1
+"Wantage, NJ",1
+Orsay,1
+"Middle Wallop, England, England",1
+"Orient, OH",1
+"Ellenton, FL",1
+"Sint-Gillis-Dendermonde, East Flanders, East Flanders",1
+San Miguel Chicahua,1
+Inayawan,1
+"No BrenTownshipood, MD",1
+"Saint Leonards, Victoria, Victoria",1
+"Pontiac, IL",1
+"Ooltewah, TN",1
+Kórinthos,1
+"Jaipur, Assam, Assam",1
+"Mount Carmel, IL",1
+"Le Grand-Saconnex, Geneva",1
+"Westmount, QC",1
+"Wauseon, OH",1
+"Croydon, New South Wales, New South Wales",1
+"Belmont, OH",1
+Mentougou,1
+"Watlington, South East England, England, England",1
+"Santa Ana, San Jose, San Jose",1
+"Baginton, England, England",1
+"Clinton, MO",1
+"Rocky Mountain House, AB",1
+"Pwllheli, Wales, Wales",1
+"Valentine, NE",1
+Corrientes,1
+"Bentleyville, PA",1
+"Sacramento, NE",1
+Al Wakrah,1
+"Castel San Giovanni, Emilia-Romagna, Emilia-Romagna",1
+"Sagamore, MA",1
+"Armadale, Western Australia, Western Australia",1
+"Saint Marys, OH",1
+Bānswāra,1
+"Wansford, East of England, England, England",1
+"Pleasant Hills, PA",1
+Wardha,1
+"South Normanton, England, England",1
+"Claremont, NC",1
+"Belfair, WA",1
+"Manassas Park, VA",1
+"Washington Tr, UT",1
+"Wakefield, NE",1
+"Warsaw, MO",1
+"Warwick, NY",1
+"Pleasant Prairie, WI",1
+"San Antonio Prairie, TX",1
+"Pleasant Mount, PA",1
+"Watchung, NJ",1
+"Yŏngsan, Kangwon, Kangwon",1
+"Brawdy, Wales, Wales",1
+"Saint Clair Shores, MI",1
+"Broadmeadows, New South Wales, New South Wales",1
+"Palisades Park, NJ",1
+"Stanton, MI",1
+"East Port Orchard, WA",1
+"Center World, OH",1
+"Wistaston, England, England",1
+"West Point, GA",1
+"Fort Edward, NY",1
+"Içara, Santa Catarina, Santa Catarina",1
+"Mountain View Acres, VA",1
+"Aberdeen, WA",1
+Mount Gambier,1
+"Noordwijk, Drenthe, South Holland",1
+"New Braintree, MA",1
+"Mount Holly, NJ",1
+"East Atlanta, GA",1
+"North Conway, NH",1
+"Mount Pleasant, Saratoga, NY, Optional[NY]",1
+shinsaibashi,1
+"Contact, MT",1
+Wakefield,1
+Saint-Laurent-du-Var,1
+Wah Fu,1
+"Greentree, PA",1
+"Saint Charles, MI",1
+"San Benito, CA",1
+Punta Gorda,1
+"Latah, WA",1
+"Chifley, New South Wales",1
+"Hexham, New South Wales, New South Wales",1
+"West Huntington, WV",1
+"Sahuarita, AZ",1
+"Lindsay, CA",1
+"Brockway, PA",1
+Sattahip,1
+"Elsa, TX",1
+"San José, Heredia, Heredia",1
+Sargodha,1
+"Watchfield, South West England, England, England",1
+"Kennedy Space Center, FL",1
+Saint John's,1
+"Itajaí, Santa Catarina, Santa Catarina",1
+"Uniontown, OH",1
+"Savannah, TN",1
+Uiwang,1
+"Sawley, East Midlands, England, England",1
+Saint-Louis,1
+"Chesapeake Heights on the Bay, MD",1
+"Waupaca, WI",1
+"Kansas, AL",1
+"Waterfall, PA",1
+"Lake Odessa, MI",1
+Manta,1
+"Glebe, New South Wales",1
+"Alrewas, England, England",1
+"Eatonton, GA",1
+"Safford, AL",1
+"San Juan, San Juan, San Juan",1
+"Aschersleben, Sachsen-Anhalt, Sachsen-Anhalt",1
+"San Ysidro, CA",1
+Sabana Redonda,1
+Upper Swan,1
+"Highpoint, MS",1
+"Morriston, Wales, Wales",1
+"Clinton, NC",1
+Colli del Tronto,1
+"York New Salem, PA",1
+Nizwa,1
+"Mount Sterling, KY",1
+"Huntley, IL",1
+"East Nassau, NY",1
+Hunter,1
+"Tiger Point, FL",1
+"Erskine, Western Australia, Western Australia",1
+"Clinton, AR",1
+"Chalfont Saint Giles, England, England",1
+"Hartley Wintney, England, England",1
+"Gusau, Zamfara, Zamfara",1
+Vaasa,1
+San Diego,1
+Saldanha,1
+"East Newark, NJ",1
+Wonthaggi,1
+"Monticello, KY",1
+"Blantyre, NC",1
+"Crîngu, Constanta, Constanta",1
+"Brunswick, ME",1
+"Sacramento, IL",1
+Banora Point,1
+Imeni Trinadtsati Let Kazakhstana,1
+"South Pasadena, FL",1
+"Walton le Dale, England, England",1
+Ban Gawan,1
+"San Pedro, Belize, Belize",1
+"Riverside, Montgomery, OH, Optional[OH]",1
+"Oo, West Nusa Tenggara, West Nusa Tenggara",1
+"Pensacola Beach, Escambia, FL, Optional[FL]",1
+Sap,1
+"Antioch, TN",1
+"Darlington, Queensland, Queensland",1
+"Guildford, Western Australia, Western Australia",1
+"Prosser, WA",1
+"Bhaktapur, Central Region, Central Region",1
+"San Rafael, Heredia, Heredia",1
+"Nestleway Acres, NC",1
+"Montmagny, QC",1
+"East Spokane, WA",1
+"Montgomery, MA",1
+"Anacortes, WA",1
+"Loznica, Toplica, Central Serbia, Central Serbia",1
+"Cannon Hill, Queensland",1
+"Usk, Wales, Wales",1
+"North Elmsall, England, England",1
+"Pyle, Wales, Wales",1
+"Chesapeake Beach, MD",1
+Mehsana,1
+"Beaufort County Landing, SC",1
+"Sandwich, IL",1
+"Medical Lake, WA",1
+"Clyde Hill, WA",1
+"Kirkintilloch, Scotland, Scotland",1
+Sandefjord,1
+"Saanich, BC",1
+"Chicksands, England, England",1
+"Plaridel, Misamis Occidental, Misamis Occidental",1
+"Gentry, AR",1
+"Staunton, Gloucestershire, South West England, England, England",1
+Alsīsar,1
+"Umeda, Osaka, Osaka",1
+"Morganton, GA",1
+"Fenstanton, England, England",1
+"Skewen, Wales, Wales",1
+"San Luis, AZ",1
+"Glyn-neath, Wales, Wales",1
+"East Wenatchee, WA",1
+"Port Clinton, OH",1
+"Watervliet, MI",1
+"Duntocher, Scotland, Scotland",1
+Begusarai,1
+"West Ryde, New South Wales",1
+"Swainsboro, GA",1
+"Owenton, KY",1
+"Wardington, England, England",1
+"Watford, ON",1
+Maxsain,1
+"Stone Mountain Post Office, GA",1
+"Walker, MI",1
+"Saint Columb Major, England, England",1
+"Clairmont, AB",1
+"Sandwich, England, England",1
+"Sainte-Julie, QC",1
+"Crescent Springs, Kenton, KY, Optional[KY]",1
+Dessau-Roßlau,1
+"Blue Mountains, ON",1
+"Watauga, TX",1
+"Water Valley, MS",1
+"Mont-Royal, QC",1
+"Wallis, TX",1
+"Bow, WA",1
+"Safford, AZ",1
+"Sutherland, New South Wales, New South Wales",1
+"Gladewater, TX",1
+Lodwar,1
+"Cadoxton, Wales, Wales",1
+"Wadhurst, England, England",1
+Mount Hagen,1
+"Saint Helens, South East England, England, England",1
+"Wath, England, England",1
+"Maryborough, Victoria, Victoria",1
+"Sauk City, WI",1
+"West End, Queensland",1
+Sacramento,1
+"Walldorf, Baden-Württemberg, Baden-Württemberg",1
+"Swanton, OH",1
+"Stone, Kent, South East England, England, England",1
+"Kelso, WA",1
+"Hohenwald, TN",1
+"Burntisland, Scotland, Scotland",1
+"Swagg, AL",1
+"Portland, Victoria, Victoria",1
+Marsa Alam,1
+"Central Park, NJ",1
+"Saint Bernard, LA",1
+"Barra Mansa, Rio de Janeiro, Rio de Janeiro",1
+"Graham, WA",1
+San Pedro Sula,1
+"Ridgeway, VA",1
+"Saint-Michel, QC",1
+"Centerville, MD",1
+"Hopkinton, MA",1
+"Germantown, WI",1
+"Hargeysa, Woqooyi Galbeed, Woqooyi Galbeed",1
+Przedmiéscie Warszawskie,1
+"Kingston, Tasmania, Tasmania",1
+"Kewaskum, WI",1
+"Huntington Woods, MI",1
+"Saint Paul, IN",1
+"Yacolt, WA",1
+"Saint-Denis, 93, Île-de-France",1
+Nanterre,1
+"Mountainview, VA",1
+"Chesapeake, OH",1
+"Walton, NY",1
+"Groot-Bijgaarden, Flemish Brabant",1
+"Subotica, Central Serbia, Central Serbia",1
+"CC Maynards Settlement, KY",1
+"Woden, Australian Capital Territory",1
+"Saint Pancras, England, England",1
+"Saint James, MN",1
+"Saint Louis, OK",1
+"Cheese Factory Corner, NS",1
+"Toppenish, WA",1
+"Saint-Hubert, QC",1
+Kwai Fong,1
+"Stillwater, MN",1
+"North Sarasota, FL",1
+"Gordon, New South Wales, New South Wales",1
+"Ardrossan, Scotland, Scotland",1
+"Vila Velha, Espírito Santo, Espírito Santo",1
+"Saint Andrews, NB",1
+"Wallington, South East England, England, England",1
+"Selah, WA",1
+"Louisa, VA",1
+"Genval, Walloon Brabant",1
+"U Saddle River, NJ",1
+"Washington, IN",1
+"Mitchel Troy, Wales, Wales",1
+"Néa Smírni, Thessaly, Thessaly",1
+Mount Waverley,1
+"Heist-op-den-Berg, Antwerp",1
+"North Nassau, NY",1
+"Montezuma, GA",1
+"Thongwa, Yangon, Yangon",1
+"Llandaff, Wales, Wales",1
+Olifantsfontein,1
+"Port Isabel, TX",1
+"Serdang, Selangor Darul Ehsan, Selangor Darul Ehsan",1
+"Akasaka, Tokyo, Tokyo",1
+"Clarkston, WA",1
+"South Rocky Mount, NC",1
+Dronten,1
+"Sanford, MI",1
+"Grand Junction, Mesa, CO, Optional[CO]",1
+"Interlachen, FL",1
+"Crumlin, Wales, Wales",1
+"Kangaroo Point, Queensland",1
+"Hendek, Sakarya, Sakarya",1
+"Gresford, Wales, Wales",1
+"Stewartby, England, England",1
+Ballarat Central,1
+Saint-Martin-sur-le-Pré,1
+"Llandeilo, Wales, Wales",1
+"Goro, Dire Dawa, Dire Dawa",1
+"Jeffersontown, KY",1
+"Hayward, WI",1
+"Massapequa Park, NY",1
+Salcete,1
+"Saluda, SC",1
+Blackwater,1
+"Newbridge, Wales, Wales",1
+"San Carlos, San Carlos City, San Carlos City",1
+Sapucaia do Sul,1
+"Ciputat, Banten, Banten",1
+"Hunter, UT",1
+"Trostre, Wales, Wales",1
+"Spanish Springs, Washoe, NV, Optional[NV]",1
+Uranosaki,1
+Antartinggi,1
+"Derby, Western Australia, Western Australia",1
+"Manly, New South Wales, New South Wales",1
+"Eastpointe, MI",1
+"Sembawang Estate, ",1
+"Blackwall, England, England",1
+"Ferndale, WA",1
+"San Jose, PR",1
+"Saint Thomas, ND",1
+"Lake Point, UT",1
+"Mountain Grove, Wright, MO, Optional[MO]",1
+"Pocahontas, IL",1
+"Cagliari, Sardegna, Sardegna",1
+"Warrensville Heights, OH",1
+"Shadwell Mountain, VA",1
+"The Mumbles, Wales, Wales",1
+"Iron Mountain, MI",1
+"Quincy, WA",1
+"Bordentown, NJ",1
+"Haleiwa, HI",1
+"Saint-Georges, QC",1
+"Ravensworth, North East England, England, England",1
+"Clintonville, WI",1
+"Salamanca, NY",1
+Sesto San Giovanni,1
+"Pontoon Beach, IL",1
+"Ironton, OH",1
+"Repentigny, QC",1
+Nantou,1
+Anta,1
+"Waynesville, NC",1
+Mentone,1
+San Benedetto del Tronto,1
+"San Ysidro Colonia, TX",1
+"Orting, WA",1
+"Buckley, WA",1
+"Camdenton, MO",1
+"Donostia / San Sebastián, Basque Country, Basque Country",1
+"Waldo, FL",1
+"Saint Francis, WI",1
+"Benton, KY",1
+"Atwater, CA",1
+"Sans Souci, SC",1
+Samut Prakan,1
+"Bellefonte, PA",1
+"Saint-Élie-d'Orford, QC",1
+"Waipahu, HI",1
+"Bomont, WV",1
+"Waimänalo, HI",1
+"Sahāra, West Bengal, West Bengal",1
+"Wark, Northumberland, North East England, England, England",1
+"West Canton, NC",1
+"Ottery Saint Mary, England, England",1
+"Warr Acres, OK",1
+"Sabattus, ME",1
+"Ban Nôn, Champasak, Champasak",1
+"Trenton, MO",1
+"International Falls, MN",1
+Salt Lake,1
+"Quezon, San Carlos City, San Carlos City",1
+"Briton Ferry, Wales, Wales",1
+"First Mesa, AZ",1
+"Mamhilad, Wales, Wales",1
+"Wasaga Beach, ON",1
+"Penllergaer, Wales, Wales",1
+"ASHBURTON, Canterbury",1
+"De Pinte, East Flanders, East Flanders",1
+Montesilvano,1
+"Ward, AR",1
+‘Asalūyeh,1
+"Mountain View Acres, CA",1
+Pontedera,1
+Saloníki,1
+"Fermont, QC",1
+"Atlantic Highlands, NJ",1
+"Stuck, WA",1
+Trivento,1
+"Swaythling, England, England",1
+"Treorchy, Wales, Wales",1
+"Vermontville, MI",1
+"Freeland, WA",1
+"Rancho Santa Fe, CA",1
+"Centralia, MO",1
+"Gordon, South Australia, South Australia",1
+"Centre, AL",1
