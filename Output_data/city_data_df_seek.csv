@@ -1,0 +1,60 @@
+,City,country,Latitude,Longitude,Location,State,State Code
+0,Sydney,Australia,-33.8698439,151.2082848,Sydney,New South Wales,NSW
+1,Melbourne,Australia,-37.8142176,144.9631608,Melbourne,Victoria,VIC
+2,Brisbane City,Australia,-27.4689682,153.0234991,Brisbane,Queensland,QLD
+3,Perth,Australia,-31.9558964,115.8605801,Perth,Western Australia,WA
+4,Adelaide,Australia,-34.9281805,138.5999312,Adelaide,South Australia,SA
+5,Maitland,Australia,-32.732403,151.55446,"Newcastle, Maitland & Hunter",New South Wales,NSW
+6,Gold Coast City,Australia,-28.0023731,153.4145987,Gold Coast,Queensland,QLD
+7,Palm Beach,Australia,-33.600535,151.327221,Geelong & Great Ocean Road,New South Wales,NSW
+8,Aldgate,Australia,-35.015414,138.735767,Mackay & Coalfields,South Australia,SA
+9,Manoora,Australia,-16.921171,145.740081,Cairns & Far North,Queensland,QLD
+10,Fraser Coast Regional,Australia,-25.3560376,152.7905579636598,Sunshine Coast,Queensland,QLD
+11,Wollongong,Australia,-34.424846,150.900986,"Wollongong, Illawarra & South Coast",New South Wales,NSW
+12,Townsville City,Australia,-19.25476,146.82542,Townsville & Northern QLD,Queensland,QLD
+13,Port Hedland,Australia,-20.309202,118.605608,"Port Hedland, Karratha & Pilbara",Western Australia,WA
+14,Hobart,Australia,-42.8825088,147.3281233,Hobart,Tasmania,TAS
+15,Normanton,Australia,-17.669525,141.080117,Gosford & Central Coast,Queensland,QLD
+16,Tara,Australia,-27.273436,150.456422,Toowoomba & Darling Downs,Queensland,QLD
+17,Hidden Valley,Australia,-23.143592,150.73383,Rockhampton & Capricorn Coast,Queensland,QLD
+18,Katoomba,Australia,-33.710018,150.312963,Blue Mountains & Central West,New South Wales,NSW
+19,Myrup,Australia,-33.785052,121.908744,"Kalgoorlie, Goldfields & Esperance",Western Australia,WA
+20,Lismore,Australia,-28.810773,153.274248,Lismore & Far North Coast,New South Wales,NSW
+21,Sunbury,Australia,-37.596504,144.729234,"Bendigo, Goldfields & Macedon Ranges",Victoria,VIC
+22,Mornington,Australia,-20.730529,139.494765,Mt Isa & Western QLD,Queensland,QLD
+23,West Tamworth,Australia,-31.102882,150.918955,Tamworth & North West NSW,New South Wales,NSW
+24,Normanton,Australia,-17.669525,141.080117,Ballarat & Central Highlands,Queensland,QLD
+25,Wagga Wagga City Council,Australia,-35.109616,147.37083094841356,Wagga Wagga & Riverina,New South Wales,NSW
+26,Gladstone,Australia,-23.8416672,151.2480621,Gladstone & Central QLD,Queensland,QLD
+27,Kialla,Australia,-36.42662745,145.39048692451672,Shepparton & Goulburn Valley,Victoria,VIC
+28,Dubbo,Australia,-32.247167,148.606249,Dubbo & Central NSW,New South Wales,NSW
+29,Rosebud,Australia,-38.368955,144.909679,Mornington Peninsula & Bass Coast,Victoria,VIC
+30,Bairnsdale,Australia,-37.8254509,147.6304752,Bairnsdale & Gippsland,Victoria,VIC
+31,Bunbury,Australia,-33.3589066,115.6174638,Bunbury & South West,Western Australia,WA
+32,Tallangatta,Australia,-36.09578465,147.05262503974342,Albury Wodonga & Murray,Victoria,VIC
+33,Bunbury,Australia,-33.331721,115.642693,Goulburn & Southern Tablelands,Western Australia,WA
+34,Norville,Australia,-24.880809,152.3452,Bundaberg & Wide Bay Burnett,Queensland,QLD
+35,Launceston,Australia,-41.44651,147.13999,Launceston & North East,Tasmania,TAS
+36,Coffs Harbour,Australia,-30.28333,153.13333,Coffs Harbour & North Coast,New South Wales,NSW
+37,Traralgon,Australia,-38.199356,146.545774,Traralgon & La Trobe Valley,Victoria,VIC
+38,Aurora District,United States,39.660551,-104.848174,"Geraldton, Gascoyne & Midwest",Colorado,CO
+39,Yarra Glen,Australia,-37.659603,145.373686,Yarra Valley & High Country,Victoria,VIC
+40,Rural City of Mildura,Australia,-34.8145724,141.62757872135572,Mildura & Murray,Victoria,VIC
+41,Pialba,Australia,-25.27795,152.83576,Hervey Bay & Fraser Coast,Queensland,QLD
+42,The Gap,Australia,-23.711025,133.873673,Alice Springs & Central Australia,Northern Territory,NT
+43,Shire Of Wyndham-East Kimberley,Australia,-14.0383748,126.6050985,Broome & Kimberley,Western Australia,WA
+44,Whyalla,Australia,-33.033328,137.583155,Whyalla & Eyre Peninsula,South Australia,SA
+45,Devonport,Australia,-41.177167,146.360955,Devonport & North West,Tasmania,TAS
+46,Tungkillo,Australia,-34.8106433,139.0303929,Adelaide Hills & Barossa,South Australia,SA
+47,Horsham,Australia,-36.7157043,142.1984549,Horsham & Grampians,Victoria,VIC
+48,Northam,Australia,-31.660274,116.664157,Northam & Wheatbelt,Western Australia,WA
+49,North Tamworth,Australia,-31.083895,150.930193,Far West & North Central NSW,New South Wales,NSW
+50,Mount Gambier,Australia,-37.805733,140.786665,Mt Gambier & Limestone Coast,South Australia,SA
+51,Peel,Australia,-33.3118106,149.6342102,Mandurah & Peel,New South Wales,NSW
+52,Mallee,Australia,-34.2094622,142.5332106,Riverland & Murray Mallee,New South Wales,NSW
+53,Coober Pedy,Australia,-29.004875,134.762104,Coober Pedy & Outback SA,South Australia,SA
+54,Sydney,Australia,-33.598844,150.7526484,Richmond & Hawkesbury,New South Wales,NSW
+55,Brungle,Australia,-35.174348,148.193867,"Tumut, Southern Highlands & Snowy",New South Wales,NSW
+56,Mount Melville,Australia,-35.017116,117.87758,Albany & Great Southern,Western Australia,WA
+57,Lowood,Australia,-27.4727286,152.4987209,Somerset & Lockyer,Queensland,QLD
+58,Central Coast Council,Australia,-33.4316667,151.3511111,Central & South East,New South Wales,NSW

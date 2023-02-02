@@ -1,0 +1,1960 @@
+,City,country,Latitude,Longitude,Location,State,State Code
+0,San Francisco,United States,37.7790262,-122.419906,"San Francisco, CA",California,CA
+1,Redmond,Australia,-34.8888587,117.6920291,"Redmond, WA",Western Australia,WA
+2,Toronto,Canada,43.6534817,-79.3839347,"Toronto, ON",Ontario,ON
+3,Atlanta,United States,33.7489924,-84.3902644,"Atlanta, GA",Georgia,GA
+4,Washington,United States,38.8983696,-77.0058628,"Washington, DC",District of Columbia,DC
+5,Seattle,United States,47.6038321,-122.330062,"Seattle, WA",Washington,WA
+6,Mountain View,United States,37.3893889,-122.0832101,"Mountain View, CA",California,CA
+7,San Jose,United States,37.3361663,-121.890591,"San Jose, CA",California,CA
+8,Salt Lake City,United States,40.7596198,-111.8867975,"Salt Lake City, UT",Utah,UT
+9,Montreal,Canada,45.5031824,-73.5698065,"Montreal, QC",Quebec,QC
+10,Newcastle-Maitland,Australia,-32.9416524,151.6628275,"Cardiff, Wales, Wales",New South Wales,NSW
+11,Coventry,United Kingdom,52.4081812,-1.510477,"Coventry, England, England",England,ENG
+12,San Antonio,United States,29.4246002,-98.4951405,"San Antonio, TX",Texas,TX
+13,San Diego,United States,32.7174202,-117.1627728,"San Diego, CA",California,CA
+14,Saint Louis,United States,38.6319657,-90.2428756,"Saint Louis, MO",Missouri,MO
+15,Bellevue,United States,47.6144219,-122.192337,"Bellevue, WA",Washington,WA
+16,Pleasanton,United States,37.6624312,-121.8746789,"Pleasanton, CA",California,CA
+17,Santa Clara,United States,37.3541132,-121.955174,"Santa Clara, CA",California,CA
+18,Mississauga,Canada,43.5896231,-79.6443879,"Mississauga, ON",Ontario,ON
+19,Ottawa,Canada,45.4208777,-75.6901106,"Ottawa, ON",Ontario,ON
+20,Kansas City,United States,39.100105,-94.5781416,"Kansas City, MO",Missouri,MO
+21,Manchester,United Kingdom,53.479451,-2.244828,"Manchester City Centre, England, England",England,ENG
+22,Walldorf,Germany,49.3038134,8.6433518,"Walldorf, Baden-Wurttemberg, Baden-Wurttemberg",Baden-Württemberg,BW
+23,Perth,Australia,-31.9558964,115.8605801,"Perth, Western Australia, Western Australia",Western Australia,WA
+24,Newark,United States,39.6775927,-75.7630866,"Newark, DE",Delaware,DE
+25,Warrington,United Kingdom,53.393836,-2.591124,"Warrington, North West England, England, England",England,ENG
+26,Sacramento,United States,38.5810606,-121.493895,"Sacramento, CA",California,CA
+27,Stoke-on-Trent,United Kingdom,53.0162014,-2.1812607,"Stoke-on-Trent, England, England",England,ENG
+28,Milwaukee,United States,43.0349931,-87.922497,"Milwaukee, WI",Wisconsin,WI
+29,Watford,United Kingdom,51.667566,-0.407563,"Watford, East of England, England, England",England,ENG
+30,Edmonton,Canada,53.5462055,-113.491241,"Edmonton, AB",Alberta,AB
+31,Galway City,Ireland,53.2744122,-9.0490601,Galway,Connacht,C
+32,San Jose,United States,37.3299203,-121.902496,"San Jose, San Jose, San Jose",California,CA
+33,Thiruvananthapuram,India,8.4882267,76.947551,Thiruvananthapuram,Kerala,KL
+34,Costa Mesa,United States,33.6633386,-117.903317,"Costa Mesa, CA",California,CA
+35,Santa Monica,United States,34.0194704,-118.491227,"Santa Monica, CA",California,CA
+36,Salford,United Kingdom,53.49766,-2.382135,"Salford, North West England, England, England",England,ENG
+37,Newport,United Kingdom,52.01716595,-4.832076568883471,"Newport, Newport, Wales, Wales",Wales,WLS
+38,Newark,United States,40.735657,-74.1723667,"Newark, NJ",New Jersey,NJ
+39,Tulsa,United States,36.1563122,-95.9927436,"Tulsa, OK",Oklahoma,OK
+40,Waltham,United States,42.3756401,-71.2358004,"Waltham, MA",Massachusetts,MA
+41,Visakhapatnam,India,17.7231276,83.3012842,Visakhapatnam,Andhra Pradesh,AP
+42,Brentford,United Kingdom,51.4863958,-0.3216623,"Brentford, England, England",England,ENG
+43,Salisbury,United Kingdom,51.0690613,-1.7954134,"Salisbury, England, England",England,ENG
+44,Birmingham,United Kingdom,52.450426050000004,-1.842548969510859,"Warwick, West Midlands, England, England",England,ENG
+45,Wakefield,United Kingdom,53.6829541,-1.4967286,"Wakefield, England, England",England,ENG
+46,San Mateo,United States,37.5629997,-122.3253265,"San Mateo, CA",California,CA
+47,South San Francisco,United States,37.6535403,-122.4168664,"South San Francisco, CA",California,CA
+48,Canterbury,United Kingdom,51.2800275,1.0802533,"Canterbury, England, England",England,ENG
+49,Somerset West and Taunton,United Kingdom,51.0147895,-3.1029086,"Taunton, England, England",England,ENG
+50,Montvale,United States,41.0467635,-74.0229173,"Montvale, NJ",New Jersey,NJ
+51,Wrexham,United Kingdom,53.0534759,-3.0047901266461725,"Wrexham, Wales, Wales",Wales,WLS
+52,Iowa City,United States,41.6612561,-91.5299106,"Iowa City, IA",Iowa,IA
+53,Waterloo,Canada,43.4652699,-80.5222961,"Waterloo, ON",Ontario,ON
+54,Warren Township,United States,40.60822,-74.51803,"Warren, NJ",New Jersey,NJ
+55,Spokane,United States,47.6571934,-117.42351,"Spokane, WA",Washington,WA
+56,Cambridgeshire,United Kingdom,52.3314292,-0.1847723,"Huntingdon, England, England",England,ENG
+57,Sydney,Australia,-33.884568900000005,151.2057967086953,Central,New South Wales,NSW
+58,Ashford,United Kingdom,51.1481255,0.8775955214903184,"Ashford, Kent, South East England, England, England",England,ENG
+59,Kirkland,United States,47.6859573,-122.1920249,"Kirkland, WA",Washington,WA
+60,St Albans,United Kingdom,51.753051,-0.3379675,"Saint Albans, England, England",England,ENG
+61,Saint Petersburg,United States,27.7703796,-82.6695085,"Saint Petersburg, FL",Florida,FL
+62,Havant,United Kingdom,50.8519351,-0.9821263,"Havant, England, England",England,ENG
+63,Victoria,Canada,48.4283182,-123.3649533,"Victoria, BC",British Columbia,BC
+64,Tacoma,United States,47.2455013,-122.438329,"Tacoma, WA",Washington,WA
+65,Plantation,United States,27.0681121,-82.3728728,"Plantation, FL",Florida,FL
+66,Fort Wayne,United States,41.0799898,-85.1386015,"Fort Wayne, IN",Indiana,IN
+67,Walsall,United Kingdom,52.5847949,-1.9822687,"Walsall, England, England",England,ENG
+68,Fremont,United States,37.5482697,-121.988571,"Fremont, CA",California,CA
+69,New Brunswick,United States,40.4862174,-74.4518173,"New Brunswick, NJ",New Jersey,NJ
+70,Norwalk,United States,41.1175966,-73.4078968,"Norwalk, CT",Connecticut,CT
+71,Monterrey,Mexico,25.6802019,-100.315258,"Monterrey, Nuevo León, Nuevo León",Nuevo León,NLE
+72,Winston-Salem,United States,36.0998131,-80.2440518,"Winston-Salem, NC",North Carolina,NC
+73,Saint Paul,United States,44.9497487,-93.0931028,"Saint Paul, MN",Minnesota,MN
+74,San Ramon,United States,37.7648021,-121.9544387,"San Ramon, CA",California,CA
+75,Mettawa,United States,42.2333571,-87.9259058,"Mettawa, IL",Illinois,IL
+76,Scunthorpe,United Kingdom,53.5922488,-0.6450841,"Scunthorpe, England, England",England,ENG
+77,Mahwah,United States,41.0887072,-74.1437552,"Mahwah, NJ",New Jersey,NJ
+78,Mesa,United States,33.4151117,-111.8314792,"Mesa, AZ",Arizona,AZ
+79,Savannah,United States,32.0564572,-81.0951271,"Savannah, GA",Georgia,GA
+80,Wentzville,United States,38.8244136,-90.8683119,"Wentzville, MO",Missouri,MO
+81,Santa Ana,United States,33.7494951,-117.8732213,"Santa Ana, CA",California,CA
+82,Cheshunt,United Kingdom,51.702052,-0.0335908,"Cheshunt, England, England",England,ENG
+83,Upper Saddle River,United States,41.0584299,-74.0984756,"Upper Saddle River, NJ",New Jersey,NJ
+84,Newark and Sherwood,United Kingdom,53.0761693,-0.8092339,"Newark on Trent, England, England",England,ENG
+85,Pasadena,United States,34.1476452,-118.1444779,"Pasadena, CA",California,CA
+86,Huntsville,United States,34.729847,-86.5859011,"Huntsville, AL",Alabama,AL
+87,Ontario,United States,34.065846,-117.6484304,"Ontario, CA",California,CA
+88,Saskatoon,Canada,52.131802,-106.660767,"Saskatoon, SK",Saskatchewan,SK
+89,Sandwell,United Kingdom,52.5305508,-2.0412454,"Saint Helens, West Midlands, England, England",England,ENG
+90,London,United Kingdom,51.5081402,-0.2732607,"Acton, London, England, England",England,ENG
+91,Centennial,United States,39.579155,-104.8769227,"Centennial, CO",Colorado,CO
+92,Walnut Creek,United States,37.9020731,-122.0618702,"Walnut Creek, CA",California,CA
+93,Brentwood,United Kingdom,51.6201654,0.3018662,"Brentwood, England, England",England,ENG
+94,Vancouver,United States,45.6306954,-122.6744557,"Vancouver, WA",Washington,WA
+95,Belo Horizonte,Brazil,-19.9227318,-43.9450948,"Belo Horizonte, Minas Gerais, Minas Gerais",Minas Gerais,MG
+96,Santa Barbara,United States,34.4221319,-119.702667,"Santa Barbara, CA",California,CA
+97,East Hertfordshire,United Kingdom,51.8103288,-0.0328751,"Ware, England, England",England,ENG
+98,Clearwater,United States,27.9658533,-82.8001026,"Clearwater, FL",Florida,FL
+99,Salinas,United States,36.6744117,-121.655037,"Salinas, CA",California,CA
+100,Chesapeake,United States,36.7183708,-76.2466798,"Chesapeake, VA",Virginia,VA
+101,Huntington Beach,United States,33.6783336,-118.0000166,"Huntington Beach, CA",California,CA
+102,Montevideo,Uruguay,-34.9058916,-56.1913095,Montevideo,Montevideo,MO
+103,Allentown,United States,40.6022059,-75.4712794,"Allentown, PA",Pennsylvania,PA
+104,Kansas City,United States,39.1134562,-94.626497,"Kansas City, KS",Kansas,KS
+105,Aventura,United States,25.9653698,-80.1428234,"Aventura, FL",Florida,FL
+106,Bangor,United Kingdom,53.2277163,-4.1268822,"Bangor, Gwynedd, Wales, Wales",Wales,WLS
+107,Issaquah,United States,47.5348778,-122.0432974,"Issaquah, WA",Washington,WA
+108,Sandy,United States,40.5710454,-111.8953815,"Sandy, UT",Utah,UT
+109,Pensacola,United States,30.421309,-87.2169149,"Pensacola, FL",Florida,FL
+110,Flint,United States,43.0161693,-83.6900211,"Flint, MI",Michigan,MI
+111,San Bernardino,United States,34.108285,-117.2897065,"San Bernardino, CA",California,CA
+112,Bridgewater Township,United States,40.5598127,-74.5517146,"Bridgewater, NJ",New Jersey,NJ
+113,Middlesbrough,United Kingdom,54.556286,-1.237163,"Teesside County Borough, England, England",England,ENG
+114,London,United Kingdom,51.5235769,-0.2597818,"North Acton, England, England",England,ENG
+115,Wales,United Kingdom,53.34061,-1.28162,"Bridgend, Wales, Wales",England,ENG
+116,Bhubaneshwar,India,20.2602964,85.8394521,Bhubaneshwar,Odisha,OR
+117,Santa Clarita,United States,34.3916641,-118.542586,"Santa Clarita, CA",California,CA
+118,Piscataway Township,United States,40.5462553,-74.4660408,"Piscataway, NJ",New Jersey,NJ
+119,Old Toronto,Canada,43.6465466,-79.4195263,"North Toronto, ON",Ontario,ON
+120,Denton,United States,33.2150386,-97.1330516,"Denton, TX",Texas,TX
+121,San Bruno,United States,37.6261715,-122.433243,"San Bruno, CA",California,CA
+122,Wandsworth,United Kingdom,51.4570271,-0.1932607,"Wandsworth, England, England",England,ENG
+123,City of Westminster,United Kingdom,51.4959786,-0.1413172,"Victoria, England, England",England,ENG
+124,Kent,United States,47.3826903,-122.2270272,"Kent, WA",Washington,WA
+125,Sarasota,United States,27.3365805,-82.5308545,"Sarasota, FL",Florida,FL
+126,Lausanne,Switzerland,46.5218269,6.6327025,"Lausanne, Vaud",Vaud,VD
+127,South Kesteven,United Kingdom,52.913192,-0.6438974,"Grantham, England, England",England,ENG
+128,Christchurch,New Zealand,-43.530955,172.6366455,"Christchurch, Canterbury",Canterbury,CAN
+129,Belmont,United States,37.5164926,-122.2941914,"Belmont, CA",California,CA
+130,Aberystwyth,United Kingdom,52.4138938,-4.0815468,"Aberystwyth, Wales, Wales",Wales,WLS
+131,Wakefield,United Kingdom,53.5974902,-1.2810057,"South Elmsall, England, England",England,ENG
+132,Mid Sussex District,United Kingdom,50.9999616,-0.1049747,"Haywards Heath, England, England",England,ENG
+133,Morgantown,United States,39.6296809,-79.9559437,"Morgantown, WV",West Virginia,WV
+134,Watford,United Kingdom,51.673946,-0.4012117,"North Watford, England, England",England,ENG
+135,Waterford,Ireland,52.2609997,-7.1119081,Waterford,Munster,M
+136,Cwmbran,United Kingdom,51.6570903,-3.0159856,"Cwmbran, Wales, Wales",Wales,WLS
+137,Mount Laurel Township,United States,39.934002,-74.8909988,"Mount Laurel, NJ",New Jersey,NJ
+138,Caerphilly,United Kingdom,51.57608995,-3.220372981954223,"Caerphilly, Wales, Wales",Wales,WLS
+139,Braintree,United Kingdom,51.8780637,0.5537161,"Braintree, England, England",England,ENG
+140,Bentonville,United States,36.3728538,-94.2088172,"Bentonville, AR",Arkansas,AR
+141,London,United Kingdom,51.5029222,-0.103458,"Southwark, England, England",England,ENG
+142,Salem,United States,42.7884226,-71.2008933,"Salem, NH",New Hampshire,NH
+143,Renton,United States,47.4799078,-122.2034496,"Renton, WA",Washington,WA
+144,Montgomery,United States,32.3669656,-86.3006485,"Montgomery, AL",Alabama,AL
+145,East Staffordshire,United Kingdom,52.802742,-1.629917,"Burton upon Trent, England, England",England,ENG
+146,Salem,United States,44.9391565,-123.033121,"Salem, OR",Oregon,OR
+147,Antrim,United Kingdom,54.715139,-6.2192038,"Antrim, Northern Ireland, Northern Ireland",Northern Ireland,NIR
+148,St. Austell,United Kingdom,50.333995,-4.793341,"Saint Austell, England, England",England,ENG
+149,Fontana,United States,34.0922335,-117.435048,"Fontana, CA",California,CA
+150,London,United Kingdom,51.5117363,-0.1226769,"Covent Garden, England, England",England,ENG
+151,Santa Rosa,United States,38.4404925,-122.7141049,"Santa Rosa, CA",California,CA
+152,Wath upon Dearne,United Kingdom,53.5025235,-1.3450651,"Wath upon Dearne, England, England",England,ENG
+153,Waukesha,United States,43.0116784,-88.2314813,"Waukesha, WI",Wisconsin,WI
+154,Wayne,United States,40.9491723,-74.2376802,"Wayne, NJ",New Jersey,NJ
+155,Sandton,South Africa,-26.0682406,28.0479844,Sandton,Gauteng,GT
+156,City of Saratoga Springs,United States,43.0821793,-73.7853915,"Saratoga Springs, NY",New York,NY
+157,Saint John,Canada,45.278752,-66.058044,"Saint John, NB",New Brunswick,NB
+158,Waterlooville,United Kingdom,50.8797911,-1.0314789,"Waterlooville, England, England",England,ENG
+159,Sedgemoor,United Kingdom,51.1283378,-3.0037046,"Bridgwater, England, England",England,ENG
+160,Rhyl,United Kingdom,53.3181979,-3.4887917,"Rhyl, Wales, Wales",Wales,WLS
+161,Clacton-on-Sea,United Kingdom,51.7883997,1.1527865,"Clacton-on-Sea, England, England",England,ENG
+162,Wales,United Kingdom,53.34061,-1.28162,"Llandudno, Wales, Wales",England,ENG
+163,Kennesaw,United States,34.0234337,-84.6154897,"Kennesaw, GA",Georgia,GA
+164,Braintree,United States,42.2205956,-71.0041229,"Braintree, MA",Massachusetts,MA
+165,Sammamish,United States,47.6088445,-122.0423067,"Sammamish, WA",Washington,WA
+166,Bothell,United States,47.7598697,-122.2068288,"Bothell, WA",Washington,WA
+167,Bellingham,United States,48.7544012,-122.478836,"Bellingham, WA",Washington,WA
+168,Llanelli,United Kingdom,51.6737797,-4.1610727,"Llanelli, Wales, Wales",Wales,WLS
+169,Lynnwood,United States,47.8278656,-122.3053932,"Lynnwood, WA",Washington,WA
+170,Guwahati,India,26.1805978,91.753943,Guwahati,Assam,AS
+171,Waco,United States,31.549333,-97.1466695,"Waco, TX",Texas,TX
+172,Seattle,United States,47.5709315,-122.3865166,"West Seattle, WA",Washington,WA
+173,Wakefield,United Kingdom,53.6917422,-1.3105722,"Pontefract, England, England",England,ENG
+174,Sunderland,United Kingdom,54.898614,-1.528827,"Washington, North East England, England, England",England,ENG
+175,Hayward,United States,37.6688205,-122.080796,"Hayward, CA",California,CA
+176,Vicente López,Argentina,-34.5244484,-58.5036282,Vicente López,Buenos Aires,B
+177,Medellín,Colombia,6.2450559,-75.5733791,"Medellín, Antioquia, Antioquia",Antioquia,ANT
+178,Milpitas,United States,37.4332273,-121.8989248,"Milpitas, CA",California,CA
+179,Rosemont,United States,41.9941334,-87.8756737,"Rosemont, IL",Illinois,IL
+180,Mishawaka,United States,41.6611642,-86.1807031,"Mishawaka, IN",Indiana,IN
+181,Hay,Australia,-34.369355,144.850443,South Twenty Four Parganas,New South Wales,NSW
+182,Warren,United States,42.4932575,-83.0062746,"Warren, MI",Michigan,MI
+183,Canton,United States,40.7985464,-81.3749508,"Canton, OH",Ohio,OH
+184,Chantilly,United States,38.8941543,-77.4311513,"Chantilly, VA",Virginia,VA
+185,High Point,United States,35.9556924,-80.0053176,"High Point, NC",North Carolina,NC
+186,Ypsilanti,United States,42.2410562,-83.613055,"Ypsilanti, MI",Michigan,MI
+187,Carpinteria,United States,34.3988838,-119.5184564,"Carpinteria, CA",California,CA
+188,Oshawa,Canada,43.8975558,-78.8635324,"Oshawa, ON",Ontario,ON
+189,Merthyr Tydfil,United Kingdom,51.7444793,-3.3773565,"Merthyr Tydfil, Wales, Wales",Wales,WLS
+190,Clinton Township,United States,42.5869782,-82.9200047,"Clinton Township, MI",Michigan,MI
+191,Monterey,United States,36.600256,-121.8946388,"Monterey, CA",California,CA
+192,Beaumont,United States,30.0860459,-94.1018461,"Beaumont, TX",Texas,TX
+193,City of Saginaw,United States,43.4200387,-83.9490365,"Saginaw, MI",Michigan,MI
+194,Upper Lachlan Shire Council,Australia,-34.5032588,149.9453974,"Barry, Wales, Wales",New South Wales,NSW
+195,Ventura,United States,34.3435092,-119.29560423163717,"Ventura, CA",California,CA
+196,Hamilton,New Zealand,-37.7878809,175.281788,"Hamilton, Waikato",Waikato,WKO
+197,Canton,United States,42.3076547,-83.4868961,"Canton, MI",Michigan,MI
+198,Carmarthen,United Kingdom,51.8533058,-4.3057649,"Carmarthen, Wales, Wales",Wales,WLS
+199,Sandhurst,United Kingdom,51.343637,-0.787751,"Sandhurst, Hampshire, South East England, England, England",England,ENG
+200,San Luis Obispo,United States,35.2827525,-120.659615,"San Luis Obispo, CA",California,CA
+201,Warminster,United Kingdom,51.205366,-2.1831682,"Warminster, England, England",England,ENG
+202,West Sacramento,United States,38.5804609,-121.530234,"West Sacramento, CA",California,CA
+203,Haverfordwest,United Kingdom,51.8026795,-4.960232,"Haverfordwest, Wales, Wales",Wales,WLS
+204,Trafford,United Kingdom,53.4244939,-2.318415,"Sale, England, England",England,ENG
+205,Biggleswade,United Kingdom,52.0882012,-0.2589013,"Biggleswade, England, England",England,ENG
+206,Los Angeles,United States,34.0573589,-118.4146078,"Century City, CA",California,CA
+207,Toronto,Canada,46.4524682,-63.3799629,"Toronto, PE",Prince Edward Island,PE
+208,Mount Pleasant,United States,32.7940651,-79.8625851,"Mount Pleasant, SC",South Carolina,SC
+209,Sarnia,Canada,42.9746137,-82.4065585,"Sarnia, ON",Ontario,ON
+210,Longmont,United States,40.1672117,-105.1019287,"Longmont, CO",Colorado,CO
+211,Everett,United States,47.9673056,-122.201399,"Everett, WA",Washington,WA
+212,Olympia,United States,47.0451022,-122.8950075,"Olympia, WA",Washington,WA
+213,Three Rivers,United Kingdom,51.6390009,-0.4718406,"Rickmansworth, England, England",England,ENG
+214,Hay,Australia,-34.369355,144.850443,North Twenty Four Parganas,New South Wales,NSW
+215,Victorville,United States,34.5361067,-117.2911565,"Victorville, CA",California,CA
+216,Watford,United Kingdom,51.667566,-0.407563,"Watford, East Midlands, England, England",England,ENG
+217,Suwanee,United States,34.0514898,-84.0712997,"Suwanee, GA",Georgia,GA
+218,Santa Fe,United States,35.6876096,-105.938456,"Santa Fe, NM",New Mexico,NM
+219,Prestatyn,United Kingdom,53.3362293,-3.4073552,"Prestatyn, Wales, Wales",Wales,WLS
+220,Tukwila,United States,47.4627356,-122.2559156,"Tukwila, WA",Washington,WA
+221,Chepstow,United Kingdom,51.6399688,-2.6710867,"Chepstow, Wales, Wales",Wales,WLS
+222,Waukegan,United States,42.3636331,-87.8447938,"Waukegan, IL",Illinois,IL
+223,San Carlos,United States,37.504936,-122.261823,"San Carlos, CA",California,CA
+224,Manassas,United States,38.7509488,-77.4752667,"Manassas, VA",Virginia,VA
+225,Walton-on-Thames,United Kingdom,51.3856837,-0.419814,"Walton-on-Thames, England, England",England,ENG
+226,Thousand Oaks,United States,34.1705609,-118.8375937,"Thousand Oaks, CA",California,CA
+227,Federal Way,United States,47.313494,-122.33931,"Federal Way, WA",Washington,WA
+228,Visalia,United States,36.3302284,-119.292058,"Visalia, CA",California,CA
+229,St. Cloud,United States,45.5616075,-94.1642004,"Saint Cloud, MN",Minnesota,MN
+230,Santa Cruz,United States,36.9743626,-122.0294673,"Santa Cruz, CA",California,CA
+231,Puyallup,United States,47.1849009,-122.29214,"Puyallup, WA",Washington,WA
+232,Salvador,Brazil,-12.9822499,-38.4812772,"Salvador, Bahia, Bahia",Bahia,BA
+233,Tuscaloosa,United States,33.2095614,-87.5675258,"Tuscaloosa, AL",Alabama,AL
+234,Radnor Township,United States,40.0440149,-75.3878616,"Wayne, PA",Pennsylvania,PA
+235,Walthamstow,United Kingdom,51.5844701,-0.0188186,"Walthamstow, England, England",England,ENG
+236,Paignton,United Kingdom,50.4377018,-3.5632704,"Paignton, England, England",England,ENG
+237,Humber,United Kingdom,52.195855,-2.654346,"Normanton, Yorkshire and the Humber, England, England",England,ENG
+238,Sanford,United States,28.8117345,-81.2680223,"Sanford, FL",Florida,FL
+239,Scranton,United States,41.4086874,-75.6621294,"Scranton, PA",Pennsylvania,PA
+240,Saint Charles,United States,38.783855,-90.481677,"Saint Charles, MO",Missouri,MO
+241,Neath,United Kingdom,51.6621839,-3.8070189,"Neath, Wales, Wales",Wales,WLS
+242,East Brunswick Township,United States,40.4278841,-74.415984,"East Brunswick, NJ",New Jersey,NJ
+243,Huntington,United States,38.4192496,-82.445154,"Huntington, WV",West Virginia,WV
+244,Bradenton,United States,27.4989278,-82.5748194,"Bradenton, FL",Florida,FL
+245,Conway,United States,35.0886963,-92.4421011,"Conway, AR",Arkansas,AR
+246,Saint Peters,United States,38.791612,-90.5958468,"Saint Peters, MO",Missouri,MO
+247,Pontypridd,United Kingdom,51.5992956,-3.3418374,"Pontypridd, Wales, Wales",Wales,WLS
+248,San Marcos,United States,29.8826436,-97.9405828,"San Marcos, TX",Texas,TX
+249,Warner Robins,United States,32.6200973,-83.606568,"Warner Robins, GA",Georgia,GA
+250,Upper Dublin Township,United States,40.1399717,-75.210095,"Fort Washington, PA",Pennsylvania,PA
+251,Huntington,United States,40.868154,-73.425676,"Huntington, NY",New York,NY
+252,Pullman,United States,46.7304268,-117.173895,"Pullman, WA",Washington,WA
+253,Brantford,Canada,43.1408157,-80.2631733,"Brantford, ON",Ontario,ON
+254,Aberdare,United Kingdom,51.7145226,-3.4418333,"Aberdare, Wales, Wales",Wales,WLS
+255,Hinjawadi,India,18.595342,73.738354,Hinjewadi,Maharashtra,MH
+256,Trenton,United States,40.2205944,-74.7597219,"Trenton, NJ",New Jersey,NJ
+257,Pasadena,United States,29.6910753,-95.2092076,"Pasadena, TX",Texas,TX
+258,Yakima,United States,46.601557,-120.510842,"Yakima, WA",Washington,WA
+259,Pontyclun,United Kingdom,51.5238395,-3.3920553,"Llantrisant, Rhondda Cynon Taff, Wales, Wales",Wales,WLS
+260,Newark,United States,37.5296593,-122.0402399,"Newark, CA",California,CA
+261,Brunswick,United States,31.1499528,-81.4914894,"Brunswick, GA",Georgia,GA
+262,Germantown,United States,39.1731621,-77.2716502,"Germantown, MD",Maryland,MD
+263,Rockaway,United States,40.9012101,-74.5143232,"Rockaway, NJ",New Jersey,NJ
+264,Atlanta,United States,33.772108,-84.386936,"North Atlanta, GA",Georgia,GA
+265,Village of Victor,United States,42.9825634,-77.4088794,"Victor, NY",New York,NY
+266,Rawalpindi,Pakistan,33.5914237,73.0535122,Rāwalpindi,Punjab,PB
+267,Delaware,United States,40.2986724,-83.067965,"Delaware, OH",Ohio,OH
+268,Zola Predosa,Italy,44.489665,11.218309,Zola Predosa,Emilia-Romagna,EMI
+269,Mentor,United States,41.6664781,-81.3399769,"Mentor, OH",Ohio,OH
+270,Canton,United States,32.612602,-90.0367512,"Canton, MS",Mississippi,MS
+271,Saint Louis Park,United States,44.9475726,-93.3569023,"Saint Louis Park, MN",Minnesota,MN
+272,Atlantic City,United States,39.3642852,-74.4229351,"Atlantic City, NJ",New Jersey,NJ
+273,Sandy,United Kingdom,52.1295713,-0.2931657,"Sandy, England, England",England,ENG
+274,Wales,United Kingdom,53.34061,-1.28162,"Newtown, Wales, Wales",England,ENG
+275,City of Watertown,United States,43.9747838,-75.9107565,"Watertown, NY",New York,NY
+276,North Tyneside,United Kingdom,54.9911912,-1.5342042,"Wallsend, England, England",England,ENG
+277,Sydney,Australia,-33.8692145,151.1923633,Pyrmont,New South Wales,NSW
+278,Norwalk,United States,33.9092802,-118.0849169,"Norwalk, CA",California,CA
+279,Saggart,Ireland,53.280278,-6.444444,Saggart,Leinster,L
+280,Clermont,United States,28.5494447,-81.7728543,"Clermont, FL",Florida,FL
+281,Saint Augustine,United States,29.8946952,-81.3145395,"Saint Augustine, FL",Florida,FL
+282,Wauwatosa,United States,43.0494122,-88.0079271,"Wauwatosa, WI",Wisconsin,WI
+283,Stone Mountain,United States,33.8080924,-84.1706273,"Stone Mountain, GA",Georgia,GA
+284,Mount Pleasant,United States,43.597646,-84.7668495,"Mount Pleasant, MI",Michigan,MI
+285,Swanley,United Kingdom,51.3963045,0.1714271,"Swanley, England, England",England,ENG
+286,Toronto,Canada,43.69680135,-79.44329671291241,"Midtown Toronto, ON",Ontario,ON
+287,Odessa,United States,31.8457149,-102.367687,"Odessa, TX",Texas,TX
+288,Port Saint Lucie,United States,27.2939333,-80.3503283,"Port Saint Lucie, FL",Florida,FL
+289,South Derbyshire,United Kingdom,52.7736624,-1.5575555,"Swadlincote, England, England",England,ENG
+290,St Andrews,United Kingdom,56.3403902,-2.7955844,"Saint Andrews, Scotland, Scotland",Scotland,SCT
+291,Sandyford,Ireland,53.2698337,-6.2245713,Sandyford,Leinster,L
+292,Chippewa Falls,United States,44.9369054,-91.3929348,"Chippewa Falls, WI",Wisconsin,WI
+293,Newcastle upon Tyne,United Kingdom,55.0412836,-1.626572,"Aintree, England, England",England,ENG
+294,Pontypool,United Kingdom,51.69439595,-3.044973854474893,"Pontypool, Wales, Wales",Wales,WLS
+295,Walnut,United States,34.0202894,-117.8653386,"Walnut, CA",California,CA
+296,San Clemente,United States,33.4270275,-117.6124179,"San Clemente, CA",California,CA
+297,Hackensack,United States,40.8871438,-74.0410865,"Hackensack, NJ",New Jersey,NJ
+298,Encinitas,United States,33.0369867,-117.2919818,"Encinitas, CA",California,CA
+299,Nantwich,United Kingdom,53.0671376,-2.5221184,"Nantwich, England, England",England,ENG
+300,London,United Kingdom,51.357945,-0.1495621,"Wallington, London, England, England",England,ENG
+301,South Oxfordshire,United Kingdom,51.5982905,-1.1252511,"Wallingford, England, England",England,ENG
+302,St. Joseph,United States,39.7686055,-94.8466322,"Saint Joseph, MO",Missouri,MO
+303,Salem,India,11.6612012,78.1602498,"Salem, Tamil Nadu, Tamil Nadu",Tamil Nadu,TN
+304,Mount Vernon,United States,37.9396795,-87.8952993,"Mount Vernon, IN",Indiana,IN
+305,Montgomery,United States,30.3882613,-95.6963355,"Montgomery, TX",Texas,TX
+306,Germantown,United States,35.0867577,-89.8100858,"Germantown, TN",Tennessee,TN
+307,Saint Petersburg,United States,27.7343743,-82.6850134,"Saint Petersburg Beach, FL",Florida,FL
+308,Warrensburg,United States,38.7624373,-93.7409596,"Warrensburg, MO",Missouri,MO
+309,Llandudno Junction,United Kingdom,53.2839164,-3.8086072,"Llandudno Junction, Wales, Wales",Wales,WLS
+310,Warsaw,United States,41.2381017,-85.8530544,"Warsaw, IN",Indiana,IN
+311,Auburn,United States,47.3075369,-122.2301808,"Auburn, WA",Washington,WA
+312,Toronto,United States,40.4653962,-80.6009547,"Toronto, OH",Ohio,OH
+313,Waldorf,United States,38.6263882,-76.9106581,"Waldorf, MD",Maryland,MD
+314,Edgware,United Kingdom,51.6176443,-0.276739,"Edgware, England, England",England,ENG
+315,Winter Haven,United States,28.0222435,-81.7328568,"Winter Haven, FL",Florida,FL
+316,Amritsar,India,31.6343083,74.8736788,Amritsar,Punjab,PB
+317,Waterbury,United States,41.5538091,-73.0438362,"Waterbury, CT",Connecticut,CT
+318,Thornton,United States,39.8695516,-104.985181,"Thornton, CO",Colorado,CO
+319,St Neots,United Kingdom,52.2316268,-0.2470646,"Saint Neots, England, England",England,ENG
+320,Wales,United States,48.895238,-98.600806,"Port Talbot, Wales, Wales",North Dakota,ND
+321,Wallasey,United Kingdom,53.4241208,-3.0394101,"Wallasey, England, England",England,ENG
+322,Stillwater,United States,36.1156306,-97.0585717,"Stillwater, OK",Oklahoma,OK
+323,Wales,United Kingdom,53.34061,-1.28162,"Ebbw Vale, Wales, Wales",England,ENG
+324,Manteca,United States,37.81623435,-121.22178815385232,"Manteca, CA",California,CA
+325,Westmont,United States,41.7955938,-87.976861,"Westmont, IL",Illinois,IL
+326,Colwyn Bay,United Kingdom,53.30503684999999,-3.7194710235344868,"Colwyn Bay, Wales, Wales",Wales,WLS
+327,Wales,United Kingdom,53.34061,-1.28162,"Blackwood, Wales, Wales",England,ENG
+328,Richland,United States,46.2804298,-119.275205,"Richland, WA",Washington,WA
+329,Saddle Brook,United States,40.898988,-74.0926418,"Saddle Brook, NJ",New Jersey,NJ
+330,Atlanta,United States,33.1162131,-94.1663493,"Atlanta, TX",Texas,TX
+331,Salisbury,United States,35.6709727,-80.4742261,"Salisbury, NC",North Carolina,NC
+332,Warrington,United Kingdom,53.393836,-2.591124,"Warrington, South East England, England, England",England,ENG
+333,Brentwood,United States,36.0325687,-86.7825235,"Brentwood, TN",Tennessee,TN
+334,Marysville,United States,48.0517429,-122.1768209,"Marysville, WA",Washington,WA
+335,Peshawar,Pakistan,34.0123846,71.5787458,Peshāwar,Khyber Pakhtunkhwa,KP
+336,Uttlesford,United Kingdom,52.021569,0.2411256,"Saffron Walden, England, England",England,ENG
+337,Caernarfon,United Kingdom,53.1375302,-4.2719629,"Caernarfon, Wales, Wales",Wales,WLS
+338,Fort Walton Beach,United States,30.4057552,-86.618842,"Fort Walton Beach, FL",Florida,FL
+339,Warren,United States,41.237557,-80.818417,"Warren, OH",Ohio,OH
+340,Holyhead,United Kingdom,53.3073739,-4.6312147,"Holyhead, Wales, Wales",Wales,WLS
+341,Newark,United States,40.0581205,-82.4012643,"Newark, OH",Ohio,OH
+342,El Monte,United States,34.0751571,-118.036849,"El Monte, CA",California,CA
+343,Huntsville,United States,30.7235263,-95.5507771,"Huntsville, TX",Texas,TX
+344,Londonderry / Derry,United Kingdom,54.995449,-7.323562,"Londonderry County Borough, Northern Ireland, Northern Ireland",Northern Ireland,NIR
+345,Seattle,United States,47.5614876,-122.312903,"South Seattle, WA",Washington,WA
+346,Florissant,United States,38.7919683,-90.3227803,"Florissant, MO",Missouri,MO
+347,North Salt Lake,United States,40.8485564,-111.906882,"North Salt Lake, UT",Utah,UT
+348,Bremerton,United States,47.5653663,-122.6246836,"Bremerton, WA",Washington,WA
+349,Edwardsville,United States,38.8114364,-89.953157,"Edwardsville, IL",Illinois,IL
+350,Cornwall,Canada,45.0184417,-74.728703,"Cornwall, ON",Ontario,ON
+351,Wailea,United States,20.6871749,-156.4390415,"Wailea, HI",Hawaii,HI
+352,Claremont,United States,34.0966764,-117.7197785,"Claremont, CA",California,CA
+353,Lacey,United States,47.0263876,-122.8072257,"Lacey, WA",Washington,WA
+354,Montville Township,United States,40.9148209,-74.383763,"Montville, NJ",New Jersey,NJ
+355,Sandusky,United States,41.4561002,-82.7115813,"Sandusky, OH",Ohio,OH
+356,Rocky Mount,United States,35.9423833,-77.7956949,"Rocky Mount, NC",North Carolina,NC
+357,La Mesa,United States,32.7678288,-117.0230839,"La Mesa, CA",California,CA
+358,Stevens Point,United States,44.5229223,-89.574111,"Stevens Point, WI",Wisconsin,WI
+359,Opelousas,United States,30.5335302,-92.081509,"Opelousas, LA",Louisiana,LA
+360,Saxonburg,United States,40.7539956,-79.8103943,"Saxonburg, PA",Pennsylvania,PA
+361,Wantagh,United States,40.6837121,-73.5101258,"Wantagh, NY",New York,NY
+362,Placentia,United States,33.8714814,-117.8617337,"Placentia, CA",California,CA
+363,Wales,United Kingdom,53.34061,-1.28162,"Magor, Wales, Wales",England,ENG
+364,Kennewick,United States,46.2087066,-119.119919,"Kennewick, WA",Washington,WA
+365,Village of Nassau,United States,42.5159145,-73.6101159,"Nassau, NY",New York,NY
+366,London,United Kingdom,51.6267968,-0.0769118,"Edmonton, England, England",England,ENG
+367,Dingwall,United Kingdom,57.5954797,-4.4284337,"Dingwall, Scotland, Scotland",Scotland,SCT
+368,Killingworth,United Kingdom,55.021739,-1.565423,"Longbenton, England, England",England,ENG
+369,Casa Grande,United States,32.8795022,-111.757352,"Casa Grande, AZ",Arizona,AZ
+370,Montrose,United Kingdom,56.7114295,-2.4681544,"Montrose, Scotland, Scotland",Scotland,SCT
+371,Waikīkī,United States,21.2855,-157.83594,"Waikïkï, HI",Hawaii,HI
+372,Rockwall,United States,32.9312336,-96.4597089,"Rockwall, TX",Texas,TX
+373,Winter Garden,United States,28.5656649,-81.5856742,"Winter Garden, FL",Florida,FL
+374,Lewis Center,United States,40.1983958,-83.0101843,"Lewis Center, OH",Ohio,OH
+375,Waynesboro,United States,38.0686668,-78.8893999,"Waynesboro, VA",Virginia,VA
+376,Liverpool,United Kingdom,53.3964505,-2.9281452,"Wavertree, England, England",England,ENG
+377,Dana Point,United States,33.4669721,-117.6981075,"Dana Point, CA",California,CA
+378,City of Oneonta,United States,42.453492,-75.0629531,"Oneonta, NY",New York,NY
+379,Woodinville,United States,47.7545827,-122.1588902,"Woodinville, WA",Washington,WA
+380,Clinton,United States,38.7651145,-76.8983059,"Clinton, MD",Maryland,MD
+381,Sandbach,United Kingdom,53.1439168,-2.3622625,"Sandbach, England, England",England,ENG
+382,Warwick,United States,41.7002024,-71.4161108,"Warwick, RI",Rhode Island,RI
+383,Boynton Beach,United States,26.5256179,-80.0666026,"Boynton Beach, FL",Florida,FL
+384,Clintwood,United States,37.1501067,-82.4559846,"Clintwood, VA",Virginia,VA
+385,Waltham Cross,United Kingdom,51.6857829,-0.0330001,"Waltham Cross, England, England",England,ENG
+386,Salford,United Kingdom,53.5242276,-2.3984426,"Walkden, England, England",England,ENG
+387,City of Mount Vernon,United States,40.9125085,-73.8386504,"Mount Vernon, NY",New York,NY
+388,Kent,United States,41.1536674,-81.357886,"Kent, OH",Ohio,OH
+389,Saint Cloud,United States,28.2498534,-81.2839038,"Saint Cloud, FL",Florida,FL
+390,London,United Kingdom,51.402853449999995,-0.09676901675750504,"Thornton Heath, England, England",England,ENG
+391,Lakewood,United States,47.1717649,-122.518458,"Lakewood, WA",Washington,WA
+392,Cambridgeshire,United Kingdom,52.3314292,-0.1847723,"Huntingdon and Peterborough, England, England",England,ENG
+393,Sandy Springs,United States,33.9242688,-84.3785379,"Sandy Springs, Fulton, GA, Optional[GA]",Georgia,GA
+394,South Milwaukee,United States,42.9105722,-87.8606367,"South Milwaukee, WI",Wisconsin,WI
+395,Pontiac,United States,42.6389216,-83.2910468,"Pontiac, MI",Michigan,MI
+396,Mount Airy,United States,36.4993297,-80.6071609,"Mount Airy, NC",North Carolina,NC
+397,San Marcos,United States,33.1433723,-117.1661449,"San Marcos, CA",California,CA
+398,St Ives,United Kingdom,50.196896,-5.480315,"Saint Ives, East of England, England, England",England,ENG
+399,Sahibzada Ajit Singh Nagar,India,30.6904366,76.7116208,SAS Nagar,Punjab,PB
+400,Tauranga,New Zealand,-37.6859006,176.167505,"Tauranga, Bay of Plenty",Bay of Plenty,BOP
+401,Chilliwack,Canada,49.157677,-121.95143,"Chilliwack, BC",British Columbia,BC
+402,Spanaway,United States,47.0979462,-122.4243422,"Spanaway, WA",Washington,WA
+403,St. Albert,Canada,53.6288228,-113.6278034,"Saint Albert, AB",Alberta,AB
+404,Sault Ste. Marie,Canada,46.52391,-84.320068,"Sault Ste. Marie, ON",Ontario,ON
+405,Brossard,Canada,45.4554829,-73.4678904,"Brossard, QC",Quebec,QC
+406,Waterford Township,United States,42.7022527,-83.402718,"Waterford, MI",Michigan,MI
+407,Maple Valley,United States,47.3664231,-122.0437127,"Maple Valley, WA",Washington,WA
+408,SeaTac,United States,47.4449086,-122.283084,"SeaTac, WA",Washington,WA
+409,Wales,United Kingdom,53.34061,-1.28162,"Flint, Wales, Wales",England,ENG
+410,Fountain Valley,United States,33.7038145,-117.9627349,"Fountain Valley, CA",California,CA
+411,Pontypridd,United Kingdom,51.5890349,-3.3258050294949495,"Brecon, Wales, Wales",Wales,WLS
+412,Pleasant Hill,United States,37.9479786,-122.0607963,"Pleasant Hill, CA",California,CA
+413,Clearwater,United States,27.9774736,-82.8279313,"Clearwater Beach, FL",Florida,FL
+414,Rosario,Argentina,-32.9400995,-60.6657465,"Rosario, Santa Fe, Santa Fe",Santa Fe,S
+415,Brunswick,United States,41.2456819,-81.8275398,"Brunswick, OH",Ohio,OH
+416,Mold,United Kingdom,53.1671457,-3.1376421,"Mold, Wales, Wales",Wales,WLS
+417,San Rafael,United States,37.9735346,-122.5310874,"San Rafael, CA",California,CA
+418,Warlingham,United Kingdom,51.309559,-0.0557157,"Warlingham, England, England",England,ENG
+419,Swinton,United Kingdom,54.148377,-0.837226,"Swinton, North West England, England, England",England,ENG
+420,Belfast,United Kingdom,54.590951,-5.932265,"Belfast City Centre, Northern Ireland, Northern Ireland",Northern Ireland,NIR
+421,Grants Pass,United States,42.4393707,-123.3272489,"Grants Pass, OR",Oregon,OR
+422,North Canton,United States,40.875891,-81.4023356,"North Canton, OH",Ohio,OH
+423,Poway,United States,32.9628234,-117.0358646,"Poway, CA",California,CA
+424,San Gabriel,United States,34.0990733,-118.1085682,"San Gabriel, CA",California,CA
+425,New England,United States,46.541312,-102.866964,"New Bedfont, England, England",North Dakota,ND
+426,Florianópolis,Brazil,-27.5973002,-48.5496098,"Florianópolis, Santa Catarina, Santa Catarina",Santa Catarina,SC
+427,Chatham-Kent,Canada,41.875,-82.238724675,"Chatham-Kent, ON",Ontario,ON
+428,Toronto,Canada,43.6007625,-79.505264,"New Toronto, ON",Ontario,ON
+429,Wales,United States,44.16106,-70.054814,"Llandrindod Wells, Wales, Wales",Maine,ME
+430,Bromont,Canada,45.3187339,-72.6463074,"Bromont, QC",Quebec,QC
+431,Itasca,United States,41.9751722,-88.0067509,"Itasca, IL",Illinois,IL
+432,Watton,United Kingdom,53.9380856,-0.4524768,"Watton, East of England, England, England",England,ENG
+433,Mount Clemens,United States,42.5972563,-82.8779754,"Mount Clemens, MI",Michigan,MI
+434,Ewa Beach,United States,21.315603,-158.008804,"Ewa Beach, HI",Hawaii,HI
+435,Scotland,United States,45.283449,-97.919777,"High Blantyre, Scotland, Scotland",South Dakota,SD
+436,Wagga Wagga City Council,Australia,-35.115,147.3677778,Wagga Wagga,New South Wales,NSW
+437,Mississauga,Canada,43.5912635,-79.6264657,"Mississauga Valley, ON",Ontario,ON
+438,Carpentersville,United States,42.1211364,-88.2578582,"Carpentersville, IL",Illinois,IL
+439,Crown Point,United States,41.4169806,-87.3653136,"Crown Point, IN",Indiana,IN
+440,Risca,United Kingdom,51.6086041,-3.0992328,"Risca, Wales, Wales",Wales,WLS
+441,St. Petersburg,United States,27.759293,-82.622172,"Saint Pete, FL",Florida,FL
+442,Gwalior,India,26.2037247,78.1573628,"Gwalior, Madhya Pradesh, Madhya Pradesh",Madhya Pradesh,MP
+443,Santa Maria,United States,34.9531295,-120.435857,"Santa Maria, CA",California,CA
+444,San Leandro,United States,37.7249296,-122.1560768,"San Leandro, CA",California,CA
+445,New Century,United States,38.825165,-94.830121,"New Century, KS",Kansas,KS
+446,Edmonds,United States,47.8105738,-122.3774952,"Edmonds, WA",Washington,WA
+447,Centreville,United States,38.84487,-77.43540260778344,"Centreville, VA",Virginia,VA
+448,Bensalem Township,United States,40.1045549,-74.951279,"Bensalem, PA",Pennsylvania,PA
+449,Harlech,United Kingdom,52.85902245,-4.107237683664799,"Rhondda, Wales, Wales",Wales,WLS
+450,San Angelo,United States,31.4649685,-100.4405094,"San Angelo, TX",Texas,TX
+451,Taunton,United States,41.9019257,-71.0931485,"Taunton, MA",Massachusetts,MA
+452,Wakefield,United States,42.506484,-71.0728306,"Wakefield, MA",Massachusetts,MA
+453,La Quinta,United States,33.677474,-116.2958789,"La Quinta, CA",California,CA
+454,Fremont,United States,41.4338363,-96.4960449,"Fremont, NE",Nebraska,NE
+455,Monroe,United States,47.8552259,-121.971335,"Monroe, WA",Washington,WA
+456,Waycross,United States,31.2135511,-82.3540178,"Waycross, GA",Georgia,GA
+457,Abergavenny,United Kingdom,51.8174352,-3.0090126,"Abergavenny, Wales, Wales",Wales,WLS
+458,Tumwater,United States,47.0080655,-122.910368,"Tumwater, WA",Washington,WA
+459,Lynnwood,United States,47.8103747,-122.32402,"Seattle Heights, WA",Washington,WA
+460,Warrenville,United States,41.8179303,-88.174097,"Warrenville, IL",Illinois,IL
+461,Waterloo,United States,42.498275,-92.3328743,"Waterloo, IA",Iowa,IA
+462,San Francisco,United States,34.3958981,-106.8391932,"San Francisco, NM",New Mexico,NM
+463,Rancho Santa Margarita,United States,33.6408845,-117.6029341,"Rancho Santa Margarita, CA",California,CA
+464,Bridgewater,United States,41.9903787,-70.9750426,"Bridgewater, MA",Massachusetts,MA
+465,Santa Clarita,United States,34.4233293,-118.4720281,"Canyon Country, CA",California,CA
+466,St. Charles,United States,41.9139808,-88.3128183,"Saint Charles, IL",Illinois,IL
+467,Brentwood,United States,40.7812093,-73.2462273,"Brentwood, NY",New York,NY
+468,Ponte Vedra Beach,United States,30.2274645,-81.3800824,"Ponte Vedra Beach, FL",Florida,FL
+469,Sydney,Australia,-33.8061209,151.2540182,Clontarf,New South Wales,NSW
+470,Brentwood,United States,37.9317766,-121.696026,"Brentwood, CA",California,CA
+471,El Centro,United States,32.792,-115.563051,"El Centro, CA",California,CA
+472,Antioch,United States,38.0049214,-121.805789,"Antioch, CA",California,CA
+473,Clementi,Italy,42.19166,14.3427,"Clementi New Town, ",Abruzzo,ABR
+474,Bellefontaine,United States,40.3611643,-83.7596557,"Bellefontaine, OH",Ohio,OH
+475,Moses Lake,United States,47.1301417,-119.278077,"Moses Lake, WA",Washington,WA
+476,Gold Coast City,Australia,-28.0751722,153.3913156,"Robina, Queensland",Queensland,QLD
+477,Epping Forest,United Kingdom,51.6892068,-0.0009449,"Waltham Abbey, England, England",England,ENG
+478,Town of Cheektowaga,United States,42.9033917,-78.7547536,"Cheektowaga, NY",New York,NY
+479,Montevallo,United States,33.1006746,-86.8641558,"Montevallo, AL",Alabama,AL
+480,Watsonville,United States,36.9092773,-121.7529071,"Watsonville, CA",California,CA
+481,Shoreline,United States,47.7564667,-122.3437497,"Shoreline, WA",Washington,WA
+482,Newcastle,United States,47.5395736,-122.1563331,"Newcastle, WA",Washington,WA
+483,Snoqualmie,United States,47.5289527,-121.827093,"Snoqualmie, WA",Washington,WA
+484,Orion,United States,42.737682,-83.238344,"Mountain View, Buncombe, NC, Optional[NC]",Michigan,MI
+485,Village of Wappingers Falls,United States,41.5965635,-73.9112103,"Wappingers Falls, NY",New York,NY
+486,Salisbury,United States,38.366027,-75.6009964,"Salisbury, MD",Maryland,MD
+487,London,United Kingdom,51.5544402,-0.1148807,"Lower Holloway, England, England",England,ENG
+488,Wake Forest,United States,35.9803138,-78.5103731,"Wake Forest, NC",North Carolina,NC
+489,University Place,United States,47.216263049999995,-122.54000715779645,"University Place, WA",Washington,WA
+490,Owasso,United States,36.2659698,-95.8548557,"Owasso, OK",Oklahoma,OK
+491,Warrendale,United States,40.6534001,-80.079503,"Warrendale, PA",Pennsylvania,PA
+492,Battle Ground,United States,45.7813532,-122.5337433,"Battle Ground, WA",Washington,WA
+493,Fenton,United States,38.5131989,-90.4400578,"Fenton, MO",Missouri,MO
+494,Village of Rockville Centre,United States,40.6574186,-73.6450664,"Rockville Centre, NY",New York,NY
+495,Montclair,United States,40.8164458,-74.2210643,"Montclair, NJ",New Jersey,NJ
+496,Rahway,United States,40.6081591,-74.2776468,"Rahway, NJ",New Jersey,NJ
+497,Portstewart,United Kingdom,55.1829096,-6.7187008,"Portstewart, Northern Ireland, Northern Ireland",Northern Ireland,NIR
+498,Montgomery,United States,41.730585,-88.3459048,"Montgomery, IL",Illinois,IL
+499,Montebello,United States,34.0159398,-118.111975,"Montebello, CA",California,CA
+500,Milton,United States,47.2481166,-122.312837,"Milton, WA",Washington,WA
+501,London,United Kingdom,51.5500554,-0.1425712,"Kentish Town, England, England",England,ENG
+502,Amber Valley,United Kingdom,53.1025222,-1.5075205,"Upper Holloway, England, England",England,ENG
+503,Hastings,United Kingdom,50.85565,0.5452,"Saint Leonards-on-Sea, England, England",England,ENG
+504,Mukilteo,United States,47.9474034,-122.3036992,"Mukilteo, WA",Washington,WA
+505,Mountain Ash,United Kingdom,51.6817988,-3.3768026,"Mountain Ash, Wales, Wales",Wales,WLS
+506,Salina,United States,38.8402805,-97.6114237,"Salina, KS",Kansas,KS
+507,North Kansas City,United States,39.1432057,-94.5733988,"North Kansas City, MO",Missouri,MO
+508,Rocky Mount,United States,36.9962007,-79.8909474,"Rocky Mount, VA",Virginia,VA
+509,San Dimas,United States,34.1066756,-117.8067257,"San Dimas, CA",California,CA
+510,Fort Stewart,United States,31.8694349,-81.6077657,"Fort Stewart, GA",Georgia,GA
+511,Vale of White Horse,United Kingdom,51.5878072,-1.4249258,"Wantage, England, England",England,ENG
+512,Sanford,United States,35.4798757,-79.1802994,"Sanford, NC",North Carolina,NC
+513,Porthmadog,United Kingdom,52.9287021,-4.1324794,"Porthmadog, Wales, Wales",Wales,WLS
+514,Melbourne,Australia,-37.879667749999996,145.16291624893952,Glen Waverley,Victoria,VIC
+515,Mountain Home,United States,36.3361391,-92.3801187,"Mountain Home, AR",Arkansas,AR
+516,Griffith,Australia,-34.2864069,146.04243190668797,"Olympic Park, New South Wales",New South Wales,NSW
+517,San Pablo,United States,37.9621457,-122.3455263,"San Pablo, CA",California,CA
+518,Kirkwall,United Kingdom,58.9816049,-2.960369,"Kirkwall, Scotland, Scotland",Scotland,SCT
+519,Sydney,Australia,-34.0636914,150.8206159,"Campbelltown, New South Wales, New South Wales",New South Wales,NSW
+520,Pennsauken Township,United States,39.9562238,-75.0579502,"Pennsauken, NJ",New Jersey,NJ
+521,Village of Chesaning,United States,43.1847597,-84.1149965,"Chesaning, MI",Michigan,MI
+522,Bountiful,United States,40.8894611,-111.8804817,"Bountiful, UT",Utah,UT
+523,Welshpool,United Kingdom,52.6580323,-3.1394424,"Welshpool, Wales, Wales",Wales,WLS
+524,Atlantic Beach,United States,30.342667,-81.379699,"Atlantic Beach, FL, Optional[FL]",Florida,FL
+525,Nantes,France,47.2186371,-1.5541362,Nantes,Pays de la Loire,PDL
+526,Lake Saint Louis,United States,38.7850251,-90.7935034,"Lake Saint Louis, MO",Missouri,MO
+527,Huntingdon,United States,40.4847959,-78.0102813,"Huntingdon, PA",Pennsylvania,PA
+528,Ammanford,United Kingdom,51.7955509,-3.996828,"Ammanford, Wales, Wales",Wales,WLS
+529,Poynton,United Kingdom,53.3492505,-2.1174396,"Poynton, England, England",England,ENG
+530,Salt Lake City,United States,40.7596198,-111.8867975,Salt Lake City,Utah,UT
+531,Oak Harbor,United States,48.2931559,-122.643224,"Oak Harbor, WA",Washington,WA
+532,Wadebridge,United Kingdom,50.5171441,-4.8340186,"Wadebridge, England, England",England,ENG
+533,Washington,United States,38.5581072,-91.0120878,"Washington, MO",Missouri,MO
+534,Canton,United States,34.2367621,-84.4907621,"Canton, GA",Georgia,GA
+535,Babergh,United Kingdom,52.1261961,0.9367006,"Wattisham, England, England",England,ENG
+536,Harrogate,United Kingdom,53.9367932,-1.7833462,"Denton, North West England, England, England",England,ENG
+537,Amherstburg,Canada,42.105860250000006,-83.08352039718946,"Saint Thomas, ON",Ontario,ON
+538,Sydney,Australia,-33.7478359,151.0350621,"West Pennant Hills, New South Wales",New South Wales,NSW
+539,London,United Kingdom,51.4948884,-0.1005731,"Elephant & Castle, England, England",England,ENG
+540,Sandwell,United Kingdom,52.5151278,-2.013562373718973,"Sandwell, England, England",England,ENG
+541,Wales,United Kingdom,53.34061,-1.28162,"Saltney, Wales, Wales",England,ENG
+542,Salem,United States,42.5195292,-70.8967226,"Salem, MA",Massachusetts,MA
+543,London,United Kingdom,51.5846627,-0.3134253,"Kenton, London, England, England",England,ENG
+544,Mill Creek,United States,47.8577455,-122.2210628,"Mill Creek, WA",Washington,WA
+545,San Fernando,United States,34.28497,-118.437652,"San Fernando, CA",California,CA
+546,North Brunswick,United States,40.4539249,-74.476545,"North Brunswick, NJ",New Jersey,NJ
+547,Fenton,United States,42.7978061,-83.7049498,"Fenton, MI",Michigan,MI
+548,Montreal,Canada,45.5031824,-73.5698065,"Montréal, QC",Quebec,QC
+549,Pembroke,United Kingdom,51.673007,-4.9064413,"Pembroke, Wales, Wales",Wales,WLS
+550,Shoalhaven City Council,Australia,-34.7322837,150.6762019,"Broughton, Wales, Wales",New South Wales,NSW
+551,Linthicum,United States,39.2039094,-76.6597094,"Linthicum, MD",Maryland,MD
+552,Wenatchee,United States,47.4234599,-120.310349,"Wenatchee, WA",Washington,WA
+553,Wausau,United States,44.9596017,-89.6298239,"Wausau, WI",Wisconsin,WI
+554,Victoria,United States,28.8202926,-96.9848646,"Victoria, TX",Texas,TX
+555,Kumasi,Ghana,6.698152,-1.621229,"Kumasi, Ashanti, Ashanti",Ashanti,AH
+556,Porth,United Kingdom,51.6124563,-3.4076599,"Porth, Wales, Wales",Wales,WLS
+557,Warangal,India,17.9820644,79.5970954,Warangal,Telangana,TG
+558,Ottumwa,United States,41.0195659,-92.4116886,"Ottumwa, IA",Iowa,IA
+559,Village of East Rockaway,United States,40.641937,-73.6662877,"Far Rockaway, NY",New York,NY
+560,Tinton Falls,United States,40.2890734,-74.0927967,"Tinton Falls, NJ",New Jersey,NJ
+561,Wales,United States,48.895238,-98.600806,"North Cornelly, Wales, Wales",North Dakota,ND
+562,Melbourne,Australia,-37.81650195,144.9838372088187,Jolimont,Victoria,VIC
+563,Front Royal,United States,38.9178538,-78.1917718,"Front Royal, VA",Virginia,VA
+564,Walla Walla,United States,46.0667277,-118.339345,"Walla Walla, WA",Washington,WA
+565,Quantico,United States,38.5223434,-77.2935926,"Quantico, VA",Virginia,VA
+566,Saltash,United Kingdom,50.4086702,-4.2112226,"Saltash, England, England",England,ENG
+567,Melbourne,Australia,-37.7136622,145.14771859225922,"Eltham, Victoria, Victoria",Victoria,VIC
+568,Shrewsbury,United Kingdom,52.7278767,-2.7429648,"Mount Pleasant, England, England",England,ENG
+569,Fort Saskatchewan,Canada,53.7128571,-113.2148942,"Fort Saskatchewan, AB",Alberta,AB
+570,Connah's Quay,United Kingdom,53.2327995,-3.0831460831608393,"Connahs Quay, Wales, Wales",Wales,WLS
+571,Sweetwater,United States,32.4709519,-100.405938,"Sweetwater, TX",Texas,TX
+572,London,United Kingdom,51.429006799999996,-0.36358215000000466,"Walton upon Thames, England, England",England,ENG
+573,Sandestin,United States,30.3799222,-86.3302238,"Sandestin, FL",Florida,FL
+574,Wasilla,United States,61.5824216,-149.442563,"Wasilla, AK",Alaska,AK
+575,New Kent,United States,37.5178648,-76.9783631,"New Kent, VA",Virginia,VA
+576,San Antonio,United States,28.3361142,-82.2745308,"San Antonio, FL",Florida,FL
+577,Pembroke Dock,United Kingdom,51.6982804,-4.9530572,"Pembroke Dock, Wales, Wales",Wales,WLS
+578,Corinth,United States,33.1540091,-97.0647322,"Corinth, TX",Texas,TX
+579,Walled Lake,United States,42.537811,-83.4810481,"Walled Lake, MI",Michigan,MI
+580,Saint-Hyacinthe,Canada,45.627484,-72.940636,"Saint-Hyacinthe, QC",Quebec,QC
+581,Pensacola Beach,United States,30.3342348,-87.1350979,"Pensacola Beach, FL",Florida,FL
+582,Washington,United States,40.17396,-80.2461714,"Washington, PA",Pennsylvania,PA
+583,Waterville,United States,44.5520105,-69.6317121,"Waterville, ME",Maine,ME
+584,Osasco,Brazil,-23.5324859,-46.7916801,Osasco,São Paulo,SP
+585,Guntur,India,16.2915189,80.4541588,Guntūr,Andhra Pradesh,AP
+586,Saratoga,United States,37.2638324,-122.0230146,"Saratoga, CA",California,CA
+587,Watertown,United States,42.3652226,-71.1843771,"Watertown, MA",Massachusetts,MA
+588,Elmont,United States,40.7076444,-73.7093041,"Elmont, NY",New York,NY
+589,Mount Vernon,United States,48.4200462,-122.32642,"Mount Vernon, WA",Washington,WA
+590,Warwick,United Kingdom,52.28333,-1.58333,"Warwick, North West England, England, England",England,ENG
+591,Staunton,United States,38.1495947,-79.072557,"Staunton, VA",Virginia,VA
+592,Viçosa do Ceará,Brazil,-3.5667684,-41.091504,Viçosa do Ceará,Ceará,CE
+593,Saint Joseph,United States,42.1095808,-86.4799538,"Saint Joseph, MI",Michigan,MI
+594,Santee,United States,32.8383828,-116.9739167,"Santee, CA",California,CA
+595,Ciudad Victoria,Mexico,23.7389846,-99.1441352,"Cheltenham, Victoria, Victoria",Tamaulipas,TAM
+596,Sydney,Australia,-33.90023315,151.17257865,"Monmouth, Wales, Wales",New South Wales,NSW
+597,Queensferry,United Kingdom,53.2079565,-3.021788,"Queensferry, Wales, Wales",Wales,WLS
+598,Mount Airy,United States,39.3765918,-77.1549078,"Mount Airy, MD",Maryland,MD
+599,Duvall,United States,47.7423219,-121.9856782,"Duvall, WA",Washington,WA
+600,Sydney,Australia,-33.8784753,151.104049,"Burwood, New South Wales, New South Wales",New South Wales,NSW
+601,Ottawa,United States,41.3516628,-88.845436,"Ottawa, IL",Illinois,IL
+602,Covington,United States,47.3657791,-122.100222,"Covington, WA",Washington,WA
+603,Centerville,United States,39.6283928,-84.1593818,"Centerville, OH",Ohio,OH
+604,Nelson,New Zealand,-41.2764829,173.2914116,"Nelson, Tasman",Nelson,NSN
+605,South Salt Lake,United States,40.7074741,-111.88827,"South Salt Lake, UT",Utah,UT
+606,Porthcawl,United Kingdom,51.4769107,-3.7022676,"Porthcawl, Wales, Wales",Wales,WLS
+607,Clinton,United States,41.8502821,-90.1877485,"Clinton, IA",Iowa,IA
+608,Palm City,United States,27.202311,-80.2735567,"Lighthouse Point, Broward, FL, Optional[FL]",Florida,FL
+609,Washington Court House,United States,39.5364511,-83.4390843,"Washington Court House, OH",Ohio,OH
+610,Arlington,United States,48.1810957,-122.1389548,"Arlington, WA",Washington,WA
+611,Newport,United Kingdom,51.5954576,-3.0662702,"Rogerstone, Wales, Wales",Wales,WLS
+612,Saltburn by the Sea,United Kingdom,54.5846769,-0.9740921,"Saltburn-by-the-Sea, England, England",England,ENG
+613,Saarbrücken,Germany,49.234362,6.996379,Saarbrücken,Saarland,SL
+614,St. Catharines,Canada,43.1185457,-79.2391241,"Saint Catharines, ON",Ontario,ON
+615,Calabasas,United States,34.1446643,-118.644097,"Calabasas, CA",California,CA
+616,St. George,United States,37.0802661,-113.5784608,"Saint George, UT",Utah,UT
+617,Huntersville,United States,35.4108278,-80.8429304,"Huntersville, NC",North Carolina,NC
+618,Caernarvon Township,United States,40.1552219,-75.889912,"Morgantown, PA",Pennsylvania,PA
+619,Quinte West,Canada,44.1019126,-77.57539,"Trenton, ON",Ontario,ON
+620,Asansol,India,23.6871297,86.9746587,"Āsansol, West Bengal, West Bengal",West Bengal,WB
+621,Mount Prospect,United States,42.0664167,-87.9372908,"Mount Prospect, IL",Illinois,IL
+622,Cheney,United States,47.4892246,-117.579304,"Cheney, WA",Washington,WA
+623,Punta Gorda,United States,26.9297836,-82.0453664,"Punta Gorda, FL",Florida,FL
+624,Stornoway,United Kingdom,58.20842,-6.3881077,"Stornoway, Scotland, Scotland",Scotland,SCT
+625,San Miguel de Tucumán,Argentina,-26.8303703,-65.2038133,San Miguel de Tucumán,Tucumán,T
+626,Sydney,Australia,-33.8260081,151.2254326,"Cremorne, New South Wales, New South Wales",New South Wales,NSW
+627,Santo André,Brazil,-23.6573395,-46.5322504,"Santo André, São Paulo, São Paulo",São Paulo,SP
+628,Rancho San Diego,United States,32.7472748,-116.9353032,"Rancho San Diego, CA",California,CA
+629,Arkansas City,United States,37.0622562,-97.0388338,"Arkansas City, KS",Kansas,KS
+630,Bluewater,United States,34.1686271,-114.2649504,"Bluewater, AZ",Arizona,AZ
+631,Odenton,United States,39.0897199,-76.7073534,"Odenton, MD",Maryland,MD
+632,Silverdale,United States,47.6594091,-122.6766317,"Silverdale, WA",Washington,WA
+633,Northeast Center,United States,41.9317593,-73.5340131,"Northeast Center, NY",New York,NY
+634,Newtown,United States,41.4200956,-73.2820608,"Sandy Hook, CT",Connecticut,CT
+635,Sydney,Australia,-34.0200181,151.1226751,Taren Point,New South Wales,NSW
+636,South Somerset,United Kingdom,51.0560417,-2.4112309,"Wincanton, England, England",England,ENG
+637,Pointe-Claire,Canada,45.4566767,-73.8067442,"Pointe-Claire, QC",Quebec,QC
+638,Mount Juliet,United States,36.200055,-86.5186054,"Mount Juliet, TN",Tennessee,TN
+639,Caldicot,United Kingdom,51.5845063,-2.7597685,"Caldicot, Wales, Wales",Wales,WLS
+640,Paramount,United States,33.898917,-118.171005,"Paramount, CA",California,CA
+641,Borough of Spelthorne,United Kingdom,51.4531631,-0.4628496,"West Bedfont, England, England",England,ENG
+642,Melbourne,Australia,-37.841739,145.2681208,Bayswater,Victoria,VIC
+643,El Sobrante,United States,37.9774476,-122.2949894,"El Sobrante, CA",California,CA
+644,Village of Pewaukee,United States,43.0805651,-88.2612045,"Pewaukee, WI",Wisconsin,WI
+645,Belmont,United States,42.3959296,-71.1786655,"Belmont, MA",Massachusetts,MA
+646,Melbourne,Australia,-37.8523357,145.2259721,Wantirna,Victoria,VIC
+647,Borough of Newcastle-under-Lyme,United Kingdom,53.0305158,-2.219897,"Wolstanton, England, England",England,ENG
+648,San Juan Capistrano,United States,33.5016932,-117.6625509,"San Juan Capistrano, CA",California,CA
+649,Waynesville,United States,37.8141419,-92.2266876,"Waynesville, MO",Missouri,MO
+650,Perth,Australia,-41.5730227,147.1719755,"Perth, Tasmania, Tasmania",Tasmania,TAS
+651,Eagle Mountain,United States,40.3093488,-112.0119825,"Eagle Mountain, UT",Utah,UT
+652,Manteno,United States,41.2506759,-87.8314299,"Manteno, IL",Illinois,IL
+653,Clarence Center,United States,43.0106139,-78.6375283,"Clarence Center, NY",New York,NY
+654,Canton,United States,42.1584324,-71.1447732,"Canton, MA",Massachusetts,MA
+655,Huntington Station,United States,40.8534318,-73.4115091,"Huntington Station, NY",New York,NY
+656,Wales,United States,48.895238,-98.600806,"Abergele, Wales, Wales",North Dakota,ND
+657,Matawan,United States,40.41483,-74.2295891,"Matawan, NJ",New Jersey,NJ
+658,Monticello,United States,40.7453169,-86.7647343,"Monticello, IN",Indiana,IN
+659,Little Chalfont,United Kingdom,51.6700802,-0.5632091,"Little Chalfont, England, England",England,ENG
+660,Washington,United States,35.5493702,-77.0535574,"Washington, NC",North Carolina,NC
+661,Lemont,United States,41.6737149,-88.0016263,"Lemont, IL",Illinois,IL
+662,Colchester,United Kingdom,51.882731,0.8135122,"Stanway, England, England",England,ENG
+663,Ciudad Victoria,Mexico,23.7389846,-99.1441352,"Croydon, Victoria, Victoria",Tamaulipas,TAM
+664,Wauconda,United States,42.2589122,-88.1392474,"Wauconda, IL",Illinois,IL
+665,Ciudad Victoria,Mexico,23.7389846,-99.1441352,"Burwood, Victoria, Victoria",Tamaulipas,TAM
+666,St. Albans,United States,38.3856488,-81.836241,"Saint Albans, WV",West Virginia,WV
+667,Liberty Lake,United States,47.6681145,-117.104865,"Liberty Lake, WA",Washington,WA
+668,East Suffolk,United Kingdom,52.2142535,1.4918009,"Saxmundham, England, England",England,ENG
+669,Lake Stevens,United States,48.0197794,-122.0660914,"Lake Stevens, WA",Washington,WA
+670,Rosemount,United States,44.7391873,-93.12611,"Rosemount, MN",Minnesota,MN
+671,Walker,United States,30.4879678,-90.8614878,"Walker, LA",Louisiana,LA
+672,Melbourne,Australia,-37.82050305,145.1751332415871,Nunawading,Victoria,VIC
+673,Saukville,United States,43.3816691,-87.9406454,"Saukville, WI",Wisconsin,WI
+674,Swansea,United States,41.7481575,-71.1897684,"Swansea, MA",Massachusetts,MA
+675,Pataskala,United States,39.9955726,-82.6742373,"Pataskala, OH",Ohio,OH
+676,Saint Albans,United States,44.8107911,-73.0833607,"Saint Albans, VT",Vermont,VT
+677,Wales,United Kingdom,53.34061,-1.28162,"Merthyr, Wales, Wales",England,ENG
+678,Massapequa,United States,40.6761472,-73.4696557,"Massapequa, NY",New York,NY
+679,Sydney,Australia,-34.0316667,150.8511111,Minto,New South Wales,NSW
+680,Claremont,United States,43.3727579,-72.3382504,"Claremont, NH",New Hampshire,NH
+681,Village/Town of Mount Kisco,United States,41.2042616,-73.7270761,"Mount Kisco, NY",New York,NY
+682,Shelton,United States,47.2150945,-123.100706,"Shelton, WA",Washington,WA
+683,Mount Vernon,United States,38.3172715,-88.9031201,"Mount Vernon, IL",Illinois,IL
+684,Painted Post,United States,42.1620186,-77.0941366,"Painted Post, NY",New York,NY
+685,City of North Tonawanda,United States,43.0407742,-78.8660527,"North Tonawanda, NY",New York,NY
+686,Mount Barker,Australia,-35.0641302,138.8586385,"Mount Barker, South Australia, South Australia",South Australia,SA
+687,Prince George,Canada,53.838256,-122.743455,"Santa Fe Springs, Los Angeles, CA, Optional[CA]",British Columbia,BC
+688,Pleasanton,United States,28.967194,-98.4786269,"Pleasanton, TX",Texas,TX
+689,Sanger,United States,33.3631706,-97.1739028,"Sanger, TX",Texas,TX
+690,Byron Center,United States,42.8122508,-85.7228062,"Byron Center, MI",Michigan,MI
+691,San Lorenzo,United States,37.6810422,-122.1244088,"San Lorenzo, CA",California,CA
+692,Alsager,United Kingdom,53.0960614,-2.3046307,"Alsager, England, England",England,ENG
+693,Benton,United States,34.5645372,-92.586828,"Benton, AR",Arkansas,AR
+694,San Nicolás de los Garza,Mexico,25.7367433,-100.269807,San Nicolás de los Garza,Nuevo León,NLE
+695,Sandown,United Kingdom,50.6530593,-1.1536287,"Sandown, England, England",England,ENG
+696,Boston,United States,42.3554266,-71.0605017,"Downtown Crossing, MA",Massachusetts,MA
+697,Enterprise,United States,31.3151708,-85.8552161,"Enterprise, AL",Alabama,AL
+698,Pagosa Springs,United States,37.2695661,-107.010816,"Pagosa Springs, CO",Colorado,CO
+699,Ritzville,United States,47.1268749,-118.380847,"Ritzville, WA",Washington,WA
+700,Crescent City,United States,41.8528065,-124.14986198309553,"Crescent City, CA",California,CA
+701,Agawam,United States,42.0688621,-72.6151604,"Agawam, MA",Massachusetts,MA
+702,Wallingford,United States,41.4570418,-72.8231552,"Wallingford, CT",Connecticut,CT
+703,Sydney,Australia,-33.9332633,150.949686,"Moorebank, New South Wales",New South Wales,NSW
+704,Burien,United States,47.469918,-122.3485274,"Burien, WA",Washington,WA
+705,New York,United States,40.6578815,-73.8362459,"Howard Beach, NY",New York,NY
+706,Coventry,United Kingdom,52.426112,-1.440645,"Walsgrave on Sowe, England, England",England,ENG
+707,Arun,United Kingdom,50.8552406,-0.6479148,"Fontwell, England, England",England,ENG
+708,Cardiff,United Kingdom,51.533284,-3.1819465,"Llanishen, Cardiff, Wales, Wales",Wales,WLS
+709,Polokwane,South Africa,-23.9058333,29.4613889,Polokwane,Limpopo,LP
+710,Wales,United States,48.895238,-98.600806,"Nantgarw, Wales, Wales",North Dakota,ND
+711,Denton,United States,38.8845583,-75.8271564,"Denton, MD",Maryland,MD
+712,Penarth,United Kingdom,51.4358489,-3.1746781,"Penarth, Wales, Wales",Wales,WLS
+713,Noosa Heads,Australia,-26.398056,153.061676,Noosaville,Queensland,QLD
+714,Wareham,United Kingdom,50.6868972,-2.1098377,"Wareham, England, England",England,ENG
+715,Piedmont,United States,34.7023389,-82.4645714,"Piedmont, SC",South Carolina,SC
+716,Linthicum,United States,39.2039094,-76.6597094,"Linthicum Heights, MD",Maryland,MD
+717,Sanger,United States,36.708006,-119.5559652,"Sanger, CA",California,CA
+718,Penticton,Canada,49.5003268,-119.5932499,"Penticton, BC",British Columbia,BC
+719,Town of Moravia,United States,42.7584033,-76.4593813,"Southeast Owasco, NY",New York,NY
+720,Sacramento,United States,38.6060158,-121.4574543,"North Sacramento, CA",California,CA
+721,Village of Pleasantville,United States,41.1328736,-73.7926335,"Pleasantville, NY",New York,NY
+722,Walnut Ridge,United States,36.0680241,-90.9561004,"Walnut Ridge, AR",Arkansas,AR
+723,Huntington,United States,40.8831011,-85.497476,"Huntington, IN",Indiana,IN
+724,Criciúma,Brazil,-28.6789941,-49.3695627,"Criciúma, Santa Catarina, Santa Catarina",Santa Catarina,SC
+725,Cowbridge,United Kingdom,51.4585682,-3.4462864235742865,"Cowbridge, Wales, Wales",Wales,WLS
+726,City of Lackawanna,United States,42.8257735,-78.823648,"Lackawanna, NY",New York,NY
+727,Pontypridd,United Kingdom,51.5918935,-3.3249855,"Treforest, Wales, Wales",Wales,WLS
+728,Montréal-Est,Canada,45.6309797,-73.4977437,"Montréal-Est, QC",Quebec,QC
+729,Hammonton,United States,39.6365056,-74.8023853,"Hammonton, NJ",New Jersey,NJ
+730,San Diego,United States,27.7639145,-98.2388953,"San Diego, TX",Texas,TX
+731,Clinton,United States,41.2787104,-72.5275904,"Clinton, CT",Connecticut,CT
+732,Waite Park,United States,45.51301545,-94.26067180000001,"Waite Park, MN",Minnesota,MN
+733,Twentynine Palms,United States,34.1356915,-116.0543506,"Twentynine Palms, CA",California,CA
+734,Upper Gwynedd Township,United States,40.2067735,-75.2993434,"West Point, PA",Pennsylvania,PA
+735,Tenby,United Kingdom,51.6621805,-4.710540012667305,"South Beach, Wales, Wales",Wales,WLS
+736,Tenterden,United Kingdom,51.0700956,0.6888267,"Tenterden, England, England",England,ENG
+737,Longview,United States,46.145633,-122.930756,"Tri Cities, WA",Washington,WA
+738,Union Gap,United States,46.5573492,-120.475063,"Union Gap, WA",Washington,WA
+739,Corinth,United States,34.9343599,-88.5223353,"Corinth, MS",Mississippi,MS
+740,South San Jose Hills,United States,34.0127895,-117.9047845,"South San Jose Hills, CA",California,CA
+741,Village of Canton,United States,44.5956163,-75.1690942,"Canton, NY",New York,NY
+742,Sachse,United States,32.9762327,-96.5952703,"Sachse, TX",Texas,TX
+743,Mantua,United States,41.283944,-81.223991,"Mantua, OH",Ohio,OH
+744,North Wales,United States,40.2109404,-75.2782317,"North Wales, PA",Pennsylvania,PA
+745,Burlington,United States,48.4738136,-122.330453,"Burlington, WA",Washington,WA
+746,Linton,United States,39.0347666,-87.1658458,"Linton, IN",Indiana,IN
+747,Sausalito,United States,37.8590272,-122.485469,"Sausalito, CA",California,CA
+748,Melbourne,Australia,-37.8255813,145.28219,"Bayswater North, Victoria",Victoria,VIC
+749,Toronto,Canada,43.6534817,-79.3839347,Toronto,Ontario,ON
+750,Delta,Canada,49.016667,-123.083333,"Tsawwassen, BC",British Columbia,BC
+751,Village of Larchmont,United States,40.9278769,-73.7517983,"Larchmont, NY",New York,NY
+752,Bonney Lake,United States,47.1870191,-122.1702293,"Bonney Lake, WA",Washington,WA
+753,Walterboro,United States,32.9021377,-80.6672631,"Walterboro, SC",South Carolina,SC
+754,Azusa,United States,34.1338751,-117.9056046,"Azusa, CA",California,CA
+755,Gladstone,Australia,-23.8464223,151.2629467,"Gladstone, Queensland, Queensland",Queensland,QLD
+756,Polmont,United Kingdom,55.9905901,-3.7074588,"Polmont, Scotland, Scotland",Scotland,SCT
+757,Kawartha Lakes,Canada,44.3551266,-78.7369939,"Lindsay, ON",Ontario,ON
+758,Central,United States,31.4274044,-94.8085436,"Central, TX",Texas,TX
+759,Almont,United States,42.9205842,-83.0449348,"Almont, MI",Michigan,MI
+760,Walpole,United States,42.1459019,-71.2538759,"Walpole, MA",Massachusetts,MA
+761,Brooklyn Center,United States,45.0748543,-93.3296296,"Brooklyn Center, MN",Minnesota,MN
+762,Ciudad Victoria,Mexico,23.7389846,-99.1441352,"Broadmeadows, Victoria, Victoria",Tamaulipas,TAM
+763,Toronto,United States,37.7989253,-95.9491562,"Toronto, KS",Kansas,KS
+764,Dublin,Ireland,53.3971578,-6.2454723,Santry,Leinster,L
+765,Santiago de Compostela,Spain,42.8804219,-8.5458608,Santiago de Compostela,Galicia,GA
+766,Mount Morris,United States,43.118637,-83.694958,"Mount Morris, MI",Michigan,MI
+767,Warrenton,United States,38.7135498,-77.795367,"Warrenton, VA",Virginia,VA
+768,Baglan,United Kingdom,51.6143157,-3.8093646,"Baglan, Wales, Wales",Wales,WLS
+769,East Point,United States,33.6795531,-84.4393724,"East Point, GA",Georgia,GA
+770,Owatonna,United States,44.0839937,-93.2261076,"Owatonna, MN",Minnesota,MN
+771,San Jacinto,United States,33.7839664,-116.9589086,"San Jacinto, CA",California,CA
+772,Cantonment,United States,30.605427,-87.344442,"Cantonment, FL",Florida,FL
+773,Canton,United States,32.555664,-95.8640507,"Canton, TX",Texas,TX
+774,Breckland District,United Kingdom,52.6481171,0.6909259,"Swaffham, England, England",England,ENG
+775,La Puente,United States,34.0280619,-117.953097,"La Puente, CA",California,CA
+776,Camas,United States,45.5863014,-122.403277,"Camas, WA",Washington,WA
+777,Odessa,United States,38.9995797,-93.9539663,"Odessa, MO",Missouri,MO
+778,Barranquilla,Colombia,10.9810761,-74.7988827,"Barranquilla, Atlántico, Atlántico",Atlántico,ATL
+779,Sayre,United States,41.9789631,-76.515499,"Sayre, PA",Pennsylvania,PA
+780,Port Saint Joe,United States,29.8118757,-85.302974,"Port Saint Joe, FL",Florida,FL
+781,Brunswick,Australia,-33.2559469,115.840406,Brunswick,Western Australia,WA
+782,Mount Arlington,United States,40.9259319,-74.6348829,"Mount Arlington, NJ",New Jersey,NJ
+783,Yellowknife,Canada,62.4540807,-114.377385,"Yellowknife, NT",Northwest Territories,NT
+784,Kenmore,United States,47.7573202,-122.2440148,"Kenmore, WA",Washington,WA
+785,Salyersville,United States,37.7525922,-83.0687816,"Salyersville, KY",Kentucky,KY
+786,Blackwater and Hawley,United Kingdom,51.33013,-0.77737,"Blackwater, Hampshire, South East England, England, England",England,ENG
+787,Kewanee,United States,41.2455927,-89.9248303,"Kewanee, IL",Illinois,IL
+788,Claymont,United States,39.8006685,-75.4596404,"Claymont, DE",Delaware,DE
+789,Monument,United States,39.0916586,-104.872758,"Monument, CO",Colorado,CO
+790,Wallaceburg,Canada,42.5928652,-82.3873866,"Wallaceburg, ON",Ontario,ON
+791,Fountain Hills,United States,33.6117105,-111.717361,"Fountain Hills, AZ",Arizona,AZ
+792,Galloway Township,United States,39.45039355,-74.53584969687499,"Galloway, NJ",New Jersey,NJ
+793,South Cornelly,United Kingdom,51.50265205,-3.6988578378443306,"South Cornelly, Wales, Wales",Wales,WLS
+794,Warminster Township,United States,40.2067751,-75.0996159,"Warminster, PA",Pennsylvania,PA
+795,Saltford,United Kingdom,51.3995597,-2.4504354,"Saltford, England, England",England,ENG
+796,Ponte Vedra Beach,United States,30.2274645,-81.3800824,"Ponte Vedra, FL",Florida,FL
+797,Trenton,United States,42.1406552,-83.1800544,"Trenton, MI",Michigan,MI
+798,Seat Pleasant,United States,38.8879957,-76.8987649,"Seat Pleasant, MD",Maryland,MD
+799,Watertown,United States,44.899211,-97.115289,"Watertown, SD",South Dakota,SD
+800,Saltcoats,United Kingdom,55.6332429,-4.7887547,"Saltcoats, Scotland, Scotland",Scotland,SCT
+801,Swartz Creek,United States,42.9572508,-83.8305144,"Swartz Creek, MI",Michigan,MI
+802,New York,United States,40.6984364,-73.7606881,"Saint Albans, NY",New York,NY
+803,Pontotoc,United States,34.2478831,-88.998673,"Pontotoc, MS",Mississippi,MS
+804,Odessa,United States,28.183222,-82.55402792188,"Odessa, FL",Florida,FL
+805,Sandy Springs,United States,33.9242688,-84.3785379,"Sandy Springs, GA",Georgia,GA
+806,Bryant,United States,34.5959265,-92.4890469,"Bryant, AR",Arkansas,AR
+807,Salem,United States,37.293378,-80.054667,"Salem, VA",Virginia,VA
+808,Frontenac,United States,38.6358442,-90.4149786,"Frontenac, MO",Missouri,MO
+809,Waxahachie,United States,32.3944908,-96.8439365,"Waxahachie, TX",Texas,TX
+810,Edgewater,United States,40.8270448,-73.975694,"Edgewater, NJ",New Jersey,NJ
+811,Whitewater,United States,42.8336422,-88.7292679,"Whitewater, WI",Wisconsin,WI
+812,Washington,United States,40.7033988,-89.4065113,"Washington, IL",Illinois,IL
+813,Salmon Arm,Canada,50.7005059,-119.2790529,"Salmon Arm, BC",British Columbia,BC
+814,Milford Haven,United Kingdom,51.7154656,-5.0413715,"Milford Haven, Wales, Wales",Wales,WLS
+815,Denbigh,United Kingdom,53.1833572,-3.419586,"Denbigh, Wales, Wales",Wales,WLS
+816,Bellevue,United States,47.596411,-122.111391,"West Lake Sammamish, WA",Washington,WA
+817,Sallisaw,United States,35.4587305,-94.7879436,"Sallisaw, OK",Oklahoma,OK
+818,Tonypandy,United Kingdom,51.6198222,-3.4490713,"Tonypandy, Wales, Wales",Wales,WLS
+819,Wetaskiwin,Canada,52.968492,-113.36792,"Wetaskiwin, AB",Alberta,AB
+820,Huntingburg,United States,38.2989422,-86.9549972,"Huntingburg, IN",Indiana,IN
+821,Mountain Heaven,United States,31.9593333,-95.331895,"Mountain Heaven, TX",Texas,TX
+822,City of Tonawanda,United States,43.020679,-78.878383,"Tonawanda, NY",New York,NY
+823,Heswall,United Kingdom,53.3283218,-3.1002176,"Heswall, England, England",England,ENG
+824,Oak Park Heights,United States,45.0313559,-92.7929842,"Oak Park Heights, Washington, MN, Optional[MN]",Minnesota,MN
+825,Tonyrefail,United Kingdom,51.5846312,-3.4316746,"Tonyrefail, Wales, Wales",Wales,WLS
+826,Frinton-on-Sea,United Kingdom,51.8293064,1.2462138,"Frinton-on-Sea, England, England",England,ENG
+827,South Kingstown,United States,41.437324,-71.5014469,"Wakefield, RI",Rhode Island,RI
+828,Chesapeake Beach,United States,37.8409625,-76.2502207,"Chesapeake Beach, VA",Virginia,VA
+829,North Versailles,United States,40.3797913,-79.8094916,"North Versailles, PA",Pennsylvania,PA
+830,Cambridgeshire,United Kingdom,52.2657649,0.1909734,"Waterbeach, England, England",England,ENG
+831,Montreal West,Canada,45.4528545,-73.6442442,"Montréal-Ouest, QC",Quebec,QC
+832,Montgomery Village,United States,39.1729034,-77.2030297,"Montgomery Village, MD",Maryland,MD
+833,St. James,United States,37.9970626,-91.6139952,"Saint James, MO",Missouri,MO
+834,Wales,United States,48.895238,-98.600806,"Bangor-is-y-coed, Wales, Wales",North Dakota,ND
+835,West Warwick,United States,41.7061296,-71.5221451,"West Warwick, RI",Rhode Island,RI
+836,Mount Horeb,United States,43.0086183,-89.7384557,"Mount Horeb, WI",Wisconsin,WI
+837,Fairway,United States,39.0222277,-94.6319018,"Fairway, KS",Kansas,KS
+838,Loudwater,United Kingdom,51.6056798,-0.6969376,"Loudwater, England, England",England,ENG
+839,Fort Washington,United States,38.7125305,-77.0124598,"Fort Washington, MD",Maryland,MD
+840,San Joaquin,United States,36.6066162,-120.1890447,"San Joaquin, CA",California,CA
+841,City Of Kalamunda,Australia,-31.9434617,116.0056139,"High Wycombe, Western Australia",Western Australia,WA
+842,Lethbridge,Canada,49.689337,-112.828748,"San Ramon Village, CA",Alberta,AB
+843,Pleasant Grove,United States,40.3640349,-111.7386884,"Pleasant Grove, UT",Utah,UT
+844,Saline,United States,42.1667072,-83.7816075,"Saline, MI",Michigan,MI
+845,Center Point,United States,33.6456583,-86.6836001,"Center Point, AL",Alabama,AL
+846,Grosse Pointe,United States,42.3861485,-82.9118591,"Grosse Pointe, MI",Michigan,MI
+847,Swansboro,United States,34.6896728,-77.1232174,"Swansboro, NC",North Carolina,NC
+848,Wales,United States,42.737098,-78.521276,"Ewloe, Wales, Wales",New York,NY
+849,Stoke-on-Trent,United Kingdom,52.9668587,-2.1918521,"Trentham, England, England",England,ENG
+850,Waverly,United States,36.0830353,-87.7945789,"Waverly, TN",Tennessee,TN
+851,Pom-o-sa Heights,United States,38.1744715,-93.3960371,"Pom-o-sa Heights, MO",Missouri,MO
+852,Neepawa,Canada,50.2319353,-99.4637261,"Neepawa, MB",Manitoba,MB
+853,Ottawa,United States,38.6153828,-95.2678474,"Ottawa, KS",Kansas,KS
+854,Mercer Island,United States,47.5766324,-122.2276378,"Mercer Island, WA",Washington,WA
+855,Catoosa,United States,36.188987,-95.745817,"Catoosa, OK",Oklahoma,OK
+856,Iowa,United States,30.2368772,-93.0137569,"Iowa, LA",Louisiana,LA
+857,Norwalk,United States,41.2424219,-82.6155745,"Norwalk, OH",Ohio,OH
+858,Atascadero,United States,35.4894169,-120.6707255,"Atascadero, CA",California,CA
+859,Bengaluru,India,13.0662693,77.6336142,Thanisandra Main Rd,Karnataka,KA
+860,Sweetwater,United States,35.6014636,-84.4610394,"Sweetwater, TN",Tennessee,TN
+861,Ottawa,United States,41.0192185,-84.0471666,"Ottawa, OH",Ohio,OH
+862,Pontyclun,United Kingdom,51.5238395,-3.3920553,"Pontyclun, Wales, Wales",Wales,WLS
+863,Melbourne,Australia,-38.019932,145.302911,Fountain Gate,Victoria,VIC
+864,Bournemouth,United Kingdom,50.740144,-1.878759,"Winton, South West England, England, England",England,ENG
+865,Bunbury,Australia,-33.319663,115.637585,"Mount Washing, OH",Western Australia,WA
+866,Chimichagua,Colombia,9.2556968,-73.8913184,"Telecom, Cesar, Cesar",Cesar,CES
+867,Center,United States,31.7952814,-94.1803576,"Center, TX",Texas,TX
+868,Gorseinon,United Kingdom,51.6681839,-4.0339833,"Gorseinon, Wales, Wales",Wales,WLS
+869,Amlwch,United Kingdom,53.4087836,-4.3463051,"Amlwch, Wales, Wales",Wales,WLS
+870,Montville,United States,41.4649811,-72.1538184,"Montville, CT",Connecticut,CT
+871,Borough of Runnymede,United Kingdom,51.4033624,-0.5661711,"Virginia Water, England, England",England,ENG
+872,Stanwood,United States,48.24216,-122.3520327,"Stanwood, WA",Washington,WA
+873,San Jose,United States,35.3972397,-105.4756569,"San Jose, NM",New Mexico,NM
+874,Melbourne,Australia,-37.7250777,144.9379604,"Pascoe Vale, Victoria",Victoria,VIC
+875,St. Peter,United States,44.3238384,-93.9585295,"Saint Peter, MN",Minnesota,MN
+876,Redland City,Australia,-27.5241885,153.2652239,"Cleveland, Queensland, Queensland",Queensland,QLD
+877,West St. Paul,United States,44.9101545,-93.0802073,"West Saint Paul, MN",Minnesota,MN
+878,Dundonald,United Kingdom,54.598432,-5.834663,"Stormont, Northern Ireland, Northern Ireland",Northern Ireland,NIR
+879,Wales,United Kingdom,53.34061,-1.28162,"Cross Hands, Wales, Wales",England,ENG
+880,Cockeysville,United States,39.4922608,-76.6589528,"Hunt Valley, MD",Maryland,MD
+881,Leicester,United Kingdom,52.6373846,-1.149394,"Warren Street, England, England",England,ENG
+882,Waynesburg,United States,39.8964641,-80.1792299,"Waynesburg, PA",Pennsylvania,PA
+883,Durant,United States,33.9919761,-96.3776762,"Durant, OK",Oklahoma,OK
+884,Montrose,United States,43.176694,-83.892744,"Montrose, MI",Michigan,MI
+885,Morganton,United States,35.7454291,-81.6870837,"Morganton, NC",North Carolina,NC
+886,Clinton,United States,34.4726277,-81.8806562,"Clinton, SC",South Carolina,SC
+887,Conway,United States,33.8360035,-79.0478143,"Conway, SC",South Carolina,SC
+888,Fountain,United States,38.751126,-104.74463115441176,"Fountain, CO",Colorado,CO
+889,Valley,United Kingdom,53.2815404,-4.5634307,"Valley, Wales, Wales",Wales,WLS
+890,Swarthmore,United States,39.9020565,-75.3499124,"Swarthmore, PA",Pennsylvania,PA
+891,Sequim,United States,48.0849312,-123.1096706,"Sequim, WA",Washington,WA
+892,Saginaw,United States,32.8601275,-97.3639068,"Saginaw, TX",Texas,TX
+893,Sartell,United States,45.6216319,-94.2069365,"Sartell, MN",Minnesota,MN
+894,Monticello,United States,45.3053901,-93.7939996,"Monticello, MN",Minnesota,MN
+895,Port Orchard,United States,47.5315625,-122.6384056,"Port Orchard, WA",Washington,WA
+896,Mount Orab,United States,39.0275659,-83.919652,"Mount Orab, OH",Ohio,OH
+897,Sacramento,United States,32.7925983,-105.560536,"Sacramento, NM",New Mexico,NM
+898,Ponteland,United Kingdom,55.0498798,-1.7435142,"Ponteland, England, England",England,ENG
+899,Mount Gilead,United States,40.5492265,-82.8274015,"Mount Gilead, OH",Ohio,OH
+900,Swift Current,Canada,50.2849138,-107.7984496,"Swift Current, SK",Saskatchewan,SK
+901,Waikoloa Village,United States,19.94256305,-155.78649035477218,"Waikoloa, HI",Hawaii,HI
+902,Belmont,United States,35.2438272,-81.0377322,"Belmont, NC",North Carolina,NC
+903,Waller,United States,30.0640003,-95.9250516,"Waller, TX",Texas,TX
+904,St Marys,Australia,-33.774201,150.775353,"Saint Marys, New South Wales, New South Wales",New South Wales,NSW
+905,Fremont,United States,41.7308834,-84.9327395,"Fremont, IN",Indiana,IN
+906,Sapulpa,United States,36.0005035,-96.1049612,"Sapulpa, OK",Oklahoma,OK
+907,Guntersville,United States,34.3581474,-86.2947041,"Guntersville, AL",Alabama,AL
+908,Acton,United States,34.469994,-118.1967418,"Acton, CA",California,CA
+909,Santana de Parnaíba,Brazil,-23.4446715,-46.9167722,Santana de Parnaíba,São Paulo,SP
+910,Bucaramanga,Colombia,7.1172633,-73.1156668,"Bucaramanga, Santander, Santander",Santander,SAN
+911,Sydney,Australia,-33.928717,151.0522591,"Punchbowl, New South Wales",New South Wales,NSW
+912,Benton Harbor,United States,42.1167065,-86.4541894,"Benton Harbor, MI",Michigan,MI
+913,Burnt Hills,United States,42.9097982,-73.8951234,"Burnt Hills, NY",New York,NY
+914,Cantwell,United States,63.392185,-148.9538591,"Cantwell, AK",Alaska,AK
+915,King's Lynn and West Norfolk,United Kingdom,52.9533215,0.5056418,"Hunstanton, England, England",England,ENG
+916,Melbourne,Australia,-37.7639467,144.8361969,"Sunshine North, Victoria",Victoria,VIC
+917,Borough of Fylde,United Kingdom,53.753181,-3.02895,"Saint Annes on the Sea, England, England",England,ENG
+918,Wainwright,United States,70.61479505,-159.86420916820765,"Fort Wainwright, AK",Alaska,AK
+919,Newark,United States,40.735657,-74.1723667,Newark,New Jersey,NJ
+920,Toronto,Canada,43.6506851,-79.501724,"The Kingsway, ON",Ontario,ON
+921,Waiblingen,Germany,48.8425793,9.3305129,Waiblingen,Baden-Württemberg,BW
+922,Sydney,Australia,-33.860451,151.0806118,"Homebush, New South Wales, New South Wales",New South Wales,NSW
+923,Norway,United States,45.786902,-87.903736,"Norway, MI",Michigan,MI
+924,Wales,United Kingdom,53.34061,-1.28162,"Treharris, Wales, Wales",England,ENG
+925,Anantapur,India,14.6783221,77.6065039,"Anantapur, Andhra Pradesh, Andhra Pradesh",Andhra Pradesh,AP
+926,Passaic,United States,40.8567663,-74.1284764,"Passaic, NJ",New Jersey,NJ
+927,Montverde,United States,28.6002769,-81.673964,"Montverde, FL",Florida,FL
+928,Montrose,United States,41.8339654,-75.8771388,"Montrose, PA",Pennsylvania,PA
+929,Saint Croix,United States,38.2239489,-86.5863736,Saint Croix,Indiana,IN
+930,Waianae,United States,21.446678,-158.185272,"Waianae, HI",Hawaii,HI
+931,Tredegar,United Kingdom,51.786947,-3.267443,"Tredegar, Wales, Wales",Wales,WLS
+932,Town of Montgomery,United States,41.5275938,-74.236816,"Montgomery, NY",New York,NY
+933,Ciudad Victoria,Mexico,23.7389846,-99.1441352,"Ringwood, Victoria, Victoria",Tamaulipas,TAM
+934,Seattle,United States,47.6765073,-122.3862233,"Ballard, WA",Washington,WA
+935,Sandwell,United Kingdom,52.4626405,-2.0128137,"Quinton, West Midlands, West Midlands, England, England",England,ENG
+936,East Devon,United Kingdom,50.805436,-2.9875049,All Saints,England,ENG
+937,Sydney,Australia,-33.8690024,151.1290231,"Five Dock, New South Wales",New South Wales,NSW
+938,Centurion,South Africa,-25.836389,28.180278,Centurion,Gauteng,GT
+939,Ciudad Victoria,Mexico,23.7389846,-99.1441352,"Cremorne, Victoria, Victoria",Tamaulipas,TAM
+940,Wallace,United States,34.735724,-77.9952628,"Wallace, NC",North Carolina,NC
+941,Old Toronto,Canada,43.62165,-79.396318,"Huntington Park, Los Angeles, CA, Optional[CA]",Ontario,ON
+942,Antelope,United States,38.7082357,-121.3299513,"Antelope, CA",California,CA
+943,Phoenix,United States,33.3194186,-112.0312962,"Ahwatukee, AZ",Arizona,AZ
+944,San Tan Valley,United States,33.1775233,-111.5478925,San Tan Valley,Arizona,AZ
+945,Uniontown,United States,39.900076,-79.7164326,"Uniontown, PA",Pennsylvania,PA
+946,Ewing Township,United States,40.263997,-74.8184964,"West Trenton, NJ",New Jersey,NJ
+947,Horsham,United Kingdom,51.0242057,-0.3523171,"Southwater, England, England",England,ENG
+948,Dowagiac,United States,41.9842123,-86.1086228,"Dowagiac, MI",Michigan,MI
+949,Antibes,France,43.5836,7.10905,Antibes,Provence-Alpes-Côte d'Azur,PAC
+950,Sunnyside,United States,46.3246419,-120.0081898,"Sunnyside, WA",Washington,WA
+951,SaintClair,United States,42.8208653,-82.486024,"Saint Clair, MI",Michigan,MI
+952,Snohomish,United States,47.9180275,-122.0899646,"Snohomish, WA",Washington,WA
+953,Cardiff,United Kingdom,51.4732061,-3.2145821,"Leckwith, Wales, Wales",Wales,WLS
+954,Waxhaw,United States,34.9248125,-80.7440174,"Waxhaw, NC",North Carolina,NC
+955,Clanton,United States,32.8387371,-86.6294262,"Clanton, AL",Alabama,AL
+956,Arlington,United States,48.15510715,-122.18752668875842,"Smokey Point, WA",Washington,WA
+957,Wales,United Kingdom,53.34061,-1.28162,"Bodelwyddan, Wales, Wales",England,ENG
+958,Folkestone and Hythe District,United Kingdom,51.0691421,1.0841634,"Hythe, Kent, South East England, England, England",England,ENG
+959,Zillah,United States,46.4020734,-120.261998,"Zillah, WA",Washington,WA
+960,Wahpeton,United States,46.265879,-96.608863,"Wahpeton, ND",North Dakota,ND
+961,Colville,United States,48.5465695,-117.905537,"Colville, WA",Washington,WA
+962,Pocahontas,United States,36.2612154,-90.9711021,"Pocahontas, AR",Arkansas,AR
+963,Sydney,Australia,-33.8483333,150.9011111,"Wetherill Park, New South Wales",New South Wales,NSW
+964,Sydney,Australia,-33.8936689,151.1656456,"Stanmore, New South Wales, New South Wales",New South Wales,NSW
+965,Chehalis,United States,46.6599653,-122.963432,"Chehalis, WA",Washington,WA
+966,Wall,United Kingdom,55.0155873,-2.1336148,"Wall, England, England",England,ENG
+967,Wales,United States,48.895238,-98.600806,"Conwy, Wales, Wales",North Dakota,ND
+968,Salem,United States,37.6455993,-91.5359808,"Salem, MO",Missouri,MO
+969,Hopkinton,United States,43.191661,-71.675491,"Hopkinton, NH",New Hampshire,NH
+970,Pasadena,United States,39.1361859,-76.5490844,"Pasadena, MD",Maryland,MD
+971,Wasco,United States,35.5941238,-119.3409457,"Wasco, CA",California,CA
+972,Clinton,United States,42.4212463,-71.6874099,"Clinton, MA",Massachusetts,MA
+973,Mountain Home,United States,43.1329504,-115.691197,"Mountain Home, ID",Idaho,ID
+974,Carneys Point Township,United States,39.71082015,-75.46755083409386,"Carneys Point, NJ",New Jersey,NJ
+975,Bainbridge Island,United States,47.6262688,-122.5209429,"Bainbridge Island, WA",Washington,WA
+976,Mountain Top,United States,40.1067654,-75.9527208,"Mountain Top, PA",Pennsylvania,PA
+977,Australia Landing,United States,34.065663,-90.8778833,"Australia Landing, MS",Mississippi,MS
+978,Paintsville,United States,37.8145384,-82.8071054,"Paintsville, KY",Kentucky,KY
+979,Saratoga Springs,United States,40.3491173,-111.904656,"Saratoga Springs, UT",Utah,UT
+980,San Isidro,Peru,-12.09655,-77.04258,"San Isidro, Lima Region, Lima Region",Lima,LIM
+981,Midway,United States,40.5249546,-111.4674102,"Mountain Spa, UT",Utah,UT
+982,Chalfont St Peter,United Kingdom,51.6082069,-0.5543134,"Chalfont Saint Peter, England, England",England,ENG
+983,Stony Point,United States,41.2295386,-73.9870847,"Stony Point, NY",New York,NY
+984,Calimesa,United States,34.0039044,-117.0619774,"Calimesa, CA",California,CA
+985,Totowa,United States,40.9050988,-74.2098679,"Totowa, NJ",New Jersey,NJ
+986,St-Jean,Canada,46.921801,-70.889475,"Saint-Jean, QC",Quebec,QC
+987,Wales,United Kingdom,53.34061,-1.28162,"Morfa, Wales, Wales",England,ENG
+988,Washington,United States,37.1305373,-113.5082867,"Washington, UT",Utah,UT
+989,Monticello,United States,40.026295,-88.567956,"Monticello, IL",Illinois,IL
+990,Iowa Park,United States,33.9514847,-98.6686709,"Iowa Park, TX",Texas,TX
+991,Sydney,Australia,-33.7705556,150.8205556,Mount Druitt,New South Wales,NSW
+992,Central Saanich,Canada,48.5937899,-123.38270004400854,"Saanichton, BC",British Columbia,BC
+993,Santiago del Estero,Argentina,-27.7877148,-64.2595062,Santiago del Estero,Santiago del Estero,G
+994,Port Washington,United States,40.8257072,-73.6958069,"Port Washington, NY",New York,NY
+995,Homosassa,United States,28.7813722,-82.6151001,"Homosassa, FL",Florida,FL
+996,Mount Crawford,United States,38.3570713,-78.9408615,"Mount Crawford, VA",Virginia,VA
+997,Walton,United States,38.8756194,-84.6102213,"Walton, KY",Kentucky,KY
+998,Town and Country,United States,38.6122751,-90.4634532,"Town and Country, MO",Missouri,MO
+999,Ciudad Victoria,Mexico,23.7389846,-99.1441352,"Kew, Victoria, Victoria",Tamaulipas,TAM
+1000,East Hertfordshire,United Kingdom,51.94672,-0.0172746,"Buntingford, England, England",England,ENG
+1001,Casalnuovo di Napoli,Italy,40.9148194,14.3511247,Casalnuovo di Napoli,Campania,CAM
+1002,Atascocita,United States,29.9990074,-95.1620137,"Atascocita, TX",Texas,TX
+1003,Great Clacton,United Kingdom,51.8046696,1.1566687,"Great Clacton, England, England",England,ENG
+1004,Dolgellau,United Kingdom,52.7448708,-3.8844686,"Dolgellau, Wales, Wales",Wales,WLS
+1005,Atlanta,United States,33.846493,-84.358537,"Atlanta Downtown Post Office, GA",Georgia,GA
+1006,Beaumont,United States,33.9299925,-116.9763092,"Beaumont, CA",California,CA
+1007,Mount Sinai,United States,40.9470432,-73.0295495,"Mount Sinai, NY",New York,NY
+1008,Salida,United States,38.5347193,-105.998902,"Salida, CO",Colorado,CO
+1009,Sankt Ingbert,Germany,49.2788378,7.1156707,"St. Ingbert, Saarland",Saarland,SL
+1010,Mount Holly,United States,35.2976298,-81.0161686,"Mount Holly, NC",North Carolina,NC
+1011,Ciudad Victoria,Mexico,23.7389846,-99.1441352,"Deer Park, Victoria, Victoria",Tamaulipas,TAM
+1012,Washington,United States,42.757649,-83.047346,"Washington, MI",Michigan,MI
+1013,Town of Kirkland,United States,43.0484029,-75.3785034,"Clinton, NY",New York,NY
+1014,Hermosa Beach,United States,33.86428,-118.39591,"Hermosa Beach, CA",California,CA
+1015,Old Saybrook,United States,41.2917652,-72.3761956,"Old Saybrook, CT",Connecticut,CT
+1016,Ciudad Victoria,Mexico,23.7389846,-99.1441352,"Werribee, Victoria, Victoria",Tamaulipas,TAM
+1017,Ipswich City,Australia,-27.649718999999997,152.7428082206087,Yamanto,Queensland,QLD
+1018,Coventry,United States,41.7000996,-71.6828444,"Coventry, RI",Rhode Island,RI
+1019,Santa Ana Pueblo,United States,35.3423578,-106.5260511,"Santa Ana Pueblo, NM",New Mexico,NM
+1020,Waterloo,United States,38.3358857,-90.1498341,"Waterloo, IL",Illinois,IL
+1021,Ciudad Victoria,Mexico,23.7389846,-99.1441352,"Laverton, Victoria, Victoria",Tamaulipas,TAM
+1022,Lincolnton,United States,35.473745,-81.2545251,"Lincolnton, NC",North Carolina,NC
+1023,New York,United States,40.7876014,-73.8459682,"College Point, NY",New York,NY
+1024,Ware,United States,42.2599297,-72.2397806,"Ware, MA",Massachusetts,MA
+1025,Monticello,United States,33.6293427,-91.7912327,"Monticello, AR",Arkansas,AR
+1026,Mont Belvieu,United States,29.8477222,-94.890758,"Mont Belvieu, TX",Texas,TX
+1027,Canton,United States,35.5328838,-82.8373558,"Canton, NC",North Carolina,NC
+1028,Lichfield,United Kingdom,52.6791667,-1.9154621,"Burntwood, England, England",England,ENG
+1029,Shawano,United States,44.7822064,-88.6089917,"Shawano, WI",Wisconsin,WI
+1030,Galloway,United States,39.9139207,-83.1633336,"Galloway, OH",Ohio,OH
+1031,Metropolitan Borough of Solihull,United Kingdom,52.3902971,-1.648477,"Balsall Common, England, England",England,ENG
+1032,Holywell,United Kingdom,53.2727623,-3.2201305,"Holywell, Wales, Wales",Wales,WLS
+1033,City Of Rockingham,Australia,-32.3265299,115.767922,Warnbro,Western Australia,WA
+1034,Monticello,United States,42.2382752,-91.1869428,"Monticello, IA",Iowa,IA
+1035,Winchester,United Kingdom,50.95434,-1.2180862,"Bishops Waltham, England, England",England,ENG
+1036,Wapakoneta,United States,40.5678265,-84.1935594,"Wapakoneta, OH",Ohio,OH
+1037,Valley Center,United States,33.226192999999995,-117.0291299794908,"Valley Center, CA",California,CA
+1038,Egypt,United States,34.074076,-86.165586,"Egypt, Etowah, AL, Optional[AL]",Alabama,AL
+1039,Town of Hinton,Canada,53.3990512,-117.5886772,"Hinton, AB",Alberta,AB
+1040,Cardiff County,United Kingdom,51.48366,-3.16942,"Cardiff university Queens Buildings, Wales, Wales",Wales,WLS
+1041,Melbourne,Australia,-37.698633,144.7863077,"Taylors Lakes, Victoria",Victoria,VIC
+1042,Brockton,Canada,44.1855305,-81.14308601518702,"Brant, ON",Ontario,ON
+1043,Abertillery,United Kingdom,51.7311437,-3.1380903,"Abertillery, Wales, Wales",Wales,WLS
+1044,Estación López,Argentina,-37.5528005,-59.6270551,"Lopez, WA",Buenos Aires,B
+1045,Melbourne,Australia,-37.8378229,144.8342853,"Altona North, Victoria",Victoria,VIC
+1046,Sunshine Coast Regional,Australia,-26.6301995,153.08227854741975,Twin Waters,Queensland,QLD
+1047,Moss Point,United States,30.4115881,-88.5344601,"Moss Point, MS",Mississippi,MS
+1048,Gig Harbor,United States,47.3259697,-122.5878659,"Gig Harbor, WA",Washington,WA
+1049,Village of Saugerties,United States,42.0775906,-73.9529126,"Saugerties, NY",New York,NY
+1050,Rotorua,New Zealand,-38.1381493,176.252922,"Rotorua, Bay of Plenty",Bay of Plenty,BOP
+1051,Wabash,United States,40.797821,-85.8205411,"Wabash, IN",Indiana,IN
+1052,Sackville,Canada,45.8999177,-64.3655256,"Sackville, NB",New Brunswick,NB
+1053,Warragul,Australia,-38.1588674,145.933629,Warragul,Victoria,VIC
+1054,Watsontown,United States,41.0844729,-76.8630726,"Watsontown, PA",Pennsylvania,PA
+1055,Sydney,Australia,-33.8263889,151.0305556,"Rosehill, New South Wales, New South Wales",New South Wales,NSW
+1056,Warrnambool,Australia,-38.3826241,142.4814191,Warrnambool,Victoria,VIC
+1057,Melbourne,Australia,-37.8815825,145.2951466,Ferntree Gully,Victoria,VIC
+1058,Wrentham,United States,42.0667652,-71.3281114,"Wrentham, MA",Massachusetts,MA
+1059,Waterman,United States,41.7716963,-88.7736942,"Waterman, IL",Illinois,IL
+1060,Boonton,United States,40.9025989,-74.4070971,"Boonton, NJ",New Jersey,NJ
+1061,Town of Islip,United States,40.7906538,-73.2017811,"Central Islip, NY",New York,NY
+1062,St Ives,United Kingdom,50.196896,-5.480315,"Saint Ives, Cornwall, South West England, England, England",England,ENG
+1063,Salem,United States,38.6269929,-88.9456158,"Salem, IL",Illinois,IL
+1064,Mount Vernon,United States,40.3933956,-82.4857181,"Mount Vernon, OH",Ohio,OH
+1065,Clinton,United States,40.152645,-88.9607122,"Clinton, IL",Illinois,IL
+1066,St. Ann,United States,38.7272735,-90.3831719,"Saint Ann, MO",Missouri,MO
+1067,Bay Saint Louis,United States,30.3132453,-89.3343223,"Bay Saint Louis, MS",Mississippi,MS
+1068,Uttlesford,United Kingdom,51.9033564,0.198802,"Stansted Mountfitchet, England, England",England,ENG
+1069,Clinton,United States,42.0719867,-83.9716096,"Clinton, MI",Michigan,MI
+1070,Sawgrass,United States,30.1927427,-81.3706368,"Sawgrass, FL",Florida,FL
+1071,Maesteg,United Kingdom,51.6088841,-3.6583848,"Maesteg, Wales, Wales",Wales,WLS
+1072,Waimea/Kamuela CDP,United States,20.020452,-155.66391,"Waimea, HI",Hawaii,HI
+1073,Swede Heaven,United States,48.2842748,-121.7281872,"Swede Heaven, WA",Washington,WA
+1074,Santa Fe Springs,United States,33.9480787,-118.0691499,"Santa Fe Springs, CA",California,CA
+1075,Noosa Heads,Australia,-26.3970775,153.0897466,Noosa Heads,Queensland,QLD
+1076,War,United States,37.3012246,-81.6909425,"War, WV",West Virginia,WV
+1077,Powder Wash,United States,40.9457977,-108.3114847,"Powder Wash, CO",Colorado,CO
+1078,East Fallowfield Township,United States,41.507746,-80.33934777256789,"Atlantic, PA",Pennsylvania,PA
+1079,Wall Township,United States,40.1743052,-74.0902219,"Wall Township, NJ",New Jersey,NJ
+1080,Yelm,United States,46.9413877,-122.60639,"Yelm, WA",Washington,WA
+1081,Nagawara,India,13.2227,78.5541977,Nagawara,Karnataka,KA
+1082,Sturtevant,United States,42.6980749,-87.8945229,"Sturtevant, WI",Wisconsin,WI
+1083,Salford,United Kingdom,53.49766,-2.382135,"Salford, East of England, England, England",England,ENG
+1084,Sault Ste. Marie,United States,46.490586,-84.359269,"Sault Ste. Marie, MI",Michigan,MI
+1085,Sorrento,United States,28.80777,-81.5636838,"Sorrento, FL",Florida,FL
+1086,Warsaw,United States,32.9376282,-88.2030841,"Warsaw, AL",Alabama,AL
+1087,Hamilton,Canada,43.3314156,-79.8956803,"Waterdown, ON",Ontario,ON
+1088,Saint-Laurent-de-l'Île-d'Orléans,Canada,46.8602081,-71.0065238,"Saint-Laurent, QC",Quebec,QC
+1089,Melbourne,Australia,-37.9430924,145.125236,"Clayton South, Victoria",Victoria,VIC
+1090,Mountain,United States,39.3620241,-80.9103853,"Mountain, WV",West Virginia,WV
+1091,Medway,United States,42.1417641,-71.3967256,"Medway, MA",Massachusetts,MA
+1092,Atlantic Beach,United States,34.701803,-76.738528,"Atlantic Beach, NC, Optional[NC]",North Carolina,NC
+1093,Ciudad Victoria,Mexico,23.7389846,-99.1441352,"Epping, Victoria, Victoria",Tamaulipas,TAM
+1094,Leicester,United States,43.8764519,-73.0642797,"Satans Kingdom, VT",Vermont,VT
+1095,Ankleshwar,India,21.6293206,72.9945103,Ankleshwar,Gujarat,GJ
+1096,California,Colombia,7.3480915,-72.9459294,"California, Santander, Santander",Santander,SAN
+1097,Lampeter,United Kingdom,52.115614,-4.0729072,"Lampeter, Wales, Wales",Wales,WLS
+1098,Countryside,United States,41.7771605,-87.87297479806902,"Countryside, IL",Illinois,IL
+1099,Perimetro Urbano Pereira,Colombia,4.8143159,-75.6946778,"Pereira, Risaralda, Risaralda",Risaralda,RIS
+1100,Minster,United Kingdom,51.331178,1.315642,"Minster, Kent, Kent, South East England, England, England",England,ENG
+1101,Oskaloosa,United States,41.2951037,-92.6448451,"Oskaloosa, IA",Iowa,IA
+1102,Walnutport,United States,40.7542619,-75.5987971,"Walnutport, PA",Pennsylvania,PA
+1103,Kentland,United States,40.7703153,-87.4453033,"Kentland, IN",Indiana,IN
+1104,Lahore,Pakistan,31.5305468,74.3611247,Lahore Cantonment,Punjab,PB
+1105,Sale,Australia,-38.1050358,147.0647902,Sale,Victoria,VIC
+1106,Cardigan,United Kingdom,52.083006600000004,-4.657477931403937,"Cardigan, Wales, Wales",Wales,WLS
+1107,Pantego,United States,32.7142988,-97.1564002,"Pantego, TX",Texas,TX
+1108,Huntsville,Canada,45.3263919,-79.218434,"Huntsville, ON",Ontario,ON
+1109,Cynthiana,United States,38.3903526,-84.2941013,"Cynthiana, KY",Kentucky,KY
+1110,Toronto,United States,30.3401601,-103.7507312,"Toronto, TX",Texas,TX
+1111,Birmingham,United States,33.5031609,-86.7752669,"Redmont Park, AL",Alabama,AL
+1112,St. Clair,United States,38.345274,-90.9809549,"Saint Clair, MO",Missouri,MO
+1113,Ellensburg,United States,46.9970635,-120.545122,"Ellensburg, WA",Washington,WA
+1114,Saugus,United States,42.4648183,-71.010051,"Saugus, MA",Massachusetts,MA
+1115,Sydney,Australia,-33.7713052,151.020996,"North Rocks, New South Wales",New South Wales,NSW
+1116,Montague Township,United States,41.3031498,-74.7934993,"Montague, NJ",New Jersey,NJ
+1117,Melbourne,Australia,-37.98277325,145.06579803133945,Mentone,Victoria,VIC
+1118,Brynsadler,United Kingdom,51.5159325,-3.4156206,"Llanharry, Wales, Wales",Wales,WLS
+1119,Sauk City,United States,43.2715944,-89.7226827,"Sauk City, WI",Wisconsin,WI
+1120,Sydney,Australia,-33.7384663,151.0716639,Pennant Hills,New South Wales,NSW
+1121,Gorseinon,United Kingdom,51.687218400000006,-4.037895217136166,"Grovesend, Wales, Wales",Wales,WLS
+1122,Montreal Lake,Canada,54.0535649,-105.788676,"Montreal Lake, SK",Saskatchewan,SK
+1123,Orting,United States,47.0978795,-122.2042824,"Orting, WA",Washington,WA
+1124,Mount Pleasant,United States,40.966312,-91.5539956,"Mount Pleasant, IA",Iowa,IA
+1125,Victoria,United States,44.882383,-93.647318,"Waterford, Victoria, Victoria",Minnesota,MN
+1126,Mount Pleasant Township,United States,41.7398064,-75.4343484,"Pleasant Mount, PA",Pennsylvania,PA
+1127,Waldo,United States,29.7896882,-82.1673248,"Waldo, FL",Florida,FL
+1128,Waltham,United States,43.8216451,-92.8771918,"Waltham, MN",Minnesota,MN
+1129,City of Greater Geelong,Australia,-38.2037278,144.3022236,Waurn Ponds,Victoria,VIC
+1130,Wonthaggi,Australia,-38.6043664,145.5913433,Wonthaggi,Victoria,VIC
+1131,Savanna,United States,42.0944672,-90.1567944,"Savanna, IL",Illinois,IL
+1132,Humber,United Kingdom,52.195855,-2.654346,"Swinton, South Yorkshire, Yorkshire and the Humber, England, England",England,ENG
+1133,Melbourne,Australia,-37.9502592,145.0043868,Sandringham,Victoria,VIC
+1134,Contact,United States,45.5014085,-110.2257701,"Contact, MT",Montana,MT
+1135,Ashburton,New Zealand,-43.9024396,171.7503327,"ASHBURTON, Canterbury",Canterbury,CAN
+1136,Salem,United States,39.5717796,-75.4671423,"Salem, NJ",New Jersey,NJ
+1137,Saint Helens,United States,45.8640034,-122.8064922,"Saint Helens, OR",Oregon,OR
+1138,Mountain View,United States,35.8684075,-92.1176521,"Mountain View, AR",Arkansas,AR
+1139,Mount Pocono,United States,41.1220987,-75.3646997,"Mount Pocono, PA",Pennsylvania,PA
+1140,Drakenstein,South Africa,-33.67065,18.986279,"Lusaka, Copperbelt, Copperbelt",Western Cape,WC
+1141,Centralia,United States,46.7204489,-122.96143,"Centralia, WA",Washington,WA
+1142,Safford,United States,32.8339546,-109.70758,"Safford, AZ",Arizona,AZ
+1143,Sarnia No. 221,Canada,50.9943167,-105.2264295,"Sarnia Beach, SK",Saskatchewan,SK
+1144,Mount Vernon,United States,37.1036666,-93.8185401,"Mount Vernon, MO",Missouri,MO
+1145,San Salvador,Nicaragua,13.7588604,-86.5339705,Nueva San Salvador,Nueva Segovia,NS
+1146,Soledad,Colombia,10.9149593,-74.7821054,"Soledad, Atlántico, Atlántico",Atlántico,ATL
+1147,Wollongong City Council,Australia,-34.4866791,150.8825597,Warrawong,New South Wales,NSW
+1148,Wales,United Kingdom,53.34061,-1.28162,"Brawdy, Wales, Wales",England,ENG
+1149,Kansas,United States,33.9017737,-87.5519582,"Kansas, AL",Alabama,AL
+1150,Clinton,United States,39.6569817,-87.3980741,"Clinton, IN",Indiana,IN
+1151,Cherwell District,United Kingdom,52.1114668,-1.2826587,"Wardington, England, England",England,ENG
+1152,George,United States,47.0807166,-119.85709,"George, WA",Washington,WA
+1153,Wales,United States,48.895238,-98.600806,"Halkyn, Wales, Wales",North Dakota,ND
+1154,Center of the World,United States,41.2283899,-80.9098101,"Center World, OH",Ohio,OH
+1155,Saint Francis,United States,42.9744081,-87.8709308,"Saint Francis, WI",Wisconsin,WI
+1156,Sapucaia do Sul,Brazil,-29.8197019,-51.1608722,Sapucaia do Sul,Rio Grande do Sul,RS
+1157,South Ribble,United Kingdom,53.7478395,-2.6720358,"Walton le Dale, England, England",England,ENG
+1158,Waupaca,United States,44.3580348,-89.0859464,"Waupaca, WI",Wisconsin,WI
+1159,Town of Stuyvesant,United States,42.3903615,-73.7815127,"Stuyvesant, NY",New York,NY
+1160,Barra Mansa,Brazil,-22.5394843,-44.1735129,"Barra Mansa, Rio de Janeiro, Rio de Janeiro",Rio de Janeiro,RJ
+1161,Pleasant Hills,United States,40.3356252,-79.9606066,"Pleasant Hills, PA",Pennsylvania,PA
+1162,Mount Pearl,Canada,47.518910500000004,-52.814475267278404,"Mount Pearl, NL",Newfoundland and Labrador,NL
+1163,Mount Hagen,Papua New Guinea,-5.858784,144.2316365,Mount Hagen,Western Highlands,WHM
+1164,Brisbane City,Australia,-27.4823925,153.00593163692594,"West End, Queensland",Queensland,QLD
+1165,Grand Junction,United States,39.091798,-108.554491,"Grand Junction, Mesa, CO, Optional[CO]",Colorado,CO
+1166,Sydney,Australia,-33.6009721,150.7496405,"Richmond, New South Wales, New South Wales",New South Wales,NSW
+1167,Wales,United States,43.008245,-88.373531,"Saint Asaph, Wales, Wales",Wisconsin,WI
+1168,Mount Sterling,United States,39.9872707,-90.763463,"Mount Sterling, IL",Illinois,IL
+1169,São Mateus,Brazil,-18.7239996,-39.8859247,"Vitória, Espírito Santo, Espírito Santo",Espírito Santo,ES
+1170,Distrito Ciudad de San Rafael,Argentina,-34.6126025,-68.330514,"San Rafael, Mendoza, Mendoza",Mendoza,M
+1171,Walker,United States,43.005597,-85.7741906,"Walker, MI",Michigan,MI
+1172,Staunton,United Kingdom,51.960852,-2.323724,"Staunton, Gloucestershire, South West England, England, England",England,ENG
+1173,Village of Washingtonville,United States,41.4278716,-74.1659798,"Washingtonville, NY",New York,NY
+1174,Banora Point,Australia,-28.2220841,153.5370661,Banora Point,New South Wales,NSW
+1175,Oskaloosa,United States,39.2150702,-95.3127203,"Oskaloosa, KS",Kansas,KS
+1176,Indianapolis,United States,39.6853347,-86.04687875167161,"Waters Edge, IN",Indiana,IN
+1177,City Of Kwinana,Australia,-32.233854,115.82114839519188,"Kwinana, Western Australia, Western Australia",Western Australia,WA
+1178,Brunswick Heads,Australia,-28.538885,153.5483811,Brunswick Heads,New South Wales,NSW
+1179,Aston Clinton,United Kingdom,51.8025136,-0.7274903,"Aston Clinton, England, England",England,ENG
+1180,Saint Jo,United States,33.6948279,-97.5225245,"Saint Jo, TX",Texas,TX
+1181,Nantucket,United States,41.2727997,-70.0951867,"Nantucket, MA",Massachusetts,MA
+1182,Brisbane City,Australia,-27.4987362,153.0081642,"St Lucia, Queensland",Queensland,QLD
+1183,Town of Harrietstown,United States,44.329497,-74.131279,"Saranac Lake, NY",New York,NY
+1184,Kewaskum,United States,43.5213798,-88.2278645,"Kewaskum, WI",Wisconsin,WI
+1185,Blaengwrach,United Kingdom,51.7370478,-3.6410394,"Glyn-neath, Wales, Wales",Wales,WLS
+1186,Hinton,United States,37.674008,-80.889254,"Hinton, WV",West Virginia,WV
+1187,Mont-Tremblant,Canada,46.11588,-74.5891426,"Mont-Tremblant, QC",Quebec,QC
+1188,Hafodyrynys,United Kingdom,51.6784177,-3.1393194,"Crumlin, Wales, Wales",Wales,WLS
+1189,Gold Coast City,Australia,-27.9303205,153.39202806387362,Biggera Waters,Queensland,QLD
+1190,Edwards,United States,44.324585,-75.251198,"Edwards, CO",New York,NY
+1191,Wauchula,United States,27.5472589,-81.8114715,"Wauchula, FL",Florida,FL
+1192,Hohenwald,United States,35.5478514,-87.5519629,"Hohenwald, TN",Tennessee,TN
+1193,Trenton,United States,34.8720222,-85.50913,"Trenton, GA",Georgia,GA
+1194,Salisbury,United States,42.8417577,-70.8606083,"Salisbury, MA",Massachusetts,MA
+1195,Sahibzada Ajit Singh Nagar,India,30.7041168,76.7176885,Sahibzada Ajit Singh Nagar,Punjab,PB
+1196,Virginia,United States,47.7004494,-122.62735230251312,"Keyport, WA",Washington,WA
+1197,Monticello,United States,30.5452022,-83.8701636,"Monticello, FL",Florida,FL
+1198,St. Peter,United States,38.8681017,-88.8539455,"Saint Peter, IL",Illinois,IL
+1199,Walker Mill,United States,38.8753903,-76.888306,"Walker Mill, MD",Maryland,MD
+1200,Fort Lewis,United States,47.1086912,-122.554979,"Fort Lewis, WA",Washington,WA
+1201,Walldorf,Germany,49.3038134,8.6433518,"Walldorf, Baden-Württemberg, Baden-Württemberg",Baden-Württemberg,BW
+1202,Bordentown City,United States,40.146149,-74.7115733,"Bordentown, NJ",New Jersey,NJ
+1203,Mount Pleasant,United States,40.1487475,-79.5421368,"Mount Pleasant, PA",Pennsylvania,PA
+1204,Fair Lawn,United States,40.9270904,-74.1078753,"Warren Point, NJ",New Jersey,NJ
+1205,Watchfield,United Kingdom,51.61322,-1.64821,"Watchfield, South West England, England, England",England,ENG
+1206,Sydney,Australia,-33.9159472,151.176332,"St Peters, New South Wales",New South Wales,NSW
+1207,Colli del Tronto,Italy,42.8769738,13.7483546,Colli del Tronto,Marche,MAR
+1208,Sydney,Australia,-33.9217004,151.2557975,"Coogee, New South Wales, New South Wales",New South Wales,NSW
+1209,Medway,United States,45.6089427,-68.5308623,"Medway, ME",Maine,ME
+1210,Mount Sterling,United States,38.0561079,-83.9431961,"Mount Sterling, KY",Kentucky,KY
+1211,Wade Hampton,United States,34.9037282,-82.3331733,"Wade Hampton, SC",South Carolina,SC
+1212,Waitakere Ranges,New Zealand,-36.9169875,174.5186208,Waitakere,Auckland,AUK
+1213,Sydney,Australia,-34.0782799,150.7632296,Mount Annan,New South Wales,NSW
+1214,Massa,United States,31.2715771,-94.1285275,"Massa, TX",Texas,TX
+1215,Richmondshire,United Kingdom,54.4670283,-1.7835808,"Ravensworth, North East England, England, England",England,ENG
+1216,Orr,United States,38.10751,-103.53522,Agara Sarjapura Road ORR,Colorado,CO
+1217,Kirkcaldy,United Kingdom,56.1264515,-3.1209817,"Dysart, Scotland, Scotland",Scotland,SCT
+1218,Center Moriches,United States,40.8002427,-72.7901318,"Center Moriches, NY",New York,NY
+1219,Taschereau,Canada,48.6626064,-78.6830135,"Taschereau, QC",Quebec,QC
+1220,Kings Mountain,United States,35.2450607,-81.3410516,"Kings Mountain, NC",North Carolina,NC
+1221,Posadas,Argentina,-27.3664824,-55.894295,Posadas,Misiones,N
+1222,Itasca,United States,32.1595947,-97.1500074,"Itasca, TX",Texas,TX
+1223,St. Francis,United States,45.3864283,-93.3597084,"Saint Francis, MN",Minnesota,MN
+1224,Uniontown,United States,40.9730285,-81.40463515669745,"Uniontown, OH",Ohio,OH
+1225,Pilot Mountain,United States,36.3865267,-80.4695023,"Pilot Mountain, NC",North Carolina,NC
+1226,GlenOak Hills,United States,33.5311395,-117.0064148,"Glenoaks Country, CA",California,CA
+1227,Neston,United Kingdom,53.28996395,-3.0568521340713826,"Prenton, England, England",England,ENG
+1228,Chesapeake Heights on the Bay,United States,38.5667881,-76.526621,"Chesapeake Heights on the Bay, MD",Maryland,MD
+1229,Pilot Point,United States,33.3959396,-96.9591054,"Pilot Point, TX",Texas,TX
+1230,Warwick,Canada,42.9480988,-81.8802713,"Watford, ON",Ontario,ON
+1231,Acton Round,United Kingdom,52.5572927,-2.5384731,"Acton Round, England, England",England,ENG
+1232,Wales,United States,48.895238,-98.600806,"Benllech, Wales, Wales",North Dakota,ND
+1233,St. Johns,United States,43.000928,-84.5585098,"Saint Johns, MI",Michigan,MI
+1234,Odessa,United States,31.8457149,-102.367687,Odessa,Texas,TX
+1235,Cambridgeshire,United Kingdom,52.2948273,-0.006840445595116566,"Swavesey, East of England, England, England",England,ENG
+1236,Pompano Beach,United States,26.2206381,-80.1003216,"Santa Barbara Shores, FL",Florida,FL
+1237,Riviera Beach,United States,39.1664978,-76.5271851,"Clear Water Beach, MD",Maryland,MD
+1238,Borough of Erewash,United Kingdom,52.9537226,-1.4504293,"Breadsall, England, England",England,ENG
+1239,Santa Rosa Beach,United States,30.3466423,-86.2307992,"Santa Rosa Beach, FL",Florida,FL
+1240,Montreal,United States,46.4280033,-90.2460097,"Montreal, WI",Wisconsin,WI
+1241,Watkinsville,United States,33.8628959,-83.4087709,"Watkinsville, GA",Georgia,GA
+1242,Karak,Pakistan,33.1160464,71.0950863,"Karak, North-West Frontier, North-West Frontier",Khyber Pakhtunkhwa,KP
+1243,Village at Watervale,United States,33.5384684,-82.0617842,"Village At Watervale, GA",Georgia,GA
+1244,The Blue Mountains,Canada,44.4992906,-80.3417924,"Blue Mountains, ON",Ontario,ON
+1245,Town of Germantown,United States,42.1345339,-73.8917982,"Germantown, NY",New York,NY
+1246,Metropolis,United States,37.1436656,-88.7186639,"Massac City, IL",Illinois,IL
+1247,Ferndale,United States,48.8466698,-122.589723,"Ferndale, WA",Washington,WA
+1248,Lichfield,United Kingdom,52.7322867,-1.7494608,"Alrewas, England, England",England,ENG
+1249,Spanish Springs,United States,39.675016,-119.676281,"Spanish Springs, Washoe, NV, Optional[NV]",Nevada,NV
+1250,Salida,United States,37.7057623,-121.0849369,"Salida, CA",California,CA
+1251,Wales,United Kingdom,53.34061,-1.28162,"Trostre, Wales, Wales",England,ENG
+1252,Santander,Spain,43.4620412,-3.8099719,Santander,Cantabria,CB
+1253,Wales,United States,48.895238,-98.600806,"Crickhowell, Wales, Wales",North Dakota,ND
+1254,Tangent,United States,44.5440387,-123.109291,"Tangent, OR",Oregon,OR
+1255,Trenton,United States,39.4808905,-84.4577222,"Trenton, OH",Ohio,OH
+1256,Borough of Charnwood,United Kingdom,52.7322858,-1.1427158,"Mountsorrel, England, England",England,ENG
+1257,Chesapeake,United States,38.4280541,-82.4572416,"Chesapeake, OH",Ohio,OH
+1258,Warren,United States,42.892396,-74.933234,"Warren, Herkimer, NY, Optional[NY]",New York,NY
+1259,Warsaw,United States,40.359211,-91.4345978,"Warsaw, IL",Illinois,IL
+1260,Mount Carmel,United States,38.4108801,-87.7614174,"Mount Carmel, IL",Illinois,IL
+1261,Washington,United States,40.7584326,-74.9793378,"Washington, NJ",New Jersey,NJ
+1262,Socorro,United States,31.633169,-106.2685913,"San Ysidro Colonia, TX",Texas,TX
+1263,East Saint Louis,United States,38.6133731,-90.14629,"East Saint Louis, IL",Illinois,IL
+1264,Tranent,United Kingdom,55.9444972,-2.9534938,"Tranent, Scotland, Scotland",Scotland,SCT
+1265,Portland,Australia,-38.3456231,141.6042304,"Portland, Victoria, Victoria",Victoria,VIC
+1266,Sandstone,United States,37.7739969,-80.8904561,"Sandstone, WV",West Virginia,WV
+1267,Shire Of Northampton,Australia,-28.18581,114.35192,MOUNT ALBERT,Western Australia,WA
+1268,Garapan,United States,15.1909825,145.746743003024,Saipan,Northern Mariana Islands,MP
+1269,Huntley,United States,42.1722503,-88.42692,"Huntley, IL",Illinois,IL
+1270,São Vicente,Brazil,-23.9627118,-46.3846595,"São Vicente, São Paulo, São Paulo",São Paulo,SP
+1271,Sydney,Australia,-34.0312587,151.0567639,"Sutherland, New South Wales, New South Wales",New South Wales,NSW
+1272,Saundersfoot,United Kingdom,51.7220045,-4.7180532,"Saundersfoot, Wales, Wales",Wales,WLS
+1273,Mount Gambier,Australia,-37.8301386,140.7842627,Mount Gambier,South Australia,SA
+1274,Camdenton,United States,38.0050131,-92.7507122,"Camdenton, MO",Missouri,MO
+1275,Wakefield,United States,42.2692593,-96.8649303,"Wakefield, NE",Nebraska,NE
+1276,Centerville,United States,39.5245453,-77.2716494,"Centerville, MD",Maryland,MD
+1277,Fontaine-lès-Dijon,France,47.3416545,5.0218591,Fontaine-lès-Dijon,Bourgogne-Franche-Comté,BFC
+1278,Teignbridge,United Kingdom,50.549595,-3.5955735,"Kingsteignton, England, England",England,ENG
+1279,Mont-Joli,Canada,48.583875,-68.183899,"Mont-Joli, QC",Quebec,QC
+1280,Anthem,United States,33.8613328,-112.1254665,"Anthem, AZ",Arizona,AZ
+1281,San Antonio Prairie,United States,30.4579851,-96.7833116,"San Antonio Prairie, TX",Texas,TX
+1282,Gateshead,United Kingdom,54.9528506,-1.6874734,"Swalwell, England, England",England,ENG
+1283,Terrebonne,Canada,45.7003711,-73.8070082,"Saint-Louis-de-Terrebonne, QC",Quebec,QC
+1284,Test Valley,United Kingdom,51.1393682,-1.5811102,"Middle Wallop, England, England",England,ENG
+1285,Canterbury,United States,38.44124,-78.07889,"Canterbury, Culpeper, VA, Optional[VA]",Virginia,VA
+1286,Bargoed,United Kingdom,51.6929046,-3.2300431,"Bargoed, Wales, Wales",Wales,WLS
+1287,Mahesana,India,23.6080139,72.3913303,Mehsana ,Gujarat,GJ
+1288,Saint Helens,United States,45.8640034,-122.8064922,Saint Helens,Oregon,OR
+1289,Waverly,United States,40.91742,-96.528167,"Waverly, NE",Nebraska,NE
+1290,Sandwich,United States,41.6458633,-88.6217432,"Sandwich, IL",Illinois,IL
+1291,Iron Mountain,United States,45.820233,-88.06596,"Iron Mountain, MI",Michigan,MI
+1292,San Luis,United States,32.4934395,-114.7737551,"San Luis, AZ",Arizona,AZ
+1293,Pocono Township,United States,41.0953683,-75.3249054,"Swiftwater, PA",Pennsylvania,PA
+1294,Brynmawr,United Kingdom,51.7963934,-3.1738239,"Brynmawr, Wales, Wales",Wales,WLS
+1295,Town of Saint Andrews,Canada,45.0749302,-67.0516937,"Saint Andrews, NB",New Brunswick,NB
+1296,Clinton,United States,35.5156056,-98.9673069,"Clinton, OK",Oklahoma,OK
+1297,Selah,United States,46.6540065,-120.530272,"Selah, WA",Washington,WA
+1298,Vicenza,Italy,45.5488306,11.5478825,Vicenza,Veneto,VEN
+1299,Sanford,United States,43.672805,-84.380554,"Sanford, MI",Michigan,MI
+1300,Sinton,United States,28.034685,-97.5085762,"Sinton, TX",Texas,TX
+1301,Frontier,United States,46.800112,-96.83360754715514,"Frontier, ND",North Dakota,ND
+1302,Partido de Almirante Brown,Argentina,-34.7685916,-58.3394775,"Santa Ana, San Jose, San Jose",Buenos Aires,B
+1303,Stanton,United States,33.79410005,-117.99510059728792,"Stanton, CA",California,CA
+1304,Wauseon,United States,41.546069,-84.1362047,"Wauseon, OH",Ohio,OH
+1305,Tembisa,South Africa,-26.0221753,28.2014478,Tembisa,Gauteng,GT
+1306,Sandpoint,United States,48.2765903,-116.553247,"Sandpoint, ID",Idaho,ID
+1307,Versailles,United States,38.052576,-84.7299464,"Versailles, KY",Kentucky,KY
+1308,Pleasant Site,United States,34.5420398,-88.0653178,"Pleasant Site, AL",Alabama,AL
+1309,Long Beach,United States,33.7586967,-118.13715272157569,"Belmont Shore, CA",California,CA
+1310,Sydney,Australia,-33.7971937,151.2879845,"Manly, New South Wales, New South Wales",New South Wales,NSW
+1311,Sydney,Australia,-33.833532,151.0218891,"Clyde, New South Wales, New South Wales",New South Wales,NSW
+1312,Mount Holly Township,United States,39.9928898,-74.7876624,"Mount Holly, NJ",New Jersey,NJ
+1313,Ridgefield,United States,45.8167616,-122.7433775,"Ridgefield, WA",Washington,WA
+1314,Kelso,United States,46.1421249,-122.905299,"Kelso, WA",Washington,WA
+1315,St. John,United States,41.4500356,-87.4700381,"Saint John, IN",Indiana,IN
+1316,Savage,United States,44.7779041,-93.3356204,"Savage, MN",Minnesota,MN
+1317,Moses,United States,46.4272569,-117.2067716,"Moses, WA",Washington,WA
+1318,Southampton,United Kingdom,50.8757192,-1.2659524,"Swanwick, England, England",England,ENG
+1319,City Of Mandurah,Australia,-32.5624396,115.6894254,"Erskine, Western Australia, Western Australia",Western Australia,WA
+1320,Derby,Australia,-17.3031912,123.6287226,"Derby, Western Australia, Western Australia",Western Australia,WA
+1321,Hermantown,United States,46.8068852,-92.2382464,"Hermantown, MN",Minnesota,MN
+1322,Edenton,United States,36.057938,-76.6077213,"Edenton, NC",North Carolina,NC
+1323,Warwick,Australia,-28.2163204,152.0327039,Warwick,Queensland,QLD
+1324,Buckley,United States,47.1622483,-122.027746,"Buckley, WA",Washington,WA
+1325,Waynesville,United States,39.5297824,-84.086601,"Waynesville, OH",Ohio,OH
+1326,Savannah,United States,35.2248034,-88.2492037,"Savannah, TN",Tennessee,TN
+1327,Saguenay,Canada,48.405959,-71.069183,"Saguenay, QC",Quebec,QC
+1328,Ottawa,Canada,45.4208777,-75.6901106,Ōtawa,Ontario,ON
+1329,Cambron-Saint-Vincent,Belgium,50.5827811,3.9162237,"Cambron-Saint-Vincent, Hainaut",Hainaut,WHT
+1330,London,United Kingdom,51.511006,-0.24816,"East Acton, England, England",England,ENG
+1331,International Falls,United States,48.601033,-93.4105904,"International Falls, MN",Minnesota,MN
+1332,Centre,United States,34.1520406,-85.6788531,"Centre, AL",Alabama,AL
+1333,Lévis,Canada,46.7000531,-71.3965556,"Saint-Nicolas, QC",Quebec,QC
+1334,Stanton,United States,43.292532,-85.081407,"Stanton, MI",Michigan,MI
+1335,Polacca,United States,35.836495,-110.38135,"First Mesa, AZ",Arizona,AZ
+1336,Armadale,Australia,-32.152266,116.0147457,"Armadale, Western Australia, Western Australia",Western Australia,WA
+1337,Warr Acres,United States,35.5225569,-97.6189353,"Warr Acres, OK",Oklahoma,OK
+1338,Tremonton,United States,41.7120775,-112.1657795,"Tremonton, UT",Utah,UT
+1339,Wasaga Beach,Canada,44.5224813,-80.0203156,"Wasaga Beach, ON",Ontario,ON
+1340,Sargodha,Pakistan,32.0898005,72.6782574,Sargodha,Punjab,PB
+1341,Mimoso do Sul,Brazil,-21.0645028,-41.373497,"Serra, Espírito Santo, Espírito Santo",Espírito Santo,ES
+1342,Desert Mountain,United States,35.314484,-106.515303,"Desert Mountain, NM",New Mexico,NM
+1343,Piedmont,United States,35.6419952,-97.7464345,"Piedmont, OK",Oklahoma,OK
+1344,Logan City,Australia,-27.662885,153.05160550074805,"Browns Plains, Queensland, Queensland",Queensland,QLD
+1345,Wallington,United Kingdom,51.98785,-0.11898,"Wallington, South East England, England, England",England,ENG
+1346,Corrientes,Argentina,-27.4687004,-58.8311982,Corrientes,Corrientes,W
+1347,Winthrop Harbor,United States,42.478934,-87.8238485,"Winthrop Harbor, IL",Illinois,IL
+1348,Wales,United Kingdom,53.34061,-1.28162,"Mamhilad, Wales, Wales",England,ENG
+1349,West Canton,United States,35.5378833,-82.8581898,"West Canton, NC",North Carolina,NC
+1350,State College,United States,40.77760755,-77.86503836838423,"Greentree, PA",Pennsylvania,PA
+1351,Vermontville,United States,42.6289247,-85.0241621,"Vermontville, MI",Michigan,MI
+1352,Glinton,United Kingdom,52.639224,-0.2958838,"Glinton, England, England",England,ENG
+1353,Gladewater,United States,32.5365333,-94.9427169,"Gladewater, TX",Texas,TX
+1354,Leavenworth,United States,47.5969138,-120.661081,"Leavenworth, WA",Washington,WA
+1355,San Fernando,Peru,-4.31417,-73.43111,"San Fernando, Province of Cebu, Province of Cebu",Loreto,LOR
+1356,Elsa,United States,26.2966228,-97.9931057,"Elsa, TX",Texas,TX
+1357,Heddon-on-the-Wall,United Kingdom,54.9953705,-1.7916004,"Heddon on the Wall, England, England",England,ENG
+1358,Passaic,United States,38.3219655,-94.3482833,"Passaic, MO",Missouri,MO
+1359,Kentville,Canada,45.0784875,-64.495212,"Kentville, NS",Nova Scotia,NS
+1360,New Salem,United States,39.9016241,-76.7892135,"York New Salem, PA",Pennsylvania,PA
+1361,Saint John's,Trinidad and Tobago,10.6608104,-61.3921698,Saint John's,Tunapuna-Piarco,TUP
+1362,Huntsville,United States,36.0884253,-93.7375258,"Huntsville, AR",Arkansas,AR
+1363,Boonton Township,United States,40.9281542,-74.4443208,"Rockaway Valley, NJ",New Jersey,NJ
+1364,Mountain View Acres,United States,34.496663,-117.3489352,"Mountain View Acres, CA",California,CA
+1365,Ciudad Victoria,Mexico,23.7389846,-99.1441352,"Maryborough, Victoria, Victoria",Tamaulipas,TAM
+1366,Watlington,United Kingdom,52.675903,0.389905,"Watlington, South East England, England, England",England,ENG
+1367,St Pauls,Australia,-10.183456,142.320848,"Saint Pauls Walden, England, England",Queensland,QLD
+1368,Sydney,Australia,-34.0185844,151.11228,Sylvania Waters,New South Wales,NSW
+1369,Forest of Dean District,United Kingdom,51.73878765,-2.6406033068192984,"Saint Briavels, England, England",England,ENG
+1370,Rosamond,United States,34.8641446,-118.1634075,"Rosamond, CA",California,CA
+1371,Perinthalmanna,India,10.9756774,76.2262573,Perinthalmanna,Kerala,KL
+1372,Bow,United States,48.5617742,-122.3982194,"Bow, WA",Washington,WA
+1373,Oldham,United Kingdom,53.5543565,-2.010290541209692,"Saddleworth, England, England",England,ENG
+1374,Sahuarita,United States,31.9575305,-110.9556645,"Sahuarita, AZ",Arizona,AZ
+1375,Sat home,India,31.0155,76.52509,Sat home,Punjab,PB
+1376,Corrientes,Argentina,-27.475020450000002,-58.8118771375,Antartida Argentina,Corrientes,W
+1377,San Benedetto del Tronto,Italy,42.9525328,13.8807144,San Benedetto del Tronto,Marche,MAR
+1378,Brisbane City,Australia,-27.4736234,153.0364287,"Kangaroo Point, Queensland",Queensland,QLD
+1379,Cooma,Australia,-36.23563,149.1264221,"Cooma, New South Wales, New South Wales",New South Wales,NSW
+1380,London,United Kingdom,51.535372550000005,-0.13045610167344124,"Saint Pancras, England, England",England,ENG
+1381,Clinton,United States,34.9979453,-78.3233325,"Clinton, NC",North Carolina,NC
+1382,Saint-Jérôme,Canada,45.775426,-74.013176,"Saint-Jérôme, QC",Quebec,QC
+1383,Atlantic Highlands,United States,40.4078865,-74.034306,"Atlantic Highlands, NJ",New Jersey,NJ
+1384,Louisville,United States,38.2528489,-85.6557947,"Saint Matthews, KY",Kentucky,KY
+1385,Cotswold District,United Kingdom,51.8840725,-1.7573118,"Bourton on the Water, England, England",England,ENG
+1386,Bedwas,United Kingdom,51.5953767,-3.2001004,"Bedwas, Wales, Wales",Wales,WLS
+1387,Wales,United Kingdom,53.34061,-1.28162,"Ffald-y-Brenin, Wales, Wales",England,ENG
+1388,Besançon,France,47.2380222,6.0243622,Besançon,Bourgogne-Franche-Comté,BFC
+1389,North Huntingdon,United States,40.324802,-79.746712,"North Huntingdon, PA",Pennsylvania,PA
+1390,Denton,United States,35.6334713,-80.1158813,"Denton, NC",North Carolina,NC
+1391,Jāntā,India,23.07551,85.48316,Janta Tok,Jharkhand,JH
+1392,Warwick,United Kingdom,52.3711485,-1.4948832,"Baginton, England, England",England,ENG
+1393,Montana,Australia,-41.59279,146.57657,Montana,Tasmania,TAS
+1394,Sydney,Australia,-33.9185861,151.204692,"Rosebery, New South Wales, New South Wales",New South Wales,NSW
+1395,West Milwaukee,United States,43.0125142,-87.9725861,"West Milwaukee, WI",Wisconsin,WI
+1396,Hunter's Creek,United States,28.3568934,-81.4522687,"Hunters Creek, FL",Florida,FL
+1397,Swagg,United States,33.374558,-85.5480106,"Swagg, AL",Alabama,AL
+1398,Wales,United Kingdom,53.34061,-1.28162,"Llandow, Wales, Wales",England,ENG
+1399,Manassas Park,United States,38.7718134,-77.452723,"Manassas Park, VA",Virginia,VA
+1400,Huntington Woods,United States,42.4805913,-83.1668713,"Huntington Woods, MI",Michigan,MI
+1401,Antioch,United States,36.2753371,-85.6583124,"Antioch, TN",Tennessee,TN
+1402,Mount Pleasant,United States,35.5342414,-87.206954,"Mount Pleasant, TN",Tennessee,TN
+1403,Sabattus,United States,44.1197959,-70.107553,"Sabattus, ME",Maine,ME
+1404,Atlanta,United States,33.752907,-84.384882,"East Atlanta, GA",Georgia,GA
+1405,Eatontown,United States,40.2962222,-74.0509725,"Eatontown, NJ",New Jersey,NJ
+1406,Nestleway Acres,United States,35.9965257,-80.3497753,"Nestleway Acres, NC",North Carolina,NC
+1407,Digboi,India,27.349747,95.6476352,"Powāi, Assam, Assam",Assam,AS
+1408,Saint-Laurent-du-Var,France,43.6690101,7.1906969,Saint-Laurent-du-Var,Provence-Alpes-Côte d'Azur,PAC
+1409,Town of Mount Morris,United States,42.7256184,-77.8741695,"Mount Morris, NY",New York,NY
+1410,Karachi,Pakistan,24.9436232,67.2119855,Malīr Cantonment,Sindh,SD
+1411,Stewarton,United Kingdom,55.680265,-4.5153023,"Stewarton, Scotland, Scotland",Scotland,SCT
+1412,Pleasant Valley,United States,41.747075,-73.82482,"Pleasant Valley, Dutchess, NY, Optional[NY]",New York,NY
+1413,Saddle River,United States,41.0317637,-74.1020866,"U Saddle River, NJ",New Jersey,NJ
+1414,Prosser,United States,46.2067583,-119.76916,"Prosser, WA",Washington,WA
+1415,Sandy Hook,United States,38.0864739,-83.1262839,"Sandy Hook, KY",Kentucky,KY
+1416,Greenville,United States,35.572627,-77.318873,"Wapping, CT",North Carolina,NC
+1417,Centerville,United States,40.9180005,-111.8721601,"Centerville, UT",Utah,UT
+1418,Chippewa,United States,41.2378588,-76.7769033,"Chippewa, PA",Pennsylvania,PA
+1419,San Juan,United States,26.1892409,-98.1552872,"San Juan, TX",Texas,TX
+1420,Santa Fe,United States,29.3780129,-95.1057625,"Santa Fe, TX",Texas,TX
+1421,Saint Louis,United States,35.0742444,-96.853076,"Saint Louis, OK",Oklahoma,OK
+1422,Sumner,United States,47.2061882,-122.2312383,"Sumner, WA",Washington,WA
+1423,Lamesa,United States,32.7357287,-101.9550202,"Lamesa, TX",Texas,TX
+1424,DuPont,United States,47.0990689,-122.637546,"DuPont, WA",Washington,WA
+1425,Clyde Hill,United States,47.631569,-122.2181054,"Clyde Hill, WA",Washington,WA
+1426,St. Paul,United States,39.4279074,-85.6280248,"Saint Paul, IN",Indiana,IN
+1427,Felixstowe,United Kingdom,51.96667,1.35,"Walton, Suffolk, East of England, England, England",England,ENG
+1428,Port Clinton,United States,41.5119954,-82.9376919,"Port Clinton, OH",Ohio,OH
+1429,Newcastle-Maitland,Australia,-32.7316683,151.5511123,"Maitland, New South Wales, New South Wales",New South Wales,NSW
+1430,La Crescent,United States,43.8280216,-91.3040274,"La Crescent, MN",Minnesota,MN
+1431,Rocky Mountain House,Canada,52.3768803,-114.9183995,"Rocky Mountain House, AB",Alberta,AB
+1432,Ciudad Victoria,Mexico,23.743943,-99.146791,"Southern Cross, Victoria, Victoria",Tamaulipas,TAM
+1433,Wadesboro,United States,34.9681767,-80.07674,"Wadesboro, NC",North Carolina,NC
+1434,Mahesana,India,23.6080139,72.3913303,Mehsana,Gujarat,GJ
+1435,Warrensville Heights,United States,41.43535,-81.514824,"Warrensville Heights, OH",Ohio,OH
+1436,Swindon,United Kingdom,51.5547369,-1.7573928,"Walton, South West England, England, England",England,ENG
+1437,Mountainview,United States,38.5665114,-77.6047105,"Mountainview, VA",Virginia,VA
+1438,Bridgewater,Canada,44.3774134,-64.5193946,"Bridgewater, NS",Nova Scotia,NS
+1439,Sangrur,India,30.2432006,75.8358123,Sangrūr,Punjab,PB
+1440,Orient,United States,39.8031819,-83.1518931,"Orient, OH",Ohio,OH
+1441,Central,United States,34.7257424,-82.7804999,"Central, SC",South Carolina,SC
+1442,Tidewater,United States,37.8551367,-76.6985687,"Tidewater, VA",Virginia,VA
+1443,Blackwater,Australia,-23.5812001,148.8832401,Blackwater,Queensland,QLD
+1444,Castle Rock,United States,46.2739907,-122.9049187,"Castle Rock, WA",Washington,WA
+1445,Melbourne,Australia,-37.8752637,145.1281258,Mount Waverley,Victoria,VIC
+1446,Beaumont,Canada,46.8293593,-71.0105418,"Beaumont, QC",Quebec,QC
+1447,North Norfolk,United Kingdom,52.8213308,1.3861979,"North Walsham, England, England",England,ENG
+1448,Ironton,United States,38.5367471,-82.6829406,"Ironton, OH",Ohio,OH
+1449,Wakefield,United States,43.5685871,-71.0297823,"Wakefield, NH",New Hampshire,NH
+1450,Woodland,United States,45.9109715,-122.740832,"Woodland, WA",Washington,WA
+1451,Brunswick,United States,43.9145244,-69.9653278,"Brunswick, ME",Maine,ME
+1452,Pontiac,United States,40.8808666,-88.6297839,"Pontiac, IL",Illinois,IL
+1453,Montezuma,United States,32.3051576,-84.0274073,"Montezuma, GA",Georgia,GA
+1454,Brunswick,United States,39.3131621,-77.6281858,"Brunswick, MD",Maryland,MD
+1455,South Hill,United States,47.1210893,-122.290702,"South Hill, WA",Washington,WA
+1456,Lindsay,United States,36.2030064,-119.08816,"Lindsay, CA",California,CA
+1457,City Of Swan,Australia,-31.7659017,116.0295461,Upper Swan,Western Australia,WA
+1458,Longueuil,Canada,45.5042755,-73.4216976,"Saint-Hubert, QC",Quebec,QC
+1459,Clondalkin,Ireland,53.3136126,-6.3638958,"Ballymount, Dublin, Dublin",Leinster,L
+1460,Bradenton,United States,27.46250655,-82.58355426253831,"South Bradenton, FL",Florida,FL
+1461,Oak Point,United States,33.1901194,-96.991674,"Oak Point, TX",Texas,TX
+1462,Llangynwyd,United Kingdom,51.588686,-3.6309924,"Llangynwyd, Wales, Wales",Wales,WLS
+1463,Berwick,Australia,-38.054117,145.333467,"Cheese Factory Corner, NS",Victoria,VIC
+1464,Newcastle-Maitland,Australia,-32.9057901,151.6656025,Wallsend,New South Wales,NSW
+1465,Mount Lebanon,United States,40.3765,-80.0508,"Mount Lebanon, PA",Pennsylvania,PA
+1466,San Benito,United States,36.5096854,-121.0818602,"San Benito, CA",California,CA
+1467,Central City,United States,37.2939322,-87.1233292,"Central City, KY",Kentucky,KY
+1468,Içara,Brazil,-28.7116553,-49.2971441,"Içara, Santa Catarina, Santa Catarina",Santa Catarina,SC
+1469,Kentwood,United States,30.9382358,-90.5089843,"Kentwood, LA",Louisiana,LA
+1470,Wales,United States,43.0044549,-88.3767626,"Wales, WI",Wisconsin,WI
+1471,Sayreville,United States,40.4635362,-74.3618499,"Sayreville, NJ",New Jersey,NJ
+1472,Santo André,Brazil,-7.2198586,-36.6319767,"Santo André, Paraíba, Paraíba",Paraíba,PB
+1473,Saint Clair Shores,United States,42.4969652,-82.8890965,"Saint Clair Shores, MI",Michigan,MI
+1474,Village of Germantown,United States,43.2286174,-88.1103691,"Germantown, WI",Wisconsin,WI
+1475,Stanton,United States,32.1292891,-101.788464,"Stanton, TX",Texas,TX
+1476,Milton-Freewater,United States,45.9329103,-118.387755,"Milton-Freewater, OR",Oregon,OR
+1477,Santa Anna,United States,31.741298,-99.3250979,"Santa Anna, TX",Texas,TX
+1478,Hamilton,Australia,-37.7435744,142.0243127,"Hamilton, Victoria, Victoria",Victoria,VIC
+1479,Bentleyville,United States,40.1167387,-80.0083855,"Bentleyville, PA",Pennsylvania,PA
+1480,Cwmcarn,United Kingdom,51.6357202,-3.1343214,"Cwmcarn, Wales, Wales",Wales,WLS
+1481,Wales,United Kingdom,53.34061,-1.28162,"Cadoxton, Wales, Wales",England,ENG
+1482,St. James,United States,43.9824577,-94.6269181,"Saint James, MN",Minnesota,MN
+1483,Lake Odessa,United States,42.7847564,-85.1383367,"Lake Odessa, MI",Michigan,MI
+1484,Belmont,United Kingdom,51.3437847,-0.2011522,"Belmont, England, England",England,ENG
+1485,Sandwich,United Kingdom,51.2752527,1.3408309,"Sandwich, England, England",England,ENG
+1486,Lake Point,United States,40.6807774,-112.2630024,"Lake Point, UT",Utah,UT
+1487,Hassan,India,13.0070817,76.0992703,Hassan,Karnataka,KA
+1488,Bellevue,United States,47.5772408,-122.1684296,"Factoria, WA",Washington,WA
+1489,Clinton,United States,36.1034126,-84.1318632,"Clinton, TN",Tennessee,TN
+1490,Lecanto,United States,28.8516486,-82.4875982,"Lecanto, FL",Florida,FL
+1491,Belmont,France,48.4086571,7.2386756,Belmont,Grand Est,GES
+1492,Waynesboro,United States,39.7557827,-77.5776512,"Waynesboro, PA",Pennsylvania,PA
+1493,Dronten,Netherlands,52.531389649999994,5.750631211201343,Dronten,Flevoland,FL
+1494,King's Lynn and West Norfolk,United Kingdom,52.46282995,0.5375796110681118,Saint Peter’s,England,ENG
+1495,São José,Brazil,-27.6157733,-48.6276491,"São José, Santa Catarina, Santa Catarina",Santa Catarina,SC
+1496,Tubarão,Brazil,-28.471488,-49.014132,"Tubarão, Santa Catarina, Santa Catarina",Santa Catarina,SC
+1497,Pleasant Prairie,United States,42.525108,-87.889613,"Pleasant Pr, WI",Wisconsin,WI
+1498,Haleʻiwa,United States,21.5817934,-158.1050145,"Haleiwa, HI",Hawaii,HI
+1499,Newcastle upon Tyne,United Kingdom,54.9716047,-1.5541737,"Walker, England, England",England,ENG
+1500,Harrogate,United Kingdom,54.1056816,-1.7751028,"Wath, England, England",England,ENG
+1501,Wealden District,United Kingdom,51.0942674,0.2691684,"Frant, England, England",England,ENG
+1502,Melbourne,Australia,-38.0685384,145.2307493,"Lyndhurst, Victoria, Victoria",Victoria,VIC
+1503,Preston,United Kingdom,53.775166,-2.6736491,Ronaldsway,England,ENG
+1504,Dasarahalli Nr Kempapura Rd,India,13.05891,77.60905,Dasarahalli Nr Kempapura Rd,Karnataka,KA
+1505,Wantage,United States,41.24832285,-74.62453950487713,"Wantage, NJ",New Jersey,NJ
+1506,Pensacola Beach,United States,30.3342348,-87.1350979,"Pensacola Beach, Escambia, FL, Optional[FL]",Florida,FL
+1507,Jaipur,India,24.90321,93.05814,"Jaipur, Assam, Assam",Assam,AS
+1508,Wrexham,United Kingdom,53.0765437,-2.9861093,"Gresford, Wales, Wales",Wales,WLS
+1509,Eastpointe,United States,42.4683698,-82.9554746,"Eastpointe, MI",Michigan,MI
+1510,Mifflintown,United States,40.5697996,-77.3969339,"Mifflintown, PA",Pennsylvania,PA
+1511,Holladay,United States,40.6482809,-111.8368781,"International Gardens, UT",Utah,UT
+1512,Llanberis,United Kingdom,53.1189233,-4.1227727,"Llanberis, Wales, Wales",Wales,WLS
+1513,Duntocher,United Kingdom,55.9237554,-4.4196997,"Duntocher, Scotland, Scotland",Scotland,SCT
+1514,Gentry,United States,36.2675793,-94.4846602,"Gentry, AR",Arkansas,AR
+1515,Montgomery,United States,41.167287,-76.874718,"Riverside, Montgomery, OH, Optional[OH]",Pennsylvania,PA
+1516,"Anthony, TX",United States,31.9956534,-106.596817,"Anthony, TX",Texas,TX
+1517,Atwater,United States,37.3477174,-120.609084,"Atwater, CA",California,CA
+1518,Mumbles,United Kingdom,51.57249535,-3.9921708286850968,"The Mumbles, Wales, Wales",Wales,WLS
+1519,San Luis Río Colorado,Mexico,32.4517957,-114.7652542,San Luis Río Colorado,Sonora,SON
+1520,West Valley City,United States,40.6968906,-112.0213286,"Hunter, UT",Utah,UT
+1521,Port Saint John,United States,28.4769458,-80.7886657,"Port Saint John, FL",Florida,FL
+1522,City of Salamanca,United States,42.1579214,-78.7151629,"Salamanca, NY",New York,NY
+1523,Wales,United States,42.737098,-78.521276,"Ely, Wales, Wales",New York,NY
+1524,Swampscott,United States,42.4699241,-70.9171507,"Swampscott, MA",Massachusetts,MA
+1525,Interlachen,United States,29.6238574,-81.8903684,"Interlachen, FL",Florida,FL
+1526,Punta Gorda,United States,26.9297836,-82.0453664,Punta Gorda,Florida,FL
+1527,Balmoral,Australia,-37.166,141.90091,"Manyata, Central, Central",Victoria,VIC
+1528,Wall Street,United States,37.6125414,-92.9549046,"Wall Street, MO",Missouri,MO
+1529,Village of Fort Edward,United States,43.267206,-73.584709,"Fort Edward, NY",New York,NY
+1530,Pontoon Beach,United States,38.7317158,-90.0803839,"Pontoon Beach, IL",Illinois,IL
+1531,Santa Cruz,United States,36.9743626,-122.0294673,Santa Cruz,California,CA
+1532,Waynesburg,United States,40.6678195,-81.2574297,"Waynesburg, OH",Ohio,OH
+1533,Logan City,Australia,-27.6524382,153.1727858,"Shailer Park, Queensland",Queensland,QLD
+1534,Grand Mound,United States,46.8025954,-123.0125715,"Grand Mound, WA",Washington,WA
+1535,Wistaston,United Kingdom,53.0800255,-2.4770537,"Wistaston, England, England",England,ENG
+1536,Trenton,United States,40.0789018,-93.6166074,"Trenton, MO",Missouri,MO
+1537,Mountlake Terrace,United States,47.7909667,-122.3066395,"Mountlake Terrace, WA",Washington,WA
+1538,Tabasco,Mexico,21.864724,-102.911695,"Villahermosa, Tabasco, Tabasco",Zacatecas,ZAC
+1539,Town of Nassau,United States,42.579247,-73.5431693,"North Nassau, NY",New York,NY
+1540,Sac Bay,United States,45.6499816,-86.6917988,"Sac Bay, MI",Michigan,MI
+1541,West Point,United States,32.8779056,-85.1832746,"West Point, GA",Georgia,GA
+1542,Sydney,Australia,-33.7553899,151.1518099,"Gordon, New South Wales, New South Wales",New South Wales,NSW
+1543,Wailuku,United States,20.8905443,-156.503093,"Wailuku, HI",Hawaii,HI
+1544,Trivento,Italy,41.781407,14.5511246,Trivento,Molise,MOL
+1545,North Devon,United Kingdom,51.1083317,-4.161138,"Braunton, England, England",England,ENG
+1546,Sydney,Australia,-34.0848421,151.0073838,"Heathcote, New South Wales, New South Wales",New South Wales,NSW
+1547,City Of Swan,Australia,-31.8985059,115.9702294,"Guildford, Western Australia, Western Australia",Western Australia,WA
+1548,Sydney,Australia,-33.8094444,151.0858333,"West Ryde, New South Wales",New South Wales,NSW
+1549,Toppenish,United States,46.3775015,-120.308938,"Toppenish, WA",Washington,WA
+1550,Fairmont,United States,43.6521775,-94.4610832,"Fairmont, MN",Minnesota,MN
+1551,New York,United States,40.5845085,-73.81679,"Rockaway Beach, NY",New York,NY
+1552,Blountstown,United States,30.4435293,-85.0451953,"Blountstown, FL",Florida,FL
+1553,Jeffersontown,United States,38.1942356,-85.5644033,"Jeffersontown, KY",Kentucky,KY
+1554,Salt Rock,United States,38.3231434,-82.2209772,"Salt Rock, WV",West Virginia,WV
+1555,Wangaratta,Australia,-36.3562509,146.3230914,Wangaratta,Victoria,VIC
+1556,Speedway,United States,39.7881233,-86.2407144,"Speedway, IN",Indiana,IN
+1557,Cambridgeshire,United Kingdom,52.2993983,-0.0713548,"Fenstanton, England, England",England,ENG
+1558,Mont Alto,United States,39.8442593,-77.5583232,"Mont Alto, PA",Pennsylvania,PA
+1559,Ridgeway,United States,36.5768047,-79.8583721,"Ridgeway, VA",Virginia,VA
+1560,Upper Sandusky,United States,40.8272785,-83.2813089,"Upper Sandusky, OH",Ohio,OH
+1561,Coldwater,United States,41.9403263,-85.0005215,"Coldwater, MI",Michigan,MI
+1562,Hart,United Kingdom,51.3061528,-0.8997142,"Hartley Wintney, England, England",England,ENG
+1563,Allentown,United States,40.1778887,-74.5834887,"Allentown, NJ",New Jersey,NJ
+1564,Reynosa,Mexico,26.0704018,-98.2963932,"Reynosa, Tamaulipas",Tamaulipas,TAM
+1565,Wales,United Kingdom,53.34061,-1.28162,"Penrice, Wales, Wales",England,ENG
+1566,Mountain View,United States,36.9953322,-91.703755,"Mountain View, MO",Missouri,MO
+1567,Town of Smithtown,United States,40.8789871,-73.1567778,"Saint James, NY",New York,NY
+1568,South Pasadena,United States,27.7550276,-82.7376009,"South Pasadena, FL",Florida,FL
+1569,Lisbon Township,United States,41.4739196,-88.4339581,"Central, IL",Illinois,IL
+1570,Sa'a,Cameroon,4.3579652,11.4259602,"Saa, Centre, Centre",Centre,CE
+1571,Town of Islip,United States,40.7359317,-73.0820556,"Sayville, NY",New York,NY
+1572,Puget,United States,47.1457436,-122.7953971,"Puget, WA",Washington,WA
+1573,Warren,United States,43.9250655,-71.8920762,"Warren, NH",New Hampshire,NH
+1574,Kansas City,United States,39.100637,-94.57792,"Kansas City Suburban Acreage, MO",Missouri,MO
+1575,Village of Warwick,United States,41.256483,-74.3598755,"Warwick, NY",New York,NY
+1576,Warwick,United States,35.6858959,-97.0041948,"Warwick, OK",Oklahoma,OK
+1577,Point Clear,United States,30.4740845,-87.9191598,"Point Clear, AL",Alabama,AL
+1578,Warwick,United States,41.281234,-74.436934,"CaPointree Is, NY",New York,NY
+1579,Village of Newark,United States,43.0467301,-77.0952516,"Newark, NY",New York,NY
+1580,Montbéliard,France,47.5102368,6.7977564,Montbéliard,Bourgogne-Franche-Comté,BFC
+1581,Lakebay,United States,47.2583087,-122.760667,"Lakebay, WA",Washington,WA
+1582,Borough of Melton,United Kingdom,52.816291,-0.8102265,"Waltham on the Wolds, England, England",England,ENG
+1583,Franklin Township,United States,40.7320436,-75.0515617,"Broadway, NJ",New Jersey,NJ
+1584,Saintfield,United Kingdom,54.4603955,-5.8325813,"Saintfield, Northern Ireland, Northern Ireland",Northern Ireland,NIR
+1585,Kirkintilloch,United Kingdom,55.9383914,-4.1549049,"Kirkintilloch, Scotland, Scotland",Scotland,SCT
+1586,Kharagpur,India,22.3141458,87.3064298,"Sahāra, West Bengal, West Bengal",West Bengal,WB
+1587,Big Sky Mountain Village,United States,45.2882166,-111.394108,"Big Sky Mountain Village, MT",Montana,MT
+1588,Town of Van Buren,United States,43.0853445,-76.3290977,"Warners, NY",New York,NY
+1589,Rancho Santa Fe,United States,33.0203211,-117.202813,"Rancho Santa Fe, CA",California,CA
+1590,Wales,United Kingdom,53.34061,-1.28162,"Cwmduad, Wales, Wales",England,ENG
+1591,Castel San Giovanni,Italy,45.0590671,9.4341783,"Castel San Giovanni, Emilia-Romagna, Emilia-Romagna",Emilia-Romagna,EMI
+1592,Wales,United States,42.061684,-72.23328,"Ystrad Mynach, Wales, Wales",Massachusetts,MA
+1593,New Braintree,United States,42.3166391,-72.1265444,"New Braintree, MA",Massachusetts,MA
+1594,Village of Woodbury,United States,41.3317605,-74.120978,"Central Valley, NY",New York,NY
+1595,San Pedro Sula,Honduras,15.5062156,-88.0248937,San Pedro Sula,Cortés,CR
+1596,Indian Wells,United States,33.727743,-116.313518,"Palm Desert Country, CA",California,CA
+1597,Milnerton,South Africa,-33.8890503,18.511960276120483,Century City,Western Cape,WC
+1598,Dartford,United Kingdom,51.4436966,0.3065743,"Swanscombe, England, England",England,ENG
+1599,Salisbury,United States,35.6437506,-80.4625596,"South Salisbury, NC",North Carolina,NC
+1600,Sherbrooke,Canada,45.3958531,-72.0122324,"Saint-Élie-d'Orford, QC",Quebec,QC
+1601,Hamburg,Germany,53.573282,9.89117,"Samarkand, Surxondaryo, Surxondaryo",Hamburg,HH
+1602,Casalecchio di Reno,Italy,44.4760177,11.2756857,Casalecchio di Reno,Emilia-Romagna,EMI
+1603,Steilacoom,United States,47.1703692,-122.596287,"Steilacoom, WA",Washington,WA
+1604,Stillwater,United States,45.0564041,-92.8134982,"Stillwater, MN",Minnesota,MN
+1605,Wark on Tyne,United Kingdom,55.08623,-2.22267,"Wark, Northumberland, North East England, England, England",England,ENG
+1606,East Newark,United States,40.7501076,-74.1611525,"East Newark, NJ",New Jersey,NJ
+1607,Black Diamond,United States,47.3083078,-122.0037583,"Black Diamond, WA",Washington,WA
+1608,Montclair,United States,38.6109522,-77.3397058,"Montclair, VA",Virginia,VA
+1609,San Miguel Chicahua,Mexico,17.635833,-97.194722,San Miguel Chicahua,Oaxaca,OAX
+1610,Wales,United Kingdom,53.34061,-1.28162,"Dowlais, Wales, Wales",England,ENG
+1611,Vicksburg,United States,32.3528055,-90.8777342,"Vicksburg, MS",Mississippi,MS
+1612,Clintonville,United States,44.6205348,-88.7623227,"Clintonville, WI",Wisconsin,WI
+1613,Tircoed,United Kingdom,51.6772526,-4.002754,"Penllergaer, Wales, Wales",Wales,WLS
+1614,Rewa,India,24.5359,81.2934,"Rewa, Madhya Pradesh, Madhya Pradesh",Madhya Pradesh,MP
+1615,Pleasant Prairie,United States,42.5269718,-87.8544568,"Pleasant Prairie, WI",Wisconsin,WI
+1616,Llandeilo,United Kingdom,51.8851723,-3.9868387,"Llandeilo, Wales, Wales",Wales,WLS
+1617,Warsaw,United States,32.5501364,-96.4202626,"Warsaw, TX",Texas,TX
+1618,Watchung,United States,40.6378801,-74.4509863,"Watchung, NJ",New Jersey,NJ
+1619,Sanford,United States,43.438878,-70.7739832,"Sanford, ME",Maine,ME
+1620,Adelaide,Australia,-34.8596902,138.5855855,"Kilburn, South Australia",South Australia,SA
+1621,Mount Hermon,United States,37.0510596,-122.0585746,"Mount Hermon, CA",California,CA
+1622,Cardiff,United Kingdom,51.4936449,-3.2193868,"Llandaff, Wales, Wales",Wales,WLS
+1623,Waterbury,United States,44.3387049,-72.7561208,"Waterbury, VT",Vermont,VT
+1624,City Of Wanneroo,Australia,-31.6897332,115.7091824,"Mindarie, Western Australia, Western Australia",Western Australia,WA
+1625,Cwmbach,United Kingdom,51.701481,-3.4147941,"Cwmbach, Rhondda Cynon Taff, Wales, Wales",Wales,WLS
+1626,Highpoint,United States,33.1881814,-89.1461762,"Highpoint, MS",Mississippi,MS
+1627,Clinton,United States,40.6362878,-74.9116603,"Clinton, NJ",New Jersey,NJ
+1628,Saint Johnsbury,United States,44.419494,-72.0156532,"Saint Johnsbury, VT",Vermont,VT
+1629,Village of Walton,United States,42.1695296,-75.1293351,"Walton, NY",New York,NY
+1630,Chennai,India,13.0338602,80.2545491,Alwarpet,Tamil Nadu,TN
+1631,Ribble Valley,United Kingdom,53.9142859,-2.3413647,"Sawley, East Midlands, England, England",England,ENG
+1632,Bomont,United States,38.4498222,-81.2323368,"Bomont, WV",West Virginia,WV
+1633,Fremont,United States,41.3473413,-83.1134972,"Fremont, OH",Ohio,OH
+1634,Town of Saratoga,United States,43.0529612,-73.6417024,"Mount Pleasant, Saratoga, NY, Optional[NY]",New York,NY
+1635,Grantsboro,United States,35.1406429,-76.84246,"Grantsboro, NC",North Carolina,NC
+1636,Wakefield,United Kingdom,53.6083451,-1.2823863,"North Elmsall, England, England",England,ENG
+1637,St Leonards,Australia,-38.1744406,144.716529,"Saint Leonards, Victoria, Victoria",Victoria,VIC
+1638,Fermont,Canada,52.7931065,-67.0845797,"Fermont, QC",Quebec,QC
+1639,North Sarasota,United States,27.3739333,-82.5184301,"North Sarasota, FL",Florida,FL
+1640,Brogborough,United Kingdom,52.0264456,-0.5950962,"Ridgmont, England, England",England,ENG
+1641,Point Douglas,United States,44.7510787,-92.8179813,"Point Douglas, MN",Minnesota,MN
+1642,Baltimore,United States,39.2908816,-76.610759,"Glenmont, Baltimore, MD, Optional[MD]",Maryland,MD
+1643,Freeland,United States,48.027828,-122.547194,"Freeland, WA",Washington,WA
+1644,Overstrand Local Municipality,South Africa,-34.4183333,19.1527778,"Vermont, Western Cape, Western Cape",Western Cape,WC
+1645,Newport,United Kingdom,51.56028,-3.0189997,"Duffryn, Newport, Wales, Wales",Wales,WLS
+1646,Palwal,India,28.1405741,77.3259802,"Palwal, Haryana, Haryana",Haryana,HR
+1647,Mount Royal,Canada,45.5143668,-73.6439247,"Mont-Royal, QC",Quebec,QC
+1648,Washington,United States,38.6592152,-87.172789,"Washington, IN",Indiana,IN
+1649,Jackson Center,United States,40.4394935,-84.0402203,"Jackson Center, OH",Ohio,OH
+1650,Benton,United States,36.8572781,-88.350315,"Benton, KY",Kentucky,KY
+1651,Bolsover,United Kingdom,53.106412,-1.3392761,"South Normanton, England, England",England,ENG
+1652,Sydney,Australia,-33.9702813,151.2394867,"Chifley, New South Wales",New South Wales,NSW
+1653,Ooltewah,United States,35.0749981,-85.062197,"Ooltewah, TN",Tennessee,TN
+1654,New Stanton,United States,40.2192258,-79.6097255,"New Stanton, PA",Pennsylvania,PA
+1655,South Annville Township,United States,40.284259,-76.4991338,"Fontana, PA",Pennsylvania,PA
+1656,Toronto,United States,39.7139399,-89.6298197,"Toronto, IL",Illinois,IL
+1657,San Marino,United States,34.1215947,-118.105739,"San Marino, CA",California,CA
+1658,Kentuck,United States,36.6598598,-79.298354,"Kentuck, VA",Virginia,VA
+1659,Tiger Point,United States,30.3785325,-87.0555212,"Tiger Point, FL",Florida,FL
+1660,Sandwich,United States,41.7579043,-70.4968152,"Sandwich, MA",Massachusetts,MA
+1661,St. Clairsville,United States,40.0806266,-80.9000916,"Saint Clairsville, OH",Ohio,OH
+1662,Anta,Peru,-9.3576692,-77.5985103,Anta,Ancash,ANC
+1663,Sangareddy,India,17.608747,78.07946,Sangāreddi,Telangana,TG
+1664,Owenton,United States,38.536456,-84.8418926,"Owenton, KY",Kentucky,KY
+1665,Pennsville Township,United States,39.6598354,-75.5146435,"Central Park, NJ",New Jersey,NJ
+1666,Quebradillas,United States,18.4745672,-66.9156299,"San Jose, PR",Puerto Rico,PR
+1667,Saluda,United States,34.0015232,-81.7720522,"Saluda, SC",South Carolina,SC
+1668,Brentwood,United States,40.3732693,-79.9756206,"Brentwood, PA",Pennsylvania,PA
+1669,Hopkinton,United States,41.4234812,-71.785538,"Ashaway, RI",Rhode Island,RI
+1670,Huntington,United States,38.410638,-82.4837666,"West Huntington, WV",West Virginia,WV
+1671,Blantyre,United States,35.3001148,-82.6259565,"Blantyre, NC",North Carolina,NC
+1672,Valentine,United States,42.8746752,-100.5506158,"Valentine, NE",Nebraska,NE
+1673,Montreal,Canada,45.4325141,-73.6292667,"Lasalle, QC",Quebec,QC
+1674,City Of Armadale,Australia,-32.1186965,115.9314593,"Harrisdale, Western Australia",Western Australia,WA
+1675,Ontario,United States,44.0265525,-116.9629378,"Ontario, OR",Oregon,OR
+1676,Aguascalientes,Mexico,21.8961318,-102.2739002,"Aguascalientes, Aguascalientes, Aguascalientes",Aguascalientes,AGU
+1677,Clarkston,United States,46.4162724,-117.045179,"Clarkston, WA",Washington,WA
+1678,Wales,United Kingdom,53.34061,-1.28162,"Ystalyfera, Wales, Wales",England,ENG
+1679,Sacramento,United States,37.4158784,-87.2655531,"Sacramento, KY",Kentucky,KY
+1680,Wainwright,Canada,52.8374281,-110.8612063,"Wainwright, AB",Alberta,AB
+1681,Toronto,United States,38.0036476,-92.5254576,"Toronto, MO",Missouri,MO
+1682,Lismore,Australia,-28.8077608,153.2791883,"Lismore, New South Wales, New South Wales",New South Wales,NSW
+1683,Latah,United States,47.2815642,-117.155461,"Latah, WA",Washington,WA
+1684,Somerset West and Taunton,United Kingdom,51.179924,-3.3306406,"Watchet, England, England",England,ENG
+1685,Westmount,Canada,45.4857329,-73.5963951,"Westmount, QC",Quebec,QC
+1686,Midway,United States,31.805769,-81.4306642,"Midway, GA",Georgia,GA
+1687,Atlanta,United States,45.0047306,-84.1438927,"Atlanta, MI",Michigan,MI
+1688,Pocahontas,United States,38.8278248,-89.5400849,"Pocahontas, IL",Illinois,IL
+1689,Montero,Bolivia,-17.3420202,-63.2557687,Montero,Santa Cruz,S
+1690,Saint-Michel,Canada,45.2381816,-73.5699087,"Saint-Michel, QC",Quebec,QC
+1691,Yacolt,United States,45.8655044,-122.4070314,"Yacolt, WA",Washington,WA
+1692,Hopkinton,United States,42.2288875,-71.5196439,"Hopkinton, MA",Massachusetts,MA
+1693,Cherry Point,United States,34.922586,-76.885639,"Cherry Point, NC",North Carolina,NC
+1694,Skewen,United Kingdom,51.6613081,-3.8474471,"Skewen, Wales, Wales",Wales,WLS
+1695,Ballarat,Australia,-37.5627279,143.8501516,Ballarat Central,Victoria,VIC
+1696,Udaipurwati,India,27.7309897,75.4743975,Udaipurwati,Rajasthan,RJ
+1697,Louisa,United States,38.0250438,-78.0035745,"Louisa, VA",Virginia,VA
+1698,Basingstoke and Deane,United Kingdom,51.21530265,-1.1941407562997988,"North Waltham, MA",England,ENG
+1699,Rocky Mount,United States,35.9245993,-77.7966454,"South Rocky Mount, NC",North Carolina,NC
+1700,Lynden,United States,48.9466041,-122.4569315,"Lynden, WA",Washington,WA
+1701,Village of Massapequa Park,United States,40.6803785,-73.4551241,"Massapequa Park, NY",New York,NY
+1702,Sydney,Australia,-33.8777935,151.1156502,"Croydon, New South Wales, New South Wales",New South Wales,NSW
+1703,Airway Heights,United States,47.643559,-117.595581,"Airway Heights, WA, Optional[WA]",Washington,WA
+1704,San Diego,United States,32.5520013,-117.0430813,"San Ysidro, CA",California,CA
+1705,Antigonish,Canada,45.6213607,-61.9904928,"Antigonish, NS",Nova Scotia,NS
+1706,Sandston,United States,37.5234794,-77.3158118,"Sandston, VA",Virginia,VA
+1707,Shadwell Mountain,United States,38.0287503,-78.4125097,"Shadwell Mountain, VA",Virginia,VA
+1708,Montreal,United States,37.9689254,-92.5921247,"Montreal, MO",Missouri,MO
+1709,Montgomery,United States,42.209547,-72.817369,"Montgomery, MA",Massachusetts,MA
+1710,Hawaiian Gardens,United States,33.8284787,-118.074313,"Hawaiian Gardens, CA",California,CA
+1711,City of Edinburgh,United Kingdom,55.9072949,-3.2575535,"Colinton, Scotland, Scotland",Scotland,SCT
+1712,Fountain Valley,Canada,50.7345818,-121.8624445,"Fountain Valley, Orange, CA, Optional[CA]",British Columbia,BC
+1713,Santee,United States,33.4751634,-80.4864764,"Santee, SC",South Carolina,SC
+1714,Bradford,United Kingdom,53.791393,-1.849602,"Thornton, Lancashire, North West England, England, England",England,ENG
+1715,Clinton,United States,35.5914666,-92.4604361,"Clinton, AR",Arkansas,AR
+1716,Blue Mounds,United States,43.020945,-89.804851,"Little Norway, WI",Wisconsin,WI
+1717,East Wenatchee,United States,47.4156824,-120.293126,"East Wenatchee, WA",Washington,WA
+1718,Montreal,Canada,45.58671,-73.5969488,"Saint-Léonard, QC",Quebec,QC
+1719,Whiteford Township,United States,41.7641517,-83.7493869,"Ottawa Lake, MI",Michigan,MI
+1720,Melbourne,Australia,-38.0775184,145.2989039,"Cranbourne North, Victoria",Victoria,VIC
+1721,Mattawan,United States,42.2094839,-85.784453,"Mattawan, MI",Michigan,MI
+1722,Medical Lake,United States,47.5727104,-117.682391,"Medical Lake, WA",Washington,WA
+1723,Logan City,Australia,-27.621803,153.13913398475785,"Springwood, Queensland, Queensland",Queensland,QLD
+1724,Saint Petersburg,United States,27.7702344,-82.7328927,"Pasadena, FL",Florida,FL
+1725,San Diego,United States,32.8195052,-117.1823399,"Clairemont, CA",California,CA
+1726,Burntisland,United Kingdom,56.0593631,-3.2330993,"Burntisland, Scotland, Scotland",Scotland,SCT
+1727,Wealden District,United Kingdom,51.0605,0.338403,"Wadhurst, England, England",England,ENG
+1728,Wales,United States,44.16106,-70.054814,"Login, Wales, Wales",Maine,ME
+1729,Cambridgeshire,United Kingdom,52.1252327,0.1693457,"Sawston, England, England",England,ENG
+1730,Satellite Beach,United States,28.1761233,-80.5900519,"Satellite Beach, FL",Florida,FL
+1731,Mountain View Acres,United States,39.3056565,-78.3469503,"Mountain View Acres, VA",Virginia,VA
+1732,Melbourne,Australia,-37.837491,144.9199925,"Garden City, Victoria",Victoria,VIC
+1733,Kalama,United States,46.0085225,-122.84247,"Kalama, WA",Washington,WA
+1734,Brent,United States,32.9373463,-87.1647184,"Brent, AL",Alabama,AL
+1735,Waynesville,United States,35.4887476,-82.9888725,"Waynesville, NC",North Carolina,NC
+1736,San Diego,United States,32.7174202,-117.1627728,San Diego,California,CA
+1737,Hargeisa,Somalia,9.561733,44.061803,"Hargeysa, Woqooyi Galbeed, Woqooyi Galbeed",Woqooyi Galbeed,WO
+1738,Waverly City,United States,39.126735,-82.9854553,"Waverly, OH",Ohio,OH
+1739,Clearwater,United States,37.5027959,-97.5044921,"Clearwater, KS",Kansas,KS
+1740,Repentigny,Canada,45.7326055,-73.4528307,"Repentigny, QC",Quebec,QC
+1741,Sanford,United States,43.4116792,-70.7376625,"South Sanford, ME",Maine,ME
+1742,Rotherham,United Kingdom,53.3632604,-1.3212919,"Swallownest, England, England",England,ENG
+1743,New Brunswick,United States,39.20588,-87.1214,"New Brunswick, Clay, IN, Optional[IN]",Indiana,IN
+1744,Milwaukie,United States,45.4440051,-122.6412523,"Milwaukie, OR",Oregon,OR
+1745,Grosse Pointe Woods,United States,42.4435616,-82.9069508,"Grosse Pointe Woods, MI",Michigan,MI
+1746,Deventer,Netherlands,52.2532272,6.1584725,Deventer,Overijssel,OV
+1747,Sainte-Julie,Canada,45.5930624,-73.3395943,"Sainte-Julie, QC",Quebec,QC
+1748,Belmont,United States,40.0292374,-81.0389883,"Belmont, OH",Ohio,OH
+1749,Sauk Village,United States,41.4883685,-87.5675414,"Sauk Village, IL",Illinois,IL
+1750,Norwalk,United States,41.4755492,-93.6788876,"Norwalk, IA",Iowa,IA
+1751,Ellenton,United States,27.521705,-82.5275963,"Ellenton, FL",Florida,FL
+1752,St Ives,Australia,-33.728832,151.170804,"Saint Ives, New South Wales, New South Wales",New South Wales,NSW
+1753,Newtown,Australia,-38.147273,144.329921,"Nantes, 44",Victoria,VIC
+1754,Port Aransas,United States,27.8332175,-97.0618324,"Port Aransas, TX",Texas,TX
+1755,Pyle,United Kingdom,51.5157159,-3.6815541,"Pyle, Wales, Wales",Wales,WLS
+1756,Saratoga Springs,United States,40.3491173,-111.904656,"Saratoga Springs, Utah, UT, Optional[UT]",Utah,UT
+1757,Middlemount,Australia,-22.8102933,148.7011426,Middlemount,Queensland,QLD
+1758,Mandsaur,India,24.0682898,75.0742388,Mandsaur,Madhya Pradesh,MP
+1759,Sydney,Australia,-33.8777782,151.1862377,"Glebe, New South Wales",New South Wales,NSW
+1760,Campton,United Kingdom,52.0374672,-0.3619193,"Chicksands, England, England",England,ENG
+1761,Swainsboro,United States,32.5973857,-82.3337376,"Swainsboro, GA",Georgia,GA
+1762,Brisbane City,Australia,-27.4683191,153.0907736,"Cannon Hill, Queensland",Queensland,QLD
+1763,Glanmule,United Kingdom,52.5049415,-3.2342335,"Kerry, Wales, Wales",Wales,WLS
+1764,St. Blaise,United Kingdom,50.36036,-4.71519,"Saint Blazey, England, England",England,ENG
+1765,Llanllowell,United Kingdom,51.6802573,-2.8887343,"Usk, Wales, Wales",Wales,WLS
+1766,Havenview,Australia,-41.077627,145.915863,Grant No 11,Tasmania,TAS
+1767,Hunter,Australia,-36.4416698,144.5065426,Hunter,Victoria,VIC
+1768,London,United Kingdom,51.5079378,-0.0071843,"Blackwall, England, England",England,ENG
+1769,Sapcote,United Kingdom,52.5365395,-1.280035,"Sapcote, England, England",England,ENG
+1770,Saint Columb Major,United Kingdom,50.43333,-4.93333,"Saint Columb Major, England, England",England,ENG
+1771,Sacramento,United States,38.5810606,-121.493895,Sacramento,California,CA
+1772,Belfair,United States,47.45226,-122.8265391,"Belfair, WA",Washington,WA
+1773,Sand Springs,United States,36.1394339,-96.1100025,"Sand Springs, OK",Oklahoma,OK
+1774,Morganton,United States,34.8755802,-84.2441114,"Morganton, GA",Georgia,GA
+1775,Grantville,United States,40.377867,-76.6463566,"Grantville, PA",Pennsylvania,PA
+1776,Anacortes,United States,48.5020123,-122.623735,"Anacortes, WA",Washington,WA
+1777,Melbourne,Australia,-37.7688802,144.9776825,"Brunswick East, Victoria",Victoria,VIC
+1778,Taylor Township,United States,40.1275826,-78.0627822,"Waterfall, PA",Pennsylvania,PA
+1779,Watauga,United States,32.8579056,-97.2547371,"Watauga, TX",Texas,TX
+1780,St. Thomas,United States,48.619156,-97.4464703,"Saint Thomas, ND",North Dakota,ND
+1781,Melbourne,Australia,-37.8300705,144.7869487,"Laverton North, Victoria",Victoria,VIC
+1782,Mountain Grove,United States,37.1306078,-92.2634942,"Mountain Grove, Wright, MO, Optional[MO]",Missouri,MO
+1783,Ravenswood,United States,38.9483268,-81.7609912,"Ravenswood, WV",West Virginia,WV
+1784,Jacksonville,United States,30.304561800000002,-81.65122882442,"San Marco, FL",Florida,FL
+1785,Town of Triangle,United States,42.3289626,-75.9677001,"Whitney Point, NY",New York,NY
+1786,Hilton Head Island,United States,32.1821509,-80.7389971,"Beaufort County Landing, SC",South Carolina,SC
+1787,South Pasadena,United States,34.1133062,-118.1478291,"South Pasadena, CA",California,CA
+1788,Town of Nassau,United States,42.5078592,-73.5065006,"East Nassau, NY",New York,NY
+1789,South Brunswick,United States,40.3792734,-74.5662666,"South Brunswick Terrace, NJ",New Jersey,NJ
+1790,Blountsville,United States,34.0814863,-86.5911027,"Blountsville, AL",Alabama,AL
+1791,Warsaw,United States,38.2442186,-93.3774013,"Warsaw, MO",Missouri,MO
+1792,Melbourne,Australia,-38.1765027,145.1295641,"Frankston South, Victoria",Victoria,VIC
+1793,Watson,United States,39.0253213,-88.5697716,"Watson, IL",Illinois,IL
+1794,Wyndham,Australia,-15.4867977,128.1236196,"Wyndham, Western Australia, Western Australia",Western Australia,WA
+1795,Saint-Martin-sur-le-Pré,France,48.977621,4.3366642,Saint-Martin-sur-le-Pré,Grand Est,GES
+1796,Swanton,United States,41.5906822,-83.8931809,"Swanton, OH",Ohio,OH
+1797,Milwaukee,United States,36.4054313,-77.2321893,"Milwaukee, NC",North Carolina,NC
+1798,Saint-Franc,France,45.4912963,5.7460579,Saint-Franc,Auvergne-Rhône-Alpes,ARA
+1799,East Port Orchard,United States,47.5209144,-122.6295948,"East Port Orchard, WA",Washington,WA
+1800,Melbourne,Australia,-37.8290227,144.9927735,"Cremorne, Victoria",Victoria,VIC
+1801,Monticello,United States,36.8297937,-84.8491126,"Monticello, KY",Kentucky,KY
+1802,Palisades Park,United States,40.8481556,-73.997639,"Palisades Park, NJ",New Jersey,NJ
+1803,Spokane Valley,United States,47.6535045,-117.3152097,"East Spokane, WA",Washington,WA
+1804,Waipahu,United States,21.3866667,-158.009166,"Waipahu, HI",Hawaii,HI
+1805,Adelaide,Australia,-34.8795782,138.5389922,"Woodville, South Australia, South Australia",South Australia,SA
+1806,Hobart,Australia,-42.8726803,147.3161567,"North Hobart, Tasmania",Tasmania,TAS
+1807,Saint-Louis,France,48.7160783,7.1884164,Saint-Louis,Grand Est,GES
+1808,Watervliet,United States,42.1867052,-86.2605776,"Watervliet, MI",Michigan,MI
+1809,Richland Center,United States,43.3355111,-90.3854036,"Richland Center, WI",Wisconsin,WI
+1810,Chalfont St Giles,United Kingdom,51.6321046,-0.5697912,"Chalfont Saint Giles, England, England",England,ENG
+1811,Llangefni,United Kingdom,53.2567777,-4.3150201,"Llangefni, Wales, Wales",Wales,WLS
+1812,Milwa,Democratic Republic of the Congo,-4.6341415,18.5091841,Milwa,Kwilu,KL
+1813,Morgantown,United States,39.6294717,-79.9285304,"Sabraton, WV",West Virginia,WV
+1814,Wales,United Kingdom,53.34061,-1.28162,"Cathays Park, Wales, Wales",England,ENG
+1815,Bellefonte,United States,40.9134862,-77.7737471,"Bellefonte, PA",Pennsylvania,PA
+1816,Claremont,United States,35.7145776,-81.1461917,"Claremont, NC",North Carolina,NC
+1817,Water Valley,United States,34.1514989,-89.6314736,"Water Valley, MS",Mississippi,MS
+1818,Germantown,United States,39.6261682,-84.3693882,"Germantown, OH",Ohio,OH
+1819,North Bethesda,United States,39.04455,-77.11887,"No BrenTownshipood, MD",Maryland,MD
+1820,Saint Bernard,United States,29.8671501,-89.858676,"Saint Bernard, LA",Louisiana,LA
+1821,Oneonta,United States,33.9471315,-86.4714926,"Oneonta, AL",Alabama,AL
+1822,Sacramento,United States,40.4089005,-99.2750953,"Sacramento, NE",Nebraska,NE
+1823,Sydney,Australia,-33.872404,151.199079,"Darling Harbour, New South Wales",New South Wales,NSW
+1824,Sacramento,United States,38.0317134,-88.3375443,"Sacramento, IL",Illinois,IL
+1825,White Settlement,United States,32.7595737,-97.4583538,"White Settlement, TX",Texas,TX
+1826,City Of Stirling,Australia,-31.8709062,115.8198022,"Balcatta, Western Australia",Western Australia,WA
+1827,Safford,United States,32.2879179,-87.3713857,"Safford, AL",Alabama,AL
+1828,San Juan,Argentina,-31.5370909,-68.5251802,"San Juan, San Juan, San Juan",San Juan,J
+1829,Hobart,Australia,-42.9749818,147.308221,"Kingston, Tasmania, Tasmania",Tasmania,TAS
+1830,Conway,United States,44.0537103,-71.1282572,"North Conway, NH",New Hampshire,NH
+1831,Montmagny,Canada,46.9826328,-70.555916,"Montmagny, QC",Quebec,QC
+1832,Hayward,United States,46.0129676,-91.4848728,"Hayward, WI",Wisconsin,WI
+1833,Ciudad Victoria,Mexico,23.7389846,-99.1441352,"Hampton, Victoria, Victoria",Tamaulipas,TAM
+1834,Pasco,United States,46.2306739,-119.0921,"Pasco, WA",Washington,WA
+1835,Wansford,United Kingdom,53.9925789,-0.3801944,"Wansford, East of England, England, England",England,ENG
+1836,Centralia,United States,38.5250491,-89.1334037,"Centralia, IL",Illinois,IL
+1837,Newbridge,United Kingdom,51.6652081,-3.1432446,"Newbridge, Wales, Wales",Wales,WLS
+1838,San Jose,United States,40.305598,-89.6028829,"San Jose, IL",Illinois,IL
+1839,Acton,United States,42.4850931,-71.43284,"Acton, MA",Massachusetts,MA
+1840,Sedro-Woolley,United States,48.504994,-122.235109,"Sedro-Woolley, WA",Washington,WA
+1841,Ocean Shores,United States,46.973703,-124.156277,"Ocean Shores, WA",Washington,WA
+1842,Redland City,Australia,-27.5843003,153.300364,Victoria Point,Queensland,QLD
+1843,Edmonton,Canada,53.5462055,-113.491241,Edmonton,Alberta,AB
+1844,Hamlet of Clairmont,Canada,55.2623283,-118.7906709,"Clairmont, AB",Alberta,AB
+1845,Dauntsey Lock,United Kingdom,51.5289511,-2.0126009,"Saint James, England, England",England,ENG
+1846,Sydney,Australia,-33.7416936,150.9547183,"Bella Vista, New South Wales",New South Wales,NSW
+1847,Port Angeles,United States,48.118146,-123.430741,"Port Angeles, WA",Washington,WA
+1848,Eatonton,United States,33.3267128,-83.388485,"Eatonton, GA",Georgia,GA
+1849,Montgomery Township,United States,40.2473291,-75.2437854,"Montgomeryville, PA",Pennsylvania,PA
+1850,Savage,United States,39.1370984,-76.8249361,"Savage, MD",Maryland,MD
+1851,Saint-Jean-sur-Richelieu,Canada,45.3056879,-73.2533401,"Saint-Jean-sur-Richelieu, QC",Quebec,QC
+1852,Montoursville,United States,41.2552213,-76.9128928,"Montoursville, PA",Pennsylvania,PA
+1853,Sydney,Australia,-33.8066667,150.9677778,Wentworthville,New South Wales,NSW
+1854,Wahiawa,United States,21.500624100000003,-158.0166720181598,"Wahiawä, HI",Hawaii,HI
+1855,Warner,United States,35.494675,-95.3060603,"Warner, OK",Oklahoma,OK
+1856,Winter Springs,United States,39.4653797,-77.2508157,"Winter Springs, MD",Maryland,MD
+1857,Corowa,Australia,-35.9995747,146.3906094,Corowa,New South Wales,NSW
+1858,East Linton,United Kingdom,55.9865464,-2.6558397,Dbsa,Scotland,SCT
+1859,Melbourne,Australia,-38.0279936,145.2209236,"Dandenong South, Victoria",Victoria,VIC
+1860,Saint Marys,United States,40.5422697,-84.3893962,"Saint Marys, OH",Ohio,OH
+1861,St. Rose,United States,29.9468716,-90.3231349,"Saint Rose, LA",Louisiana,LA
+1862,Port Isabel,United States,26.0734119,-97.2085844,"Port Isabel, TX",Texas,TX
+1863,Lascassas,United States,35.9303417,-86.2911025,"Lascassas, TN",Tennessee,TN
+1864,Harwinton,United States,41.7712085,-73.05983,"Harwinton, CT",Connecticut,CT
+1865,Central City,United States,30.1882547,-84.9257468,"Central City, FL",Florida,FL
+1866,Horsham,Australia,-36.7148099,142.2018105,"Horsham, Victoria, Victoria",Victoria,VIC
+1867,Poulsbo,United States,47.7391366,-122.63928,"Poulsbo, WA",Washington,WA
+1868,Wakefield,United Kingdom,53.6829541,-1.4967286,Wakefield,England,ENG
+1869,North Bend,United States,47.4957757,-121.784889,"North Bend, WA",Washington,WA
+1870,Sydney,Australia,-33.6769931,151.3029577,"Mona Vale, New South Wales, New South Wales",New South Wales,NSW
+1871,Montesilvano,Italy,42.5136032,14.1516203,Montesilvano,Abruzzo,ABR
+1872,Begusarai,India,25.4138614,86.1348858,Begusarai,Bihar,BR
+1873,Vila Velha,Brazil,-20.3297037,-40.2920174,"Vila Velha, Espírito Santo, Espírito Santo",Espírito Santo,ES
+1874,St. Henry,United States,40.42107215,-84.63217599875819,"Saint Henry, OH",Ohio,OH
+1875,Brockway,United States,41.2492279,-78.7994738,"Brockway, PA",Pennsylvania,PA
+1876,Central,United States,38.392688,-121.5730111,"Central, CA",California,CA
+1877,Village of Saint Charles,United States,43.2969699,-84.1405346,"Saint Charles, MI",Michigan,MI
+1878,Aberdeen,United States,46.975371,-123.815722,"Aberdeen, WA",Washington,WA
+1879,Ciudad Victoria,Mexico,23.7389846,-99.1441352,"Camberwell, Victoria, Victoria",Tamaulipas,TAM
+1880,Morriston,United Kingdom,51.66509645,-3.9262087833114228,"Morriston, Wales, Wales",Wales,WLS
+1881,Waseca,United States,44.0776638,-93.5075767,"Waseca, MN",Minnesota,MN
+1882,Sahara,India,27.07824,79.29084,"Sahāra, Uttar Pradesh, Uttar Pradesh",Uttar Pradesh,UP
+1883,Stanton,United States,37.8456373,-83.8582525,"Stanton, KY",Kentucky,KY
+1884,Broussard,United States,30.1471506,-91.9612413,"Broussard, LA",Louisiana,LA
+1885,Wageningen,Netherlands,51.9685817,5.668298061827958,Wageningen,Gelderland,GE
+1886,Alwar,India,27.5645949,76.6132248,Alwar,Rajasthan,RJ
+1887,Village of Monticello,United States,41.6556465,-74.6893282,"Monticello, NY",New York,NY
+1888,Clinton,United States,38.3686325,-93.7782689,"Clinton, MO",Missouri,MO
+1889,Norwalk,United States,41.0937079,-73.4187303,"South Norwalk, CT",Connecticut,CT
+1890,Suwannee,United States,30.3891098,-82.9565212,"Suwannee, FL",Florida,FL
+1891,Saint-Raymond,Canada,46.889058,-71.835136,"Saint-Raymond, QC",Quebec,QC
+1892,Melbourne,Australia,-37.9064862,144.7533059,Point Cook,Victoria,VIC
+1893,Mint Hill,United States,35.1735388,-80.6570377,"Mint Hill, NC",North Carolina,NC
+1894,Ardrossan,United Kingdom,55.6400504,-4.8148569,"Ardrossan, Scotland, Scotland",Scotland,SCT
+1895,Saanich,Canada,48.4594315,-123.3764946,"Saanich, BC",British Columbia,BC
+1896,Monte Vista,United States,37.5816182,-106.1496731,"Monte Vista, CO",Colorado,CO
+1897,Austintown,United States,41.1017247,-80.7645239,"Austintown, OH",Ohio,OH
+1898,Chesapeake Beach,United States,38.6941057,-76.533788,"Chesapeake Beach, MD",Maryland,MD
+1899,Briton Ferry,United Kingdom,51.6381644,-3.8199507,"Briton Ferry, Wales, Wales",Wales,WLS
+1900,Osaka,United States,36.9470402,-82.8107165,"Osaka, VA",Virginia,VA
+1901,Saint Thomas,United States,38.7619287,-90.1170812,"Saint Thomas, IL",Illinois,IL
+1902,Melissa,United States,33.2862455,-96.5722411,"Melissa, TX",Texas,TX
+1903,Saint Marys,United States,41.4280432,-78.5611275,"Saint Marys, PA",Pennsylvania,PA
+1904,Anchor Point,United States,59.7766667,-151.8313889,"Anchor Point, AK",Alaska,AK
+1905,Wales,United Kingdom,53.34061,-1.28162,"Aber, Wales, Wales",England,ENG
+1906,Chatham,United Kingdom,51.3391322,0.5261269,"Walderslade, England, England",England,ENG
+1907,Itajaí,Brazil,-26.9046787,-48.6552979,"Itajaí, Santa Catarina, Santa Catarina",Santa Catarina,SC
+1908,Wallis,United States,29.6313486,-96.0652362,"Wallis, TX",Texas,TX
+1909,Ottery St Mary,United Kingdom,50.75,-3.26667,"Ottery Saint Mary, England, England",England,ENG
+1910,Grantham,United States,43.489794,-72.137604,"Grantham, NH",New Hampshire,NH
+1911,Salem,India,11.6586631,78.1818277,"Salem, IN",Tamil Nadu,TN
+1912,Ciudad Victoria,Mexico,23.7389846,-99.1441352,"Braeside, Victoria, Victoria",Tamaulipas,TAM
+1913,Mitchel Troy,United Kingdom,51.785142199999996,-2.7382941405076293,"Mitchel Troy, Wales, Wales",Wales,WLS
+1914,Orléans,France,47.9004824,1.9034638,"Hatte, Centre, Centre",Centre-Val de Loire,CVL
+1915,St Helens,United Kingdom,53.445127,-2.735099,"Saint Helens, South East England, England, England",England,ENG
+1916,Sand Springs,United States,35.4717587,-103.2831404,"Sand Springs, MO",New Mexico,NM
+1917,Warsaw Landing,United States,30.38492,-90.55342,"Warsaw Landing, Livingston, LA, Optional[LA]",Louisiana,LA
+1918,Waikoloa Village,United States,19.94256305,-155.78649035477218,"Waikoloa Village, HI",Hawaii,HI
+1919,Ciudad Victoria,Mexico,23.743943,-99.146791,"Clyde, Victoria, Victoria",Tamaulipas,TAM
+1920,Bourne,United States,41.770106,-70.5283621,"Sagamore, MA",Massachusetts,MA
+1921,Louisa,United States,38.1144867,-82.6030988,"Louisa, KY",Kentucky,KY
+1922,Kinsale,United States,38.0295744,-76.580789,Kinsale,Virginia,VA
+1923,Stone,United Kingdom,51.451416,0.263443,"Stone, Kent, South East England, England, England",England,ENG
+1924,Auburn,United States,47.2851691,-122.2263219,"Stuck, WA",Washington,WA
+1925,Belfast,United Kingdom,54.603533,-5.928807,"Belfast County Borough, Northern Ireland, Northern Ireland",Northern Ireland,NIR
+1926,Santa Cruz de la Sierra,Bolivia,-17.6594809,-63.13846624460784,Viru Viru International Airport,Santa Cruz,S
+1927,Newcastle-Maitland,Australia,-32.8316623,151.6844404,"Hexham, New South Wales, New South Wales",New South Wales,NSW
+1928,San Jose,Ecuador,-3.2360091,-79.2467796,"San Jose, AZ",Azuay,A
+1929,Graham,United States,47.0395996,-122.2785729,"Graham, WA",Washington,WA
+1930,San Anselmo,United States,37.9744323,-122.561503,"San Anselmo, CA",California,CA
+1931,Lower Moreland Township,United States,40.1226101,-75.0635049,"Huntingdon Valley, PA",Pennsylvania,PA
+1932,Tikri,India,32.5939195,76.2208807,Māntri,Himachal Pradesh,HP
+1933,Rib Mountain,United States,44.9112334,-89.6558452,"Rib Mountain, WI",Wisconsin,WI
+1934,Ward,United States,35.0303648,-91.950421,"Ward, AR",Arkansas,AR
+1935,Enumclaw,United States,47.2047793,-121.9916371,"Enumclaw, WA",Washington,WA
+1936,Anamosa,United States,42.1083371,-91.2851594,"Anamosa, IA",Iowa,IA
+1937,Treorchy,United Kingdom,51.6574072,-3.5060614,"Treorchy, Wales, Wales",Wales,WLS
+1938,Wadsworth,United States,41.0256101,-81.7298519,"Wadsworth, OH",Ohio,OH
+1939,Tondu,United Kingdom,51.5474663,-3.5951442,"Tondu, Wales, Wales",Wales,WLS
+1940,Wynantskill,United States,42.6967455,-73.644284,"Wynantskill, NY",New York,NY
+1941,Sans Souci,United States,34.8778952,-82.4240114,"Sans Souci, SC",South Carolina,SC
+1942,Waggaman,United States,29.9185388,-90.2109093,"Waggaman, LA",Louisiana,LA
+1943,Sambalpur,India,21.4705391,83.9761511,"Sambalpur, Orissa, Orissa",Odisha,OR
+1944,Mount Washington,United States,38.0500627,-85.5457877,"Mount Washington, KY",Kentucky,KY
+1945,Centralia,United States,39.2103186,-92.1379539,"Centralia, MO",Missouri,MO
+1946,Pwllheli,United Kingdom,52.89173795,-4.417801956289264,"Pwllheli, Wales, Wales",Wales,WLS
+1947,Betws,United Kingdom,51.7869872,-3.9853446429912696,"Saint David's, Wales, Wales",Wales,WLS
+1948,Montclair,United States,34.0775104,-117.6897776,"Montclair, CA",California,CA
+1949,Saint-Pierre-d'Alvey,France,45.6302499,5.7408303,Saint-Pierre-d'Alvey,Auvergne-Rhône-Alpes,ARA
+1950,Waskom,United States,32.4787645,-94.0596305,"Waskom, TX",Texas,TX
+1951,Stewartby,United Kingdom,52.0679197,-0.5096445,"Stewartby, England, England",England,ENG
+1952,Isanti,United States,45.4902335,-93.2477046,"Isanti, MN",Minnesota,MN
+1953,Indiantown,United States,27.0273407,-80.4820908,"Indiantown, FL",Florida,FL
+1954,Alsisar,India,28.3060753,75.2879644,Alsīsar,Rajasthan,RJ
+1955,Saint-Georges,Canada,46.122987,-70.671959,"Saint-Georges, QC",Quebec,QC
+1956,Scenic Rim Regional,Australia,-28.2333255,153.0700386821306,"Darlington, Queensland, Queensland",Queensland,QLD
+1957,Delmont,United States,40.4131233,-79.5703201,"Delmont, PA",Pennsylvania,PA
+1958,Melbourne,Australia,-38.1545829,145.1973931,Langwarrin,Victoria,VIC
