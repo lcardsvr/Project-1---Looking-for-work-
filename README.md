@@ -377,7 +377,7 @@ All the information acquired can support people who want to change their current
 
 1. Submitted and available in GitHub under https://github.com/lcardsvr/Project-1---Looking-for-work-
 
-2. Presentation noteboon available under https://github.com/lcardsvr/Project-1---Looking-for-work-/blob/main/Looking_for_Work_presentation.ipynb
+2. Presentation notebook available under https://github.com/lcardsvr/Project-1---Looking-for-work-/blob/main/Looking_for_Work_presentation.ipynb
 
 3. Scratch pad with more calculations, further summaries and datasets including the The Australian Skills Classification (ASC) information available under https://github.com/lcardsvr/Project-1---Looking-for-work-/blob/main/Looking_for_Work.ipynb
 
