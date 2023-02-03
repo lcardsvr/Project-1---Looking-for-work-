@@ -7,7 +7,9 @@ Help people finding a potential employer based on their situation
 
 ❑ Where to Start? 
 ❑ What are we looking for? 
-❑ Where do we find the data? The Beginning… 
+❑ Where do we find the data?
+
+The Beginning 
 
 From the National Skills Commission of the Australian Government (Data from the Australian Bureau of Statistics), determine the required occupation titles, which have the skills that are in shortage and their national future demand rating. 
 
@@ -16,9 +18,13 @@ On the other hand, find Data for our ‘starting point’ to analyse the informa
 ### Some Questions of Interest:
 
 • What are the most in demand jobs of today? 
+
 • What are the in-demand jobs of the future? 
-• Which companies are the best to land for an in-demand job, based on reputation/reviews? 
+
+• Which companies are the best to land for an in-demand job, based on reputation/reviews?
+
 • If I found myself unemployed, in which area is of high shortage where could I land on my feet? 
+
 • Will my role be relevant in the next 10 years?
 
 
@@ -86,7 +92,9 @@ Within each major group, the sub-major groups are ordered firstly by skill level
 ![image](/Output_data/Current_National_Labour_Market_Rating.png)
 
 NS	628	68.71%
+
 S	278	30.42%
+
 R	8	0.88%
 
 ### National Future Demand Rating
@@ -94,7 +102,9 @@ R	8	0.88%
 ![image](/Output_data/National_Future_Demand_Rating.png)
 
 Moderate	572	62.58%
+
 Strong	234	25.60%
+
 Soft	108	11.82%
 
 ### IVI Evolution over time per state
@@ -104,12 +114,19 @@ Soft	108	11.82%
 IVI Values for Decemeber 2022
 
 NSW	159,935	31%
+
 VIC	137,086	26%
+
 QLD	108,867	21%
+
 WA	58,102	11%
+
 SA	26,848	5%
+
 ACT	14,591	3%
+
 TAS	6,839	1%
+
 NT	5,476	1%
 
 ### Highest IVI per Occupation Australia 
@@ -117,14 +134,23 @@ NT	5,476	1%
 ![image](/Output_data/IVI_Evolution_over_time_Australia.png)
 
 Registered Nurses									124,516	41%
+
 Software and Applications Programmers				35,875	12%
+
 Retail Managers										24,792	8%
+
 Metal Fitters and Machinists						20,514	7%
+
 Child Carers										18,400	6%
+
 Motor Mechanics										17,116	6%
+
 Truck Drivers										16,735	5%
+
 Advertising and Sales Managers						16,446	5%
+
 Civil Engineering Professionals						15,205	5%
+
 Architectural, Building and Surveying Technicians	14,763	5%
 
 ### Highest IVI filtered by Occupations in Shortage and High Future Demand in Australia 
@@ -133,14 +159,23 @@ Architectural, Building and Surveying Technicians	14,763	5%
 
 
 Registered Nurses									124,516	64%
+
 Software and Applications Programmers				35,875	19%
+
 Electricians										6,360	3%
+
 Contract, Program and Project Administrators		5,352	3%
+
 Aged and Disabled Carers							5,162	3%
+
 Child Carers										4,600	2%
+
 ICT Business and Systems Analysts					3,481	2%
+
 Civil Engineering Professionals						3,041	2%
+
 Welfare Support Workers								2,756	1%
+
 Early Childhood (Pre-primary School) Teachers		2,542	1%
 
 
@@ -164,7 +199,7 @@ Some of the most relevant results are presented below. More linear regressions a
 ![image](/Output_data/Registered_Nurses.png)
 
 The r-value is: 0.8610881233271541
-90.2 Months required to double the demand
+
 7.5 Years required to double the demand. Registered Nurses demand will be 263690.0
 
 ### Aged and Disabled Carers projection
@@ -172,7 +207,7 @@ The r-value is: 0.8610881233271541
 ![image](/Output_data/Registered_Nurses.png)
 
 The r-value is: 0.929867675405898
-80.6 Months required to double the demand
+
 6.7 Years required to double the demand. Aged and Disabled Carers Demand demand will be 10302.0
 
 ### Child Carers projection
@@ -180,7 +215,7 @@ The r-value is: 0.929867675405898
 ![image](/Output_data/Child%20Carers%20projection.png)
 
 The r-value is: 0.9624984241675042
-73.2 Months required to double the demand
+
 6.1 Years required to double the demand. Child Carers demand will be 9743.0
 
 
@@ -229,37 +264,66 @@ After 2 rounds of filtering the below coordinates were obtained.
 
 The resulting number of ads per industry is below:
 
-![image](/Output_data/Seek_Data_Filtered.png)
+![image](/Output_data/Number_Seek_ads_per_Industry.png)
 
 Trades & Services                         3,248
+
 Information & Communication Technology    2,595
+
 Healthcare & Medical                      2,255
+
 Manufacturing, Transport & Logistics      2,167
+
 Administration & Office Support           1,693
+
 Accounting                                1,595
+
 Sales                                     1,435
+
 Hospitality & Tourism                     1,418
+
 Construction                              1,270
+
 Education & Training                      1,168
+
 Government & Defence                      1,143
+
 Retail & Consumer Products                 942
+
 Community Services & Development           876
+
 Engineering                                819
+
 Mining, Resources & Energy                 815
+
 Call Centre & Customer Service             706
+
 Banking & Financial Services               693
+
 Marketing & Communications                 679
+
 Human Resources & Recruitment              674
+
 Real Estate & Property                     579
+
 Legal                                      579
+
 Design & Architecture                      289
+
 Insurance & Superannuation                 254
+
 Advertising, Arts & Media                  160
+
 Consulting & Strategy                      155
+
 Science & Technology                       138
+
 Sport & Recreation                         134
+
 Farming, Animals & Conservation            100
+
 CEO & General Management                    86
+
 Self Employment                             15
 
 
@@ -285,7 +349,7 @@ What are the most in demand jobs for the future?
 
 What are the best companies to work for based on reviews/salaries?
 
-	• Based on the data available, we have concluded that there is not enough evidence available to suggest a top 10 for best reviewed companies.
+Based on the data available, we have concluded that there is not enough evidence available to suggest a top 10 for best reviewed companies.
 
 So if I was looking for work, what role should I get? 
 
